@@ -102,47 +102,14 @@ class _MyApp2State extends State<MyApp2> {
     ConferenceDay _conferenceDay,
   ) {
     print("conferenceDayWidget");
-    var widgets = <Widget>[];
-    for (var _sessionGroup in _conferenceDay.sessionsGroups) {
-      widgets.add(
-        sessionGroupWidget(_context, _sessionGroup),
-      );
-      widgets.add(Divider(
-        color: Colors.black.withOpacity(0.5),
-      ));
-    }
-
     return ListView.builder(
       itemCount: _conferenceDay.sessionsGroups.length,
-      itemBuilder: (context,index){
-        return sessionGroupWidget(_context, _conferenceDay.sessionsGroups[index]);
+      itemBuilder: (context, index) {
+        return sessionGroupWidget(
+            _context, _conferenceDay.sessionsGroups[index]);
       },
     );
   }
-
-  // Widget conferenceDayWidget(
-  //   BuildContext _context,
-  //   ConferenceDay _conferenceDay,
-  // ) {
-  //   var widgets = <Widget>[];
-  //   for (var _sessionGroup in _conferenceDay.sessionsGroups) {
-  //     widgets.add(
-  //       sessionGroupWidget(_context, _sessionGroup),
-  //     );
-  //     widgets.add(Divider(
-  //       color: Colors.black.withOpacity(0.5),
-  //     ));
-  //   }
-
-  //   return SingleChildScrollView(
-  //     child: Padding(
-  //       padding: const EdgeInsets.all(8.0),
-  //       child: Column(
-  //         children: widgets,
-  //       ),
-  //     ),
-  //   );
-  // }
 
   Widget sessionGroupWidget(
     BuildContext _context,
@@ -227,34 +194,11 @@ class _MyApp2State extends State<MyApp2> {
     );
   }
 
-  // Widget xxx0(Session _session) {
-  //   var str =
-  //       _session.learningPath.length > 0 ? _session.learningPath : "keynote";
-
-  //   return ClipRect(
-  //     child: Container(
-  //       color: color(str),
-  //       child: Padding(
-  //         padding: const EdgeInsets.all(8.0),
-  //         child: Text(str,
-  //             style: TextStyle(
-  //               fontSize: 10,
-  //               color: Colors.black.withOpacity(0.8),
-  //             )),
-  //       ),
-  //     ),
-  //   );
-  // }
-
   Widget xxx1(Session _session) {
     var str =
         _session.learningPath.length > 0 ? _session.learningPath : "keynote";
     Widget _widget;
     _widget = Chip(
-      // onDeleted: () {
-      //   _filtters.add(_widget);
-      //   setState(() {});
-      // },
       deleteIconColor: Colors.black.withOpacity(0.45),
       backgroundColor: color1(str),
       labelStyle: TextStyle(
@@ -288,23 +232,6 @@ class _MyApp2State extends State<MyApp2> {
       ),
     );
   }
-
-  // Widget xxx3(Session _session) {
-  //   var str = _session.durationInMinutes > 0
-  //       ? _session.durationInMinutes.toString()
-  //       : "⏳";
-
-  //   return Chip(
-  //     backgroundColor: color(str),
-  //     labelStyle: TextStyle(
-  //       fontSize: 10,
-  //       color: Colors.black.withOpacity(0.8),
-  //     ),
-  //     label: Text(
-  //       str,
-  //     ),
-  //   );
-  // }
 
   var _assgindColors1 = <String, Color>{};
   Color color1(String str) {
