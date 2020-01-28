@@ -97,161 +97,27 @@ class _MyApp2State extends State<MyApp2> {
     );
   }
 
+  Map<int, Widget> _widgets;
+
   Widget conferenceDayWidget(
     BuildContext _context,
     ConferenceDay _conferenceDay,
   ) {
     print("conferenceDayWidget");
+    _widgets = <int, Widget>{};
     return ListView.builder(
       itemCount: _conferenceDay.sessionsGroups.length,
       itemBuilder: (context, index) {
-        return sessionGroupWidget(
-            _context, _conferenceDay.sessionsGroups[index]);
+        print(_widgets.keys.join(","));
+        if (_widgets[index] == null) {
+          _widgets[index] = SessionGroupWidget(
+            sessionGroup: _conferenceDay.sessionsGroups[index],
+          );
+        }
+        return _widgets[index];
       },
     );
   }
-
-  Widget sessionGroupWidget(
-    BuildContext _context,
-    SessionGroup _sessionGroup,
-  ) {
-    print("sessionGroupWidget");
-    return Padding(
-      padding: const EdgeInsets.all(8.0),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: <Widget>[
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 10.0),
-            child: Text(
-              _sessionGroup.dateStr,
-              style: TextStyle(
-                color: Colors.black.withOpacity(0.8),
-                height: 1.5,
-              ),
-            ),
-          ),
-          Flexible(
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: sesstionsWidget(context, _sessionGroup.sessions),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  List<Widget> sesstionsWidget(BuildContext context, List<Session> _sessions) {
-    var widgets = <Widget>[];
-    for (var _session in _sessions) {
-      widgets.add(
-        sesstionWidget(context, _session),
-      );
-    }
-    return widgets;
-  }
-
-  Widget sesstionWidget(BuildContext context, Session _session) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 20.0),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: <Widget>[
-          Text(
-            _session.title,
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              height: 1.5,
-            ),
-          ),
-          Text(
-            _session.speakerNames.join(),
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              height: 1.5,
-            ),
-          ),
-          Text(
-            _session.speakerCompanies.join(),
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              height: 1.5,
-            ),
-          ),
-          Table(
-            children: <TableRow>[
-              TableRow(
-                children: <Widget>[
-                  Align(alignment: Alignment.centerLeft, child: xxx2(_session)),
-                  Align(alignment: Alignment.centerLeft, child: xxx1(_session)),
-                ],
-              ),
-            ],
-          ),
-        ],
-      ),
-    );
-  }
-
-  Widget xxx1(Session _session) {
-    var str =
-        _session.learningPath.length > 0 ? _session.learningPath : "keynote";
-    Widget _widget;
-    _widget = Chip(
-      deleteIconColor: Colors.black.withOpacity(0.45),
-      backgroundColor: color1(str),
-      labelStyle: TextStyle(
-        fontSize: 10,
-        color: Colors.black.withOpacity(0.8),
-      ),
-      label: Text(
-        str,
-      ),
-    );
-    return _widget;
-  }
-
-  Widget xxx2(Session _session) {
-    var str =
-        _session.siblingModules != null && _session.siblingModules.length > 0
-            ? _session.siblingModules?.first?.location
-            : "main hall";
-    return Chip(
-      avatar: Icon(
-        Icons.location_on,
-        color: Colors.black.withOpacity(0.45),
-      ),
-      backgroundColor: color2(str),
-      labelStyle: TextStyle(
-        fontSize: 10,
-        color: Colors.black.withOpacity(0.8),
-      ),
-      label: Text(
-        str,
-      ),
-    );
-  }
-
-  var _assgindColors1 = <String, Color>{};
-  Color color1(String str) {
-    if (_assgindColors1[str] == null) {
-      _assgindColors1[str] =
-          Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
-              .withOpacity(0.3);
-    }
-    return _assgindColors1[str];
-  }
-}
-
-var _assgindColors2 = <String, Color>{};
-Color color2(String str) {
-  if (_assgindColors2[str] == null) {
-    _assgindColors2[str] =
-        Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
-            .withOpacity(0.3);
-  }
-  return _assgindColors2[str];
 }
 
 class SesstionFilterEntry {
@@ -320,4 +186,157 @@ class CastFilterState extends State<CastFilter> {
       ),
     );
   }
+}
+
+class SessionGroupWidget extends StatelessWidget {
+  SessionGroupWidget({this.sessionGroup});
+
+  final SessionGroup sessionGroup;
+  @override
+  Widget build(BuildContext context) {
+    print(
+        "xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1");
+
+    return Padding(
+      padding: const EdgeInsets.all(8.0),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: <Widget>[
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 10.0),
+            child: Text(
+              sessionGroup.dateStr,
+              style: TextStyle(
+                color: Colors.black.withOpacity(0.8),
+                height: 1.5,
+              ),
+            ),
+          ),
+          Flexible(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: sesstionsWidget(context, sessionGroup.sessions),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  List<Widget> sesstionsWidget(BuildContext context, List<Session> _sessions) {
+    var widgets = <Widget>[];
+    for (var _session in _sessions) {
+      widgets.add(
+        sesstionWidget(context, _session),
+      );
+    }
+    return widgets;
+  }
+
+  Widget sesstionWidget(BuildContext context, Session _session) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 20.0),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: <Widget>[
+          Text(
+            _session.title,
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              height: 1.5,
+            ),
+          ),
+          Text(
+            _session.speakerNames.join(),
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              height: 1.5,
+            ),
+          ),
+          Text(
+            _session.speakerCompanies.join(),
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              height: 1.5,
+            ),
+          ),
+          xxx1(_session),
+          xxx2(_session),
+        ],
+      ),
+    );
+  }
+
+  Widget xxx1(Session _session) {
+    var str =
+        _session.learningPath.length > 0 ? _session.learningPath : "keynote";
+
+    return Text(str);
+  }
+
+  Widget xxx2(Session _session) {
+    var str =
+        _session.siblingModules != null && _session.siblingModules.length > 0
+            ? _session.siblingModules?.first?.location
+            : "main hall";
+    return Text(str);
+  }
+  // Widget xxx1(Session _session) {
+  //   var str =
+  //       _session.learningPath.length > 0 ? _session.learningPath : "keynote";
+  //   Widget _widget;
+  //   _widget = Chip(
+  //     deleteIconColor: Colors.black.withOpacity(0.45),
+  //     backgroundColor: color1(str),
+  //     labelStyle: TextStyle(
+  //       fontSize: 10,
+  //       color: Colors.black.withOpacity(0.8),
+  //     ),
+  //     label: Text(
+  //       str,
+  //     ),
+  //   );
+  //   return _widget;
+  // }
+
+  // Widget xxx2(Session _session) {
+  //   var str =
+  //       _session.siblingModules != null && _session.siblingModules.length > 0
+  //           ? _session.siblingModules?.first?.location
+  //           : "main hall";
+  //   return Chip(
+  //     avatar: Icon(
+  //       Icons.location_on,
+  //       color: Colors.black.withOpacity(0.45),
+  //     ),
+  //     backgroundColor: color2(str),
+  //     labelStyle: TextStyle(
+  //       fontSize: 10,
+  //       color: Colors.black.withOpacity(0.8),
+  //     ),
+  //     label: Text(
+  //       str,
+  //     ),
+  //   );
+  // }
+}
+
+var _assgindColors1 = <String, Color>{};
+Color color1(String str) {
+  if (_assgindColors1[str] == null) {
+    _assgindColors1[str] =
+        Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
+            .withOpacity(0.3);
+  }
+  return _assgindColors1[str];
+}
+
+var _assgindColors2 = <String, Color>{};
+Color color2(String str) {
+  if (_assgindColors2[str] == null) {
+    _assgindColors2[str] =
+        Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
+            .withOpacity(0.3);
+  }
+  return _assgindColors2[str];
 }
