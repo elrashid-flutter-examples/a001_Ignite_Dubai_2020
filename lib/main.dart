@@ -15,24 +15,18 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: MyApp2(),
+      home: Day01lWidget(),
     );
   }
 }
 
-class MyApp2 extends StatefulWidget {
+class Day01lWidget extends StatefulWidget {
   @override
-  _MyApp2State createState() => _MyApp2State();
+  _Day01lWidgetState createState() => _Day01lWidgetState();
 }
 
-class _MyApp2State extends State<MyApp2> {
+class _Day01lWidgetState extends State<Day01lWidget> {
   ConferenceDay _day01;
-  @override
-  Widget build(BuildContext context) {
-    _day01 = getConferenceDay01(_filters);
-
-    return buildScaffold(context, _day01);
-  }
 
   refresh() {
     _day01 = getConferenceDay01(_filters);
@@ -40,19 +34,28 @@ class _MyApp2State extends State<MyApp2> {
     setState(() {});
   }
 
+  @override
+  Widget build(BuildContext context) {
+    _day01 = getConferenceDay01(_filters);
+    return buildScaffold(context, _day01);
+  }
+
   Scaffold buildScaffold(BuildContext context, ConferenceDay _day01) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Ignite"),
       ),
-      body: filterWidget(context, _day01),
+      body: conferenceDayWidget(context, _day01),
       floatingActionButton: _floatingActionButtonWidget(context),
     );
   }
 
   List<SesstionFilterEntry> _getFilters() {
     List<SesstionFilterEntry> _filters = List();
-    _assgindColors1.forEach((k, v) => _filters.add(SesstionFilterEntry(k, v)));
+    if (_assgindColors[_learningPathKey] != null) {
+      _assgindColors[_learningPathKey]
+          .forEach((k, v) => _filters.add(SesstionFilterEntry(k, v)));
+    }
 
     return _filters;
   }
@@ -69,7 +72,7 @@ class _MyApp2State extends State<MyApp2> {
               // return Container(
               //   color: Colors.red,
               // );
-              return CastFilter(
+              return SesstionFilterWidget(
                 filters: _getFilters(),
                 notifyParent: refresh,
               );
@@ -80,20 +83,6 @@ class _MyApp2State extends State<MyApp2> {
           Icons.filter_list,
         ),
       ),
-    );
-  }
-
-  Widget filterWidget(
-    BuildContext _context,
-    ConferenceDay _conferenceDay,
-  ) {
-    return Column(
-      children: <Widget>[
-        Wrap(
-          children: <Widget>[],
-        ),
-        Expanded(child: conferenceDayWidget(_context, _conferenceDay)),
-      ],
     );
   }
 
@@ -120,25 +109,25 @@ class _MyApp2State extends State<MyApp2> {
   }
 }
 
+List<String> _filters = <String>[];
+
 class SesstionFilterEntry {
   const SesstionFilterEntry(this.name, this.color);
   final String name;
   final Color color;
 }
 
-class CastFilter extends StatefulWidget {
+class SesstionFilterWidget extends StatefulWidget {
   @override
-  State createState() => CastFilterState();
+  _SesstionFilterWidgetState createState() => _SesstionFilterWidgetState();
   final Function() notifyParent;
 
   final List<SesstionFilterEntry> filters;
-  CastFilter({Key key, @required this.filters, this.notifyParent})
+  SesstionFilterWidget({Key key, @required this.filters, this.notifyParent})
       : super(key: key);
 }
 
-List<String> _filters = <String>[];
-
-class CastFilterState extends State<CastFilter> {
+class _SesstionFilterWidgetState extends State<SesstionFilterWidget> {
   Iterable<Widget> get filterWidgets sync* {
     for (SesstionFilterEntry filter in widget.filters) {
       yield Padding(
@@ -194,9 +183,6 @@ class SessionGroupWidget extends StatelessWidget {
   final SessionGroup sessionGroup;
   @override
   Widget build(BuildContext context) {
-    print(
-        "xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1xxx1");
-
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: Row(
@@ -227,116 +213,161 @@ class SessionGroupWidget extends StatelessWidget {
     var widgets = <Widget>[];
     for (var _session in _sessions) {
       widgets.add(
-        sesstionWidget(context, _session),
+        SesstionWidget(_session),
       );
     }
     return widgets;
   }
+}
 
-  Widget sesstionWidget(BuildContext context, Session _session) {
+class SesstionWidget extends StatelessWidget {
+  final Session session;
+
+  SesstionWidget(this.session);
+
+  @override
+  Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.only(bottom: 20.0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Text(
-            _session.title,
+            session.title,
             style: TextStyle(
               fontWeight: FontWeight.bold,
               height: 1.5,
             ),
           ),
           Text(
-            _session.speakerNames.join(),
+            session.speakerNames.join(),
             style: TextStyle(
               fontWeight: FontWeight.bold,
               height: 1.5,
             ),
           ),
           Text(
-            _session.speakerCompanies.join(),
+            session.speakerCompanies.join(),
             style: TextStyle(
               fontWeight: FontWeight.bold,
               height: 1.5,
             ),
           ),
-          xxx1(_session),
-          xxx2(_session),
+          LearningPathWidget(session),
+          LocationWidget(session),
         ],
       ),
     );
   }
+}
 
-  Widget xxx1(Session _session) {
+var _learningPathKey = "LearningPath";
+
+class LearningPathWidget extends StatelessWidget {
+  final Session session;
+
+  LearningPathWidget(this.session);
+
+  @override
+  Widget build(BuildContext context) {
     var str =
-        _session.learningPath.length > 0 ? _session.learningPath : "keynote";
-
-    return Text(str);
+        session.learningPath.length > 0 ? session.learningPath : "keynote";
+    Widget _widget;
+    _widget = Container(
+      decoration: new BoxDecoration(
+        color: getRandomColor(_learningPathKey, str),
+        borderRadius: new BorderRadius.all(
+          const Radius.circular(40.0),
+        ),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: <Widget>[
+            Icon(
+              Icons.verified_user,
+              size: 10,
+            ),
+            Flexible(
+              child: Text(
+                str,
+                style: TextStyle(
+                  fontSize: 12,
+                  color: Colors.black.withOpacity(0.6),
+                  fontWeight: FontWeight.bold,
+                ),
+                textWidthBasis: TextWidthBasis.longestLine,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+    return _widget;
   }
+}
 
-  Widget xxx2(Session _session) {
+class LocationWidget extends StatelessWidget {
+  final Session session;
+
+  LocationWidget(this.session);
+
+  @override
+  Widget build(BuildContext context) {
     var str =
-        _session.siblingModules != null && _session.siblingModules.length > 0
-            ? _session.siblingModules?.first?.location
+        session.siblingModules != null && session.siblingModules.length > 0
+            ? session.siblingModules?.first?.location
             : "main hall";
-    return Text(str);
-  }
-  // Widget xxx1(Session _session) {
-  //   var str =
-  //       _session.learningPath.length > 0 ? _session.learningPath : "keynote";
-  //   Widget _widget;
-  //   _widget = Chip(
-  //     deleteIconColor: Colors.black.withOpacity(0.45),
-  //     backgroundColor: color1(str),
-  //     labelStyle: TextStyle(
-  //       fontSize: 10,
-  //       color: Colors.black.withOpacity(0.8),
-  //     ),
-  //     label: Text(
-  //       str,
-  //     ),
-  //   );
-  //   return _widget;
-  // }
 
-  // Widget xxx2(Session _session) {
-  //   var str =
-  //       _session.siblingModules != null && _session.siblingModules.length > 0
-  //           ? _session.siblingModules?.first?.location
-  //           : "main hall";
-  //   return Chip(
-  //     avatar: Icon(
-  //       Icons.location_on,
-  //       color: Colors.black.withOpacity(0.45),
-  //     ),
-  //     backgroundColor: color2(str),
-  //     labelStyle: TextStyle(
-  //       fontSize: 10,
-  //       color: Colors.black.withOpacity(0.8),
-  //     ),
-  //     label: Text(
-  //       str,
-  //     ),
-  //   );
-  // }
+    Widget _widget;
+
+    _widget = Container(
+      decoration: new BoxDecoration(
+        color: getRandomColor("Location", str),
+        borderRadius: new BorderRadius.all(
+          const Radius.circular(40.0),
+        ),
+      ),
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: <Widget>[
+            Icon(
+              Icons.location_on,
+              size: 12,
+            ),
+            Flexible(
+              child: Text(
+                str,
+                style: TextStyle(
+                  fontSize: 12,
+                  color: Colors.black.withOpacity(0.6),
+                  fontWeight: FontWeight.bold,
+                ),
+                textWidthBasis: TextWidthBasis.longestLine,
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+    return _widget;
+  }
 }
 
-var _assgindColors1 = <String, Color>{};
-Color color1(String str) {
-  if (_assgindColors1[str] == null) {
-    _assgindColors1[str] =
+Map<String, Map<String, Color>> _assgindColors = <String, Map<String, Color>>{};
+Color getRandomColor(String group, String key) {
+  if (_assgindColors[group] == null) _assgindColors[group] = {};
+  if (_assgindColors[group][key] == null) {
+    _assgindColors[group][key] =
         Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
             .withOpacity(0.3);
   }
-  return _assgindColors1[str];
-}
-
-var _assgindColors2 = <String, Color>{};
-Color color2(String str) {
-  if (_assgindColors2[str] == null) {
-    _assgindColors2[str] =
-        Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
-            .withOpacity(0.3);
-  }
-  return _assgindColors2[str];
+  return _assgindColors[group][key];
 }
