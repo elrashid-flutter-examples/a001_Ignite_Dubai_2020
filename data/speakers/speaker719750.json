@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "719750",
+ "attendeeId": "1e330cf9-878d-4282-9e58-faf0b2872590",
+ "firstName": "David",
+ "lastName": "Maskell",
+ "displayName": "David Maskell",
+ "jobTitle": "Manager",
+ "company": "Microsoft",
+ "bio": "David Maskell has been in the IT Security field for over 20 years, having had various experiences with nearly all security has to offer including 13 years in a Microsoft Security partners and 8 years in Microsoft in the security field. He is now part of an global team of experts in the security field and is Dubai based. He holds various industry standard certifications including CISM, CISA, CISSP, CCSK and others.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555766/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86548",
+  "92251"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "David Maskell",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

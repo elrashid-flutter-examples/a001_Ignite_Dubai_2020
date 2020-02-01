@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "698253",
+ "attendeeId": "21e3f1dd-1092-46f6-a4ec-88cc93cbd113",
+ "firstName": "Ahmed",
+ "lastName": "Nabil Mahmoud",
+ "displayName": "Ahmed Nabil Mahmoud",
+ "jobTitle": "Chief Architect",
+ "company": "Personal",
+ "bio": "Ahmed Nabil has more than 17 years of experience in the field of Information Technology/Systems, Infrastructure, Project Management, Information Security, Application development/Automation, IT management and holds several professional IT certifications from Microsoft, CISCO, ISACA, ISC2, PMI, CWNP, PECB and EC- Council. Ahmed is an industry expert in Information Security and Digital Transformation, public speaker at several international conferences (Microsoft Ignite the Tour, ITCamp Cluj, CISO Africa Summit, Egypt CSCAMP, SharePoint Saturdays, CloudWeekend…..etc.) and author of several articles published in different international security magazines. \r\n\r\nAhmed Nabil graduated in 2000 with a BS in Electrical and Control Engineering. He completed his graduate education and earned MSc in Business Information Technology from School of Computer Science, Middlesex University, UK in 2007 and Master of Business Administration (MBA) from International Business School of Scandinavia in 2016. \r\n\r\nAhmed is currently the Global Chief Architect at one of the top Oil and Gas companies in the world. \r\n\r\nAhmed was awarded the Microsoft Most Valuable Professional Award in Enterprise security/Cloud and Data Center Management for 7 years in row from 2013 to 2020 for his exceptional knowledge sharing and community leadership in Egypt and Middle East Region.\r\n\r\nAhmed recently received the MESA CISO 100 Award from the MESA conference held in Dubai for the top CISO executives in the Middle East and was finalist in EC-COUNCIL CISO awards 2018 (Atlanta, US)\r\n\r\nAhmed was recently (Feb 2019) selected as a member of the EC-Council CCISO advisory board due to his Industry standing and deep experience.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4511509/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92321",
+  "92322",
+  "92323"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Ahmed Nabil Mahmoud",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

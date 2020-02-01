@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "717841",
+ "attendeeId": "3c9fa019-c857-4440-8c14-b943e2cef305",
+ "firstName": "Subha",
+ "lastName": "Bhattacharyay",
+ "displayName": "Subha Bhattacharyay",
+ "jobTitle": "Principal Group Program Manager",
+ "company": "Microsoft Corporation",
+ "bio": "Principal Group Program Manager for Identity CXP team to drive the Customer Experience with Support and Incident Communications.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4552693/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86549"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Subha Bhattacharyay",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

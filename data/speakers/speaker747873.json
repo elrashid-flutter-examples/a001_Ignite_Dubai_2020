@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "747873",
+ "attendeeId": "3059ce61-e3b6-46b3-a4d5-d643952b9b0c",
+ "firstName": "Alexander",
+ "lastName": "Ermakov",
+ "displayName": "Alexander Ermakov",
+ "jobTitle": "Managing Partner",
+ "company": "Awara IT",
+ "bio": "Microsoft Regional Director in Russia, Microsoft MVP in Business Applications and Azure, inspiring speaker, MCT, MCSE, MCSA, MOMS, MCP, MBA, Certified Auditor, Partner at Awara IT, beloved husband, father of two and just a good guy.\r\n\r\nAlexander has over 25 years of experience working with IT, last 14 were tightly dedicated to Microsoft technologies in Business Applications. He had sold his heart to Dynamics NAV (now Dynamics 365 Business Central - besides he does sometimes Dynamics 365 F&O projects), and for many years in a raw evangelizes Dynamics platform inside Russia and across the board - with a focus on Russian localization and compliance with local legislation requirements.\r\n\r\nSince 2006, he works for one on the most efficient and competitive IT companies in Russia that deals with implementation of ERP systems and business consulting. Awara IT is Gold Microsoft partner for Business Applications. It is Microsoft Country Partner of the Year 2019 in Russia, as well as Dynamics 365 Business Central, Power BI and Teamwork Partner of the Year.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4616064/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92324"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Alexander Ermakov",
+ "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+}

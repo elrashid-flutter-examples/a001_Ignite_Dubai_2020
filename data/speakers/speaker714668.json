@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "714668",
+ "attendeeId": "86550f72-4999-4ab8-8d01-37c9cfa96689",
+ "firstName": "Tracy",
+ "lastName": "Van der Schyff",
+ "displayName": "Tracy Van der Schyff",
+ "jobTitle": "Microsoft 365 Coach & Catalyst",
+ "company": "The Guid Stuff",
+ "bio": "Facilitating the evolution of human capabilities, Tracy's passion is to empower people and therefore training and change management lie close to her heart. Her Mission is to positively impact WHAT and HOW people create, as she believes that what we design / create, designs / creates us back (Ontological Design). It is about enabling others to serve themselves better, expand their possibilities, increase their capacity to learn, act more effectively and better design their future.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4371288/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90710"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Tracy Van der Schyff",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "702993",
+ "attendeeId": "173f8ab8-7ad1-4eab-afc5-da19100b919a",
+ "firstName": "Mohamed",
+ "lastName": "Mostafa",
+ "displayName": "Mohamed Mostafa",
+ "jobTitle": "Microsoft MVP - Solutions Director",
+ "company": "TechLabs London",
+ "bio": "Mohamed is a Microsoft Most Valuable Professional (MVP) who focuses on Architecting, Leading and Delivering Dynamics 365 Technology enabled Business Solutions and Digital Transformation programmes. He has been focusing on Microsoft Dynamics CRM for more than 12 years. He has led and delivered Dynamics programmes across various Industries and Sectors leading both onshore and offshore teams. Mohamed is also a regular speaker on Dynamics CRM, GDPR, Cloud & Digital Transformation and Customer Technology Strategy. He started, and built from the ground up, the Dynamics CRM Practice for a Big 4 Management Consultancy in London. He managed to grow it to a successful multimillion pound practice with more than 40 consultants and developers delivering a number of successful high profile programmes.\r\n \r\nAs a seasoned Architect, who led and delivered large scale several thousand users implementations, he currently focuses on helping his clients with their Dynamics Programmes providing both Technical/Programme Assurance and Specialist Implementation Services along with onshore and offshore development capabilities. \r\n\r\nAcademically, Mohamed holds a Masters in Business Management from Henley Business School, University of Reading, UK and a Masters in Software Engineering from University of Nottingham, UK. He is also a certified SCRUM Master and KPMG accredited Engagement Leader.\r\n\r\nSpecialties: \r\n\r\nMicrosoft Dynamics 365, Dynamics CRM online (CRM Cloud) and on-premise. Customer Digital platforms including .Net MVC Portals and Dynamics 365 integrated websites.\r\nCertified in CRM Online, CRM 2016, CRM 2015, CRM 2013, 2011, CRM 4.0 and CRM 3.0, Integration and Data Migration (Scribe MVP), Certified SCRUM Master and a wider technology experience.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4478710/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90735"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Mohamed Mostafa",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

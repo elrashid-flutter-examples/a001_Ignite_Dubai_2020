@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "722025",
+ "attendeeId": "6e9eb68f-fd0b-4d8a-93ee-86e7a8b727d5",
+ "firstName": "James",
+ "lastName": "Toulman",
+ "displayName": "James Toulman",
+ "jobTitle": "Technical Director",
+ "company": "Digital Energy",
+ "bio": "I work as Technical Director and partner in Digital Energy based out of Dubai. We specialise in providing Data Science, AI and Cloud solutions for energy and asset intensive industries globally. I was awarded Microsoft MVP status in Microsoft Azure in 2019 and have ran the local user group Azure UAE for the last two years.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4561204/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86508",
+  "95086",
+  "95244"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "James Toulman",
+ "lastUpdate": "2020-01-30T21:20:15.449+00:00"
+}

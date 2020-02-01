@@ -1,0 +1,1197 @@
+{
+ "data": [
+  {
+   "@search.score": 1.0,
+   "sessionId": "85131",
+   "sessionInstanceId": "85131",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Meeting organizational compliance requirements",
+   "sortTitle": "meeting organizational compliance requirements",
+   "sortRank": 2147483647,
+   "description": "Leverage the intelligent and integrated Microsoft solutions to help your organization achieve its compliance goals.",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Meeting organizational compliance requirements",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120808",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86527,
+     "title": "Know your data: use intelligence to identify, protect and govern your important data",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "723474"
+     ],
+     "speakerNames": [
+      "Sandeep Ravindran"
+     ],
+     "speakerCompanies": [],
+     "description": "Knowing your data, where it is stored, what is business critical, what is sensitive and needs to be protected, what should be kept and what can be deleted is an absolute priority.  In this session you will gain a deeper understanding of the new intelligent capabilities to assess the risks you face and how to reduce that risk by automatically classifying, labeling and protecting and governing data where it lives across your environment, endpoints, apps and services.",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86525,
+     "title": "Identify and take action on insider risks, threats and code of conduct violations",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "669942"
+     ],
+     "speakerNames": [
+      "AMIT BHATIA"
+     ],
+     "speakerCompanies": [],
+     "description": "Insider threats and policy violations are a major risk for all companies and can easily go undetected until it is too late.  Proactively managing these risks and threats can provide you with a game changing advantage.  Gain a deeper understanding of how to gain visibility into and take action on insider threats, data leakage and policy violations.  Come learn about how the new Microsoft 365 Insider Risk Management and Communication Compliance solutions correlate multiple signals, from activities to communications, to give you a proactive view into potential threats and take remediate actions as appropriate.",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86564,
+     "title": "Take control of your data explosion with intelligent Information Governance",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "716951"
+     ],
+     "speakerNames": [
+      "Rami Calache"
+     ],
+     "speakerCompanies": [],
+     "description": "As data explodes in the modern workplace organizations recognize data is an asset but also a liability. Learn how Microsoft 365 can help your customers establish a comprehensive information governance strategy to intelligently manage your data lifecycle, keep what is important and delete what isn't.",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86565,
+     "title": "eDiscovery and Audit: Harnessing intelligent and end-to-end solutions to improve results and lower costs​",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "669942"
+     ],
+     "speakerNames": [
+      "AMIT BHATIA"
+     ],
+     "speakerCompanies": [],
+     "description": "Organizations are required often to quickly find relevant information related to investigations, litigation or regulatory requests.  However, discovering relevant information an organization needs when it is needed is both difficult and expensive.  Our Advanced e-discovery and Audit capabilities enable you to quickly find relevant data and respond efficiently.  Come find out how you can reduce risk, time and cost in data discovery and remediation processes.  It’s applicable in a variety of scenarios, including litigations, internal investigations, privacy regulations and beyond.",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86566,
+     "title": "Supercharge your ability to simplify IT compliance and reduce risk with Microsoft Compliance Score",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "715281",
+      "716951"
+     ],
+     "speakerNames": [
+      "Ahmed Khairy",
+      "Rami Calache"
+     ],
+     "speakerCompanies": [],
+     "description": "Continuously assessing, improving and monitoring the effectiveness of your security and privacy controls is a top priority for all companies today. The new Compliance Score can automatically assess controls implemented in your system and get recommended actions and tools to improve your risk profile on an ongoing basis. Come find out how Compliance Score can help you demystify compliance and make you the hero admins to help your organization manage risks and compliance.",
+     "location": "Sheikh Maktoum Hall C"
+    }
+   ],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "85146",
+   "sessionInstanceId": "85146",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Microsoft Dynamics 365",
+   "sortTitle": "microsoft dynamics 365",
+   "sortRank": 2147483647,
+   "description": "For those new to Dynamics 365, learn how to increase your organizations productivity across business groups – enabling efficiencies and business processes that enable innovation, and personalized experiences.",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Microsoft Dynamics 365",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120802",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86401,
+     "title": "Dynamics 365 – Establish and administer a cross organization business applications strategy",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Dynamics 365 provides a complete platform of modular, intelligent, and connected SaaS business applications with inherent tooling that meet security and compliance requirements, ensure uptime, and streamline control and access. This session will outline how you can support data integration and governance, seamlessly manage authentication, and administer an interconnected set of business applications and automated processes throughout your organization.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86402,
+     "title": "Configuring and managing Dynamics 365 Sales and Dynamics 365 Marketing – Establish connected Sales and Marketing",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, manage, and connect Dynamics 365 Sales and Dynamics 365 Marketing, provide actionable insights across sales and marketing by integrating Insights applications and LinkedIn data, and gain an understanding of how you can enable mixed reality solutions across marketing and sales activities.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86400,
+     "title": "Configuring and managing Dynamics 365 Customer Service and Dynamics 365 Field Service – Establish a proactive service organization",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, and connect Dynamics 365 Customer Service and Dynamics 365 Field Service, provide actionable insights by integrating Insights applications, enable and support an omnichannel engagement strategy, leverage BoT and IoT to streamline case/ticket remediation, and gain an understanding of how you can enable mixed reality solutions in support of your field engineers productivity.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86404,
+     "title": "Configuring and managing Dynamics 365 Finance – Modernize finance and supply chain",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707057"
+     ],
+     "speakerNames": [
+      "Ahmed Al Chami"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how you can more thoroughly and completely support your finance and supply chain stakeholders with Dynamics 365 Finance and Operations.  In this session, you will learn how to deploy, configure, and manage Dynamics 365 Finance, gaining insights into how to support the establishment of efficient business process modelling and predictive analytics.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86399,
+     "title": "Configuring and managing Dynamics 365 Retail - Enable connected retail",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "704342"
+     ],
+     "speakerNames": [
+      "Elena Djonova"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session you’ll learn how to deploy, configure and manage Dynamics 365 Retail in support of multi-channel commerce transactions. Across point of sales systems, product and inventory management, order and financial management as well as employee management and fraud protection, this session will provide you with the information you need to get started in establishing a connected retail ecosystem.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 90721,
+     "title": "Supervisor experiences in omnichannel",
+     "startDateTime": "2020-02-10T13:20:00+00:00",
+     "endDateTime": "2020-02-10T13:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "715262"
+     ],
+     "speakerNames": [
+      "Ercument Turkmenoglu"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, see how we equip our supervisors to track the quality of service on their queues, monitor conversations and their real-time sentiments, and if needed suggest course correction.",
+     "location": "Theater 1"
+    }
+   ],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86605",
+   "sessionInstanceId": "86605",
+   "sessionCode": "MDEV20",
+   "sessionCodeNormalized": "MDEV20",
+   "title": "Microsoft Graph: a primer for developers",
+   "sortTitle": "microsoft graph: a primer for developers",
+   "sortRank": 2147483647,
+   "description": "Join this session to get a deeper understanding of the Microsoft Graph. We start with an origins story, and demonstrate just how deeply Microsoft Graph is woven into the fabric of everyday Microsoft 365 experiences. From there, we look at examples of partners who use the Microsoft Graph APIs to extend many of the same Microsoft Graph-powered experiences into their apps, and close by showing you how easy it is to get started building Microsoft Graph-powered apps of your own.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Develop integrations and workflows for your productivity applications",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "Productivity",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907338",
+   "speakerIds": [
+    "702888"
+   ],
+   "speakerNames": [
+    "Jakob Nielsen"
+   ],
+   "speakerCompanies": [
+    "Microsoft Corporation"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86604,
+     "title": "The perfectly tailored productivity suite starts with the Microsoft 365 platform",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "606930"
+     ],
+     "speakerNames": [
+      "Kyle Marsh"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, discover how developers and partners can use the Microsoft 365 platform to extend their solutions into familiar experiences across Microsoft 365 to tailor and enhance the productivity of tens of millions of people – every day. We show you the tools and technology we’ve created to help you enrich communications, elevate data analysis and streamline workflows across Microsoft 365. We also give you a preview of the next wave of extensibility solutions taking shape back in Redmond.",
+     "location": "Dubai C+D"
+    },
+    {
+     "sessionId": 86617,
+     "title": "Building modern enterprise-grade collaboration solutions with Microsoft Teams and SharePoint",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "704728"
+     ],
+     "speakerNames": [
+      "Bill Ayers"
+     ],
+     "speakerCompanies": [],
+     "description": "SharePoint is the bedrock of enterprise intranets, while Microsoft Teams is the new collaboration tool on the block. In this session we look at each product individually, then show you how they can work together. We start with an overview of the SharePoint Framework and modern, cross-platform intranet development. We pivot to an overview of Microsoft Teams extensibility and demonstrate how to increase the speed relevance of collaboration in your organization. Finally, we put the two together – with a little help from Microsoft Graph - and show you how a single application can run in both applications.",
+     "location": "Dubai C+D"
+    },
+    {
+     "sessionId": 86619,
+     "title": "Transform everyday business processes with Microsoft 365 platform tools",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702888"
+     ],
+     "speakerNames": [
+      "Jakob Nielsen"
+     ],
+     "speakerCompanies": [],
+     "description": "Even the smallest gaps between people and systems in your organization can cost time and money. The Microsoft 365 platform has powerful solutions for professional and citizen developers that can close those gaps. We begin this session by showing you some low- and no-code business process automation scenarios using Microsoft PowerApps, Microsoft Flow and Excel. From there, we show you how adaptive cards and actionable messages can increase the velocity, efficiency, and productivity of your business. Finally, we demonstrate how to remain engaged with other software tools without switching context using Office add-ins.",
+     "location": "Sheikh Rashid Hall A"
+    },
+    {
+     "sessionId": 86618,
+     "title": "Windows 10: The developer platform, and modern application development",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719772"
+     ],
+     "speakerNames": [
+      "Giorgio Sardo"
+     ],
+     "speakerCompanies": [],
+     "description": "How do you build modern applications on Windows 10? What are some of the Windows 10 features that can make applications even better for users, and how can developers take advantage of these features from existing desktop applications? In this demo-focused and info-packed session, we’ll cover the modern technologies for building applications on or for Windows, the different app models, how to take advantage of platform tools and features, and more. We’ll use Win32/.net apps, XAML, Progressive Web Apps (PWA) using JavaScript, Edge, packaging with MSIX, the modern command line, the Windows Subsystem for Linux and more.",
+     "location": "Sheikh Rashid Hall A"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92250",
+   "sessionInstanceId": "92250",
+   "sessionCode": "WRK20004",
+   "sessionCodeNormalized": "WRK20004",
+   "title": "Microsoft Intelligent Intranet Accelerator Workshop",
+   "sortTitle": "microsoft intelligent intranet accelerator workshop",
+   "sortRank": 2147483647,
+   "description": "Are you ready to create a connected workplace? An intelligent intranet can connect you, your teams, and your organization when applying the right communication, knowledge sharing and discovery tools. We’ll show you how, with the right content sharing and business solution resources, you can greatly enhance the employee experience. Join us for this hands-on workshop where we teach you how to prototype, which will help demonstrate the possibilities of an intelligent intranet and gain buy-in from your stakeholders. You’ll gain the knowledge and ability to show your team the value of a new connected workplace and share strategies on how to drive adoption. By participating in our workshop, you’ll walk away with the tools and capabilities necessary to accelerate your time-to-value and prove the impact of the intelligent intranet. Get inspired, with the art of the possible at the Microsoft Intelligent Intranet Workshop",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 195,
+   "sessionType": "Workshop: 120 Minute",
+   "sessionTypeLogical": "Workshop: 120 Minute",
+   "learningPath": "",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3108",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "712694"
+   ],
+   "speakerNames": [
+    "Ari Nadin"
+   ],
+   "speakerCompanies": [
+    "Avanade"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92338",
+   "sessionInstanceId": "92338",
+   "sessionCode": "BRK30202",
+   "sessionCodeNormalized": "BRK30202",
+   "title": "Microsoft Power BI Custom Connector: From zero to publish.",
+   "sortTitle": "microsoft power bi custom connector: from zero to publish.",
+   "sortRank": 2147483647,
+   "description": "Microsoft Power BI has been growing fast to become a state of the art platform for reporting, data visualization and more. By creating a custom connector for Microsoft Power BI to an application’s data and data models, the development of high quality reports, dashboards and visuals can become fast, simple and self-serviced by the business users.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Advanced (300)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "697652"
+   ],
+   "speakerNames": [
+    "Stavros Menegos"
+   ],
+   "speakerCompanies": [
+    "Entersoft SA"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86507",
+   "sessionInstanceId": "86507",
+   "sessionCode": "MSI30",
+   "sessionCodeNormalized": "MSI30",
+   "title": "Migrating IaaS workloads to Azure",
+   "sortTitle": "migrating iaas workloads to azure",
+   "sortRank": 2147483647,
+   "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Migrating server infrastructure",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907373",
+   "speakerIds": [
+    "724361"
+   ],
+   "speakerNames": [
+    "Pierre Roman"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86504,
+     "title": "Migrating to Windows Server 2019",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 86509,
+     "title": "Hybrid management technologies",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 90731,
+     "title": "Top five new features of Windows Server 2019",
+     "startDateTime": "2020-02-10T10:50:00+00:00",
+     "endDateTime": "2020-02-10T11:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Windows Server 2019 is Microsoft's most rapidly adopted server operating system. With Windows Server 2008 and 2008 R2 end of support upon us, learn about some of the amazing new features included in the latest version of the Windows Server operating system. In this session, learn about the top new features in Windows Server 2019 including Windows Admin Center, Storage Migration Service, hyperconverged storage improvements, System Insights, Cluster Sets, Azure integration, Linux Containers and Kubernetes integration.",
+     "location": "Theater 1"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "85065",
+   "sessionInstanceId": "85065",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Migrating server infrastructure",
+   "sortTitle": "migrating server infrastructure",
+   "sortRank": 2147483647,
+   "description": "For many organizations, cloud adoption starts with assessing your current environment and upgrading to Window Server 2019: a new hybrid ecosystem not previously available. See how to get started and simplify your Windows Server and SQL Server Azure migration.",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Migrating server infrastructure",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120810",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86504,
+     "title": "Migrating to Windows Server 2019",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 86509,
+     "title": "Hybrid management technologies",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 86507,
+     "title": "Migrating IaaS workloads to Azure",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "724361"
+     ],
+     "speakerNames": [
+      "Pierre Roman"
+     ],
+     "speakerCompanies": [],
+     "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 90731,
+     "title": "Top five new features of Windows Server 2019",
+     "startDateTime": "2020-02-10T10:50:00+00:00",
+     "endDateTime": "2020-02-10T11:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Windows Server 2019 is Microsoft's most rapidly adopted server operating system. With Windows Server 2008 and 2008 R2 end of support upon us, learn about some of the amazing new features included in the latest version of the Windows Server operating system. In this session, learn about the top new features in Windows Server 2019 including Windows Admin Center, Storage Migration Service, hyperconverged storage improvements, System Insights, Cluster Sets, Azure integration, Linux Containers and Kubernetes integration.",
+     "location": "Theater 1"
+    }
+   ],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86504",
+   "sessionInstanceId": "86504",
+   "sessionCode": "MSI10",
+   "sessionCodeNormalized": "MSI10",
+   "title": "Migrating to Windows Server 2019",
+   "sortTitle": "migrating to windows server 2019",
+   "sortRank": 2147483647,
+   "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Migrating server infrastructure",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907375",
+   "speakerIds": [
+    "712734"
+   ],
+   "speakerNames": [
+    "Orin Thomas"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86509,
+     "title": "Hybrid management technologies",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 86507,
+     "title": "Migrating IaaS workloads to Azure",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "724361"
+     ],
+     "speakerNames": [
+      "Pierre Roman"
+     ],
+     "speakerCompanies": [],
+     "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 90731,
+     "title": "Top five new features of Windows Server 2019",
+     "startDateTime": "2020-02-10T10:50:00+00:00",
+     "endDateTime": "2020-02-10T11:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712734"
+     ],
+     "speakerNames": [
+      "Orin Thomas"
+     ],
+     "speakerCompanies": [],
+     "description": "Windows Server 2019 is Microsoft's most rapidly adopted server operating system. With Windows Server 2008 and 2008 R2 end of support upon us, learn about some of the amazing new features included in the latest version of the Windows Server operating system. In this session, learn about the top new features in Windows Server 2019 including Windows Admin Center, Storage Migration Service, hyperconverged storage improvements, System Insights, Cluster Sets, Azure integration, Linux Containers and Kubernetes integration.",
+     "location": "Theater 1"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86472",
+   "sessionInstanceId": "86472",
+   "sessionCode": "MOD10",
+   "sessionCodeNormalized": "MOD10",
+   "title": "Migrating web applications to Azure",
+   "sortTitle": "migrating web applications to azure",
+   "sortRank": 2147483647,
+   "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Modernizing web applications and data",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907380",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86474,
+     "title": "Moving your database to Azure",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86471,
+     "title": "Enhancing web applications with cloud intelligence",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86476,
+     "title": "Debugging and interacting with production applications",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86484,
+     "title": "Managing delivery of your app via DevOps",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719728"
+     ],
+     "speakerNames": [
+      "April Edwards"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 90733,
+     "title": "Deploying and A/B testing without risks with deployment slots",
+     "startDateTime": "2020-02-10T07:50:00+00:00",
+     "endDateTime": "2020-02-10T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
+     "location": "Theater 1"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86561",
+   "sessionInstanceId": "86561",
+   "sessionCode": "DEP20",
+   "sessionCodeNormalized": "DEP20",
+   "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
+   "sortTitle": "modern windows 10 and office 365 deployment with windows autopilot, desktop analytics, microsoft intune, and configuration manager",
+   "sortRank": 2147483647,
+   "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907359",
+   "speakerIds": [
+    "683098",
+    "712623"
+   ],
+   "speakerNames": [
+    "Harjit Dhaliwal",
+    "Michael Niehaus"
+   ],
+   "speakerCompanies": [
+    "Tech Konnect",
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86562,
+     "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "683098"
+     ],
+     "speakerNames": [
+      "Harjit Dhaliwal"
+     ],
+     "speakerCompanies": [],
+     "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86563,
+     "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "683098",
+      "712623"
+     ],
+     "speakerNames": [
+      "Harjit Dhaliwal",
+      "Michael Niehaus"
+     ],
+     "speakerCompanies": [],
+     "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86546,
+     "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "683098"
+     ],
+     "speakerNames": [
+      "Harjit Dhaliwal"
+     ],
+     "speakerCompanies": [],
+     "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
+     "location": "Sheikh Maktoum Hall B"
+    },
+    {
+     "sessionId": 86551,
+     "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "683098"
+     ],
+     "speakerNames": [
+      "Harjit Dhaliwal"
+     ],
+     "speakerCompanies": [],
+     "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
+     "location": "Sheikh Maktoum Hall B"
+    }
+   ]
+  }
+ ],
+ "facets": {
+  "durationInMinutes": {
+   "displayName": "durationInMinutes",
+   "facetName": "durationInMinutes",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": 45,
+     "count": 92
+    },
+    {
+     "value": 15,
+     "count": 22
+    },
+    {
+     "value": 0,
+     "count": 16
+    },
+    {
+     "value": 60,
+     "count": 11
+    },
+    {
+     "value": 195,
+     "count": 1
+    }
+   ]
+  },
+  "sessionType": {
+   "displayName": "translate.filters.session-type",
+   "facetName": "sessionType",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "Module: 45 Minute",
+     "count": 79
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 22
+    },
+    {
+     "value": "Breakout: 45 Minute",
+     "count": 20
+    },
+    {
+     "value": "Learning Path",
+     "count": 16
+    },
+    {
+     "value": "",
+     "count": 4
+    },
+    {
+     "value": "Workshop: 120 Minute",
+     "count": 1
+    }
+   ]
+  },
+  "learningPath": {
+   "displayName": "translate.filters.learning-path",
+   "facetName": "learningPath",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 40
+    },
+    {
+     "value": "Azure fundamentals",
+     "count": 11
+    },
+    {
+     "value": "Power Platform",
+     "count": 8
+    },
+    {
+     "value": "Developers guide to AI",
+     "count": 7
+    },
+    {
+     "value": "Microsoft Dynamics 365",
+     "count": 7
+    },
+    {
+     "value": "Modernizing web applications and data",
+     "count": 7
+    },
+    {
+     "value": "Deploying, managing, and servicing windows, office and all your devices",
+     "count": 6
+    },
+    {
+     "value": "Develop integrations and workflows for your productivity applications",
+     "count": 6
+    },
+    {
+     "value": "Developing cloud native applications",
+     "count": 6
+    },
+    {
+     "value": "Improving reliability through modern operations practices",
+     "count": 6
+    },
+    {
+     "value": "Journey to Microsoft Teams",
+     "count": 6
+    },
+    {
+     "value": "Meeting organizational compliance requirements",
+     "count": 6
+    },
+    {
+     "value": "Securing your organization",
+     "count": 6
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 5
+    },
+    {
+     "value": "IT administrator’s guide to managing productivity in the cloud",
+     "count": 5
+    },
+    {
+     "value": "Migrating server infrastructure",
+     "count": 5
+    },
+    {
+     "value": "Managing cloud operations",
+     "count": 3
+    },
+    {
+     "value": "Developing Cloud Native Applications",
+     "count": 1
+    },
+    {
+     "value": "Managing Cloud Operations",
+     "count": 1
+    }
+   ]
+  },
+  "level": {
+   "displayName": "translate.filters.level",
+   "facetName": "level",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 108
+    },
+    {
+     "value": "Advanced (300)",
+     "count": 22
+    },
+    {
+     "value": "Intermediate (200)",
+     "count": 7
+    },
+    {
+     "value": "Foundational (100)",
+     "count": 3
+    },
+    {
+     "value": "Expert (400)",
+     "count": 2
+    }
+   ]
+  },
+  "format": {
+   "displayName": "translate.filters.format",
+   "facetName": "format",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 142
+    }
+   ]
+  },
+  "topic": {
+   "displayName": "translate.filters.topic",
+   "facetName": "topic",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 138
+    },
+    {
+     "value": "Productivity",
+     "count": 2
+    },
+    {
+     "value": "Compliance",
+     "count": 1
+    },
+    {
+     "value": "Security",
+     "count": 1
+    }
+   ]
+  },
+  "sessionTypeId": {
+   "displayName": "sessionTypeId",
+   "facetName": "sessionTypeId",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "3107",
+     "count": 80
+    },
+    {
+     "value": "3106",
+     "count": 23
+    },
+    {
+     "value": "3114",
+     "count": 22
+    },
+    {
+     "value": "3301",
+     "count": 16
+    },
+    {
+     "value": "3108",
+     "count": 1
+    }
+   ]
+  }
+ },
+ "total": 142
+}

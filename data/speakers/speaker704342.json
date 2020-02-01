@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "704342",
+ "attendeeId": "ca2a5e0c-7e32-4eb9-89ff-d223a749b407",
+ "firstName": "Elena",
+ "lastName": "Djonova",
+ "displayName": "Elena Djonova",
+ "jobTitle": "Technical Specialist",
+ "company": "Microsoft",
+ "bio": "Technical Specialist for D365 Finance and Operations @Microsoft",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4526963/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86399"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Elena Djonova",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

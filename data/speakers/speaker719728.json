@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "719728",
+ "attendeeId": "c76d6935-6d61-44dd-84ff-b5dea69b251e",
+ "firstName": "April",
+ "lastName": "Edwards",
+ "displayName": "April Edwards",
+ "jobTitle": "Senior Software Engineer",
+ "company": "Microsoft",
+ "bio": "April is a senior software engineer and cloud advocate for Microsoft specializing in datacentre modernization and application transformation.  Her focus is advocating the cloud to customers and taking them on a journey to what is possible in the cloud.  Migrating customers away from legacy methods into the new world of serverless and containers, where code comes first.  April works with orgranizations to promote cloud adoption and implementing DevOps.  She works on the Commercial Software Engineering team at MIcrosoft deploying cloud native solutions.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4368205/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86429",
+  "86484",
+  "86505"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "April Edwards",
+ "lastUpdate": "2020-01-25T00:45:13.91+00:00"
+}

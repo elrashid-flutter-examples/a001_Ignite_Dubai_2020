@@ -2,6 +2,7 @@ import 'package:co_elrashid_ignite/sessions.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 import 'dart:math' as math;
+import 'package:flutter/services.dart';
 
 void main() => runApp(MyApp());
 
@@ -15,7 +16,39 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Day01lWidget(),
+      home: TabBarDemo(),
+    );
+  }
+}
+
+class TabBarDemo extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: DefaultTabController(
+        length: 2,
+        child: Scaffold(
+          appBar: AppBar(
+            bottom: TabBar(
+              tabs: [
+                Tab(
+                  text: "Day 01",
+                ),
+                Tab(
+                  text: "Day 02",
+                ),
+              ],
+            ),
+            title: Text('Ignite'),
+          ),
+          body: TabBarView(
+            children: [
+              Day01lWidget(),
+              Day01lWidget(),
+            ],
+          ),
+        ),
+      ),
     );
   }
 }
@@ -42,9 +75,6 @@ class _Day01lWidgetState extends State<Day01lWidget> {
 
   Scaffold buildScaffold(BuildContext context, ConferenceDay _day01) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Ignite"),
-      ),
       body: conferenceDayWidget(context, _day01),
       floatingActionButton: _floatingActionButtonWidget(context),
     );
@@ -255,6 +285,14 @@ class SesstionWidget extends StatelessWidget {
           ),
           LearningPathWidget(session),
           LocationWidget(session),
+          FlatButton(
+            child: Text("copy"),
+            onPressed: () {
+              Clipboard.setData(new ClipboardData(
+                  text:
+                      "${session.title} by ${session.speakerNames[0]} from ${session.speakerCompanies[0]} "));
+            },
+          )
         ],
       ),
     );

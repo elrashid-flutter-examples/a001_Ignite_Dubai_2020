@@ -1,0 +1,47 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697289",
+ "attendeeId": "499287bc-bfb2-4752-9d52-49ae72b363a5",
+ "firstName": "Alexander",
+ "lastName": "Rødland",
+ "displayName": "Alexander Rødland",
+ "jobTitle": "Senior Consultant",
+ "company": "Innofactor",
+ "bio": "Besides my activity for ten years as a journalist and product manager for the Norwegian IT- Magazine ITpro.no, I have also managed to acquire two certificates of completed apprenticeship within electronics and ICT.\r\n \r\n As of fall 2015 I have completed a bachelor degree in information science (BASV-INFO), and spring 2018 I finished my degree in Work- and organizational psychology (BAPS-AOP), both at the University of Bergen. Combined my background focus on software development and motivational- and organizational psychology. In my daytime job at Innofactor, I work mainly but not exclusively with the Microsoft 365 sphere with focus on implementation of new technology to peoples life and it's user experience\r\n \r\n I have been awarded the Microsoft MVP since 2014, Windows Insider MVP since 2019 and have been a frequent speaker at various local seminars, and events like TechDays Sweden, Nordic Infrastructure Conference (NIC) and Ignite.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4508842/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90711",
+  "92325",
+  "92326"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "",
+  "Expert (400)",
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Alexander Rødland",
+ "lastUpdate": "2020-01-29T05:35:15.409+00:00"
+}

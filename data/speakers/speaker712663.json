@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "712663",
+ "attendeeId": "5cf2f5a1-9b2f-4efa-b31d-638ad0bfc927",
+ "firstName": "Laurent",
+ "lastName": "Bugnion",
+ "displayName": "Laurent Bugnion",
+ "jobTitle": "Cloud Advocate",
+ "company": "Microsoft",
+ "bio": "Laurent works as Senior Cloud Developer Advocate for Microsoft Azure after almost 10 years spent working for IdentityMine and Valorem, two leading firms in Microsoft technologies. He codes in Azure, .NET, Windows, WPF, Xamarin (iOS and Android), ASP.NET (Core and Classic). On his free time, he writes for technical publications such as MSDN Magazine, publishes technical videos on YouTube and Microsoft Channel 9, and his blog is on blog.galasoft.ch. He is a frequent speaker at conferences such as Microsoft Ignite, Microsoft Build, TechEd, VS Live, Techorama and many other international events. Prior to joining Microsoft, he was a Microsoft Most Valuable Professional for Windows development from 2007 to 2017, a Microsoft Regional Director from 2013 and a Xamarin Most Valuable Professional from 2015. He is also the author of the well-known open source framework MVVM Light for Windows, WPF and Xamarin.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4318908/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86471",
+  "86476",
+  "90733"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Laurent Bugnion",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

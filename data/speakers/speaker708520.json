@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "708520",
+ "attendeeId": "2f86bc74-a0a7-4d84-a6b6-cd59ae36160c",
+ "firstName": "Allan",
+ "lastName": "Pead",
+ "displayName": "Allan Pead",
+ "jobTitle": "CTO",
+ "company": "AD Soft",
+ "bio": "Allan Pead is an architect and software developer with more than 20 years commercial experience.  The love for programming started with writing that first BASIC program on a ZX Spectrum as a child.  What excites him is any project that involves mobile and / or IoT devices.  He is very happy to be in a position where his passion and hobby is also his day job. \r\n\r\nAllan is a Xamarin MVP and a Microsoft Development Technologies MVP based in Cape Town South Africa.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528830/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92327",
+  "92328",
+  "92329"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Allan Pead",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

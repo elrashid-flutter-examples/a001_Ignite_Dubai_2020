@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697363",
+ "attendeeId": "d2d5d314-cdfe-4d2e-9e4b-6de8f3ed502d",
+ "firstName": "Milad",
+ "lastName": "Aslaner",
+ "displayName": "Milad Aslaner",
+ "jobTitle": "Principal Security Program Manager",
+ "company": "Microsoft",
+ "bio": "Milad Aslaner is a security professional with more than 10 years of international experience in product management, program management and security research.\r\n\r\nThroughout his career, Milad Aslaner has published several white papers and books on broad topics such as social engineering, practical application of cyber security and cyber security in the financial services industry with technical focus on Endpoint Detection & Response (EDR), Threat and Vulnerability Management (TVM), Incident Response and real world exploitation techniques.\r\n\r\nHe has been with Microsoft since March 2012. In his recent roles, he was leading the Microsoft Surface commercial software engineering team for Surface Book, Surface Laptop and build with his development team security features such as Surface Enterprise Management Mode (SEMM). \r\n\r\nAs Principal Security Program Manager in the Microsoft Defender Advanced Threat Protection research & development team he is responsible for transforming strategic enterprise customer requirements into product and/or feature requirements, and partner with the development and research teams to build scenarios that enable Microsoft customers to protect, detect and respond to the evolving threat landscape.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509052/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86547"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Intermediate (200)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Milad Aslaner",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

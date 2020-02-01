@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "712694",
+ "attendeeId": "3d04caa0-6a23-4c40-871c-015df6c4d078",
+ "firstName": "Ari",
+ "lastName": "Nadin",
+ "displayName": "Ari Nadin",
+ "jobTitle": "Director, Modern Workplace CoE",
+ "company": "Avanade",
+ "bio": "I got my first MCSE in Windows NT 4.0, over 20 years ago. Since starting in IT in 1989, I have worked on the customer side and the vendor side, on five continents and across numerous industries, from startups to Fortune 50s. I started out in tech support, became a server admin, and eventually got to work on network infrastructure. After several years running voice, video and data networking infrastructure at HBO, I went to business school and got an MBA focused on Global Business and Leading Change. I think that's when I discovered my passion for the human experience of technology. We can make a difference for each other in a profound and lasting way, and that's what's exciting to me about what we do.\r\n\r\nNot long after that I moved to Singapore and started focusing on workplace technologies for enterprise customers. This is the stuff that office workers interact with for more than half of their day, and that affects the life of everyone who collects a paycheck. When we get this stuff right, lots of good things happen. I love that half of my job is talking to companies about how much of a difference they can make in the lives of their employees and customers and that the other half is bringing that message to life.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4540467/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92250"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Intermediate (200)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Ari Nadin",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "707167",
+ "attendeeId": "7dc2bc9f-88b0-4f6b-ad90-480369632af8",
+ "firstName": "Jasjit",
+ "lastName": "Chopra",
+ "displayName": "Jasjit Chopra",
+ "jobTitle": "CEO",
+ "company": "Penthara Technologies",
+ "bio": "Passionate technologist running a small IT consulting company called Penthara Technologies. Believe in making a change in people’s lives and community by sticking to being human, empathetic and transparent.\r\n\r\nMicrosoft MVP in Azure space for 2 years and industry experience of 15 years plus. Microsoft certified in SharePoint and Azure.\r\n\r\nIn free time love working with DIY projects with raspberry pi’s and some cool and innovative sensor technologies out there today.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528822/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90722"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Jasjit Chopra",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

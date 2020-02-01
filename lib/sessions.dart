@@ -183,6 +183,7 @@ class SessionGroup {
 
 }
 
+
 class Session {
   double searchScore;
   String sessionId;

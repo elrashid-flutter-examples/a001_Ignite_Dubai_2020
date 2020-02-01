@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697629",
+ "attendeeId": "beb8e58f-0af6-4f48-a46f-4a3406f508d7",
+ "firstName": "Henk",
+ "lastName": "Boelman",
+ "displayName": "Henk Boelman",
+ "jobTitle": "Cloud Advocate",
+ "company": "Microsoft",
+ "bio": "Henk is a Cloud Advocate specializing in Artificial intelligence and Azure with a background in application development. He is currently part of the regional cloud advocate team in the Netherlands. Before joining Microsoft, he was a Microsoft AI MVP and worked as a software developer and architect building lots of AI powered platforms on Azure.\r\n\r\nHe loves to share his knowledge about topics such as DevOps, Azure and Artificial Intelligence by providing training courses and he is a regular speaker at user groups and international conferences.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4483347/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86449",
+  "86496"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Henk Boelman",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

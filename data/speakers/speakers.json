@@ -1,0 +1,2997 @@
+[
+ {
+  "@search.score": 1.0,
+  "speakerId": "606930",
+  "attendeeId": "19b442a9-48a4-4e12-bf8f-624c35efd3b9",
+  "firstName": "Kyle",
+  "lastName": "Marsh",
+  "displayName": "Kyle Marsh",
+  "jobTitle": "Principal Program Manager",
+  "company": "Microsoft",
+  "bio": "Kyle is a Principal Program Manager on the Microsoft Identity team. As part of the Identity team Kyle focuses on architecting security and access management for applications and APIs across a wide variety of developer technologies. He has extensive experience developing solutions and working with partners to help them optimize their solutions. In past lives he has been a developer for MSDN, Dr. GUI, a developer lead on the Access team, and PM on Unified Communications and Windows.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4581056/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86604",
+   "90701"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Kyle Marsh",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "666688",
+  "attendeeId": "8a1775b9-de63-4842-977f-a2e3e54851e8",
+  "firstName": "Mark",
+  "lastName": "Wilcock",
+  "displayName": "Mark Wilcock",
+  "jobTitle": "BI Consultant",
+  "company": "Zomalex Ltd.",
+  "bio": "Mark runs a small business intelligence consultancy, Zomalex Limited, which builds data lakes, reporting systems and dashboards using Power BI and the Microsoft Data Platform. It also provides training courses on analysing and visualisng data and on Power BI.\r\n\r\nMark organises the London Business Analytics Group, a popular community meetup group that has held over 60 events in the last 5 years. \r\n\r\nMark has a MA in Natural Sciences from Cambridge and an MBA from Imperial College, London, and is a Microsoft Most Valuable Professional (MVP).",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4460761/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86403",
+   "86417"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Mark Wilcock",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "667005",
+  "attendeeId": "f8eaf627-7c3c-4d85-be8c-b7d5c808f158",
+  "firstName": "Paul",
+  "lastName": "Collinge",
+  "displayName": "Paul Collinge",
+  "jobTitle": "Senior Program Manager",
+  "company": "Microsoft",
+  "bio": "Paul has worked at Microsoft since 2004 and is a Senior Program Manager in the Microsoft Office 365 Engineering team, primarily looking after network connectivity and performance to the service. Working directly with Microsoft’s largest customers to assist with their cloud network transformation, helping them to plan and optimize their enterprise connectivity to deliver best in class infrastructure for the modern world.\r\nPaul’s role utilizes the knowledge gained from this work to drive engineering changes and improvements to Microsoft’s infrastructure and has also enabled him to gain industry wide experience of the challenges and solutions to both enterprise Office 365 connectivity, and wider modern network best practices.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4332525/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90708"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Paul Collinge",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "668803",
+  "attendeeId": "aad0701d-b355-4fb4-92fc-e64bcedcdf1b",
+  "firstName": "Pradeep",
+  "lastName": "Lingam",
+  "displayName": "Pradeep Lingam",
+  "jobTitle": "Lead Consultant - Microsoft Surface Devices",
+  "company": "Redington Middle East LLC",
+  "bio": "Lead Consultant - Microsoft Surface Devices;  helping businesses to connect, communicate & collaborate better. \r\n\r\nA Sales & Business Development professional with extensive experience in Business Collaborations, Visual Communications, Unified Communications, Professional AV, IT & Telecom. Over 20 years of experience in sales, pre-sales, key account management, product management, business development with strong consultative technology selling, solution selling, solution designing, tech-support & business networking.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4451113/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90720",
+   "90724",
+   "91281"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "",
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Pradeep Lingam",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "669942",
+  "attendeeId": "8b63fb22-ec13-4f73-b5d7-ed3c7c7c7992",
+  "firstName": "AMIT",
+  "lastName": "BHATIA",
+  "displayName": "AMIT BHATIA",
+  "jobTitle": "Product Marketing",
+  "company": "MSFT",
+  "bio": "Senior Product Marketing Lead for M365 Compliance Skills Development, with over 19+ years of industry experience in different geographies like Asia, Canada and America, with 14+ years with Microsoft, currently leading Global Field Technical Skills Development for Microsoft 365 Compliance. This includes leading Operating Model planning for enablement across Microsoft’s business units worldwide, and overseeing the development and deployment of new content for customer engagements across all markets. Currently based in Seattle Washington.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4465509/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86525",
+   "86565"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)",
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "AMIT BHATIA",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "683098",
+  "attendeeId": "a57aa23c-41ec-4568-8c27-a37763d63233",
+  "firstName": "Harjit",
+  "lastName": "Dhaliwal",
+  "displayName": "Harjit Dhaliwal",
+  "jobTitle": "Technology Evangelist",
+  "company": "Tech Konnect",
+  "bio": "Microsoft MVP, IT Professional, ConfigMgr Admin, Technology & Social Media Evangelist, Photographer, Microsoft Ignite Community Reporter & Roundtable member, International Speaker, and Mentor.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4481294/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86546",
+   "86551",
+   "86561",
+   "86562",
+   "86563"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Harjit Dhaliwal",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "694948",
+  "attendeeId": "4e7d21c3-e286-43f1-b784-822d99b14fad",
+  "firstName": "Gokan",
+  "lastName": "Ozcifci",
+  "displayName": "Gokan Ozcifci",
+  "jobTitle": "Sales Executive & Product Evangelist",
+  "company": "Valo",
+  "bio": "Gokan is an independent SharePoint and Office365 consultant for Neoxy where he assists customers with building innovative, intelligent and responsive cloud driven solutions. With the Mobile first, Cloud first ideology, his goal is to empower every person and organization to do more with the Microsoft cloud and the ecosystem is perfectly aligned to accelerate this. Creativity, automation and perspective are what he loves most when using the Microsoft cloud, so every customer can be more agile, responsive and competitive. Gokan is a frequent – and funny – conference speaker. He presented at numerous national and international conferences and is actively involved in European and American conferences: Microsoft Techdays, Microsoft Experiences, European SharePoint Conferences, SharePoint Days and SharePoint Fest are a few major ones.\r\n\r\nA proud author of books that reached the half million of downloads and founder of several communities, Gokan is a real community warrior. Due to his active contributions in these domains, he has been honoured with Microsoft Regional Director and Microsoft’s Most Valuable Professional (MVP) award. Additionally, he is an active Microsoft Certified Trainer (MCT) and a Microsoft Regional Lead for all MCTs in Belgium.\r\n\r\nYou can always talk to me about: Soccer. World Traveling. Food. Next-Gen Cloud Systems. Architecture & Strategy. SharePoint + Office365!",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4278848/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92332"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Gokan Ozcifci",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697289",
+  "attendeeId": "499287bc-bfb2-4752-9d52-49ae72b363a5",
+  "firstName": "Alexander",
+  "lastName": "Rødland",
+  "displayName": "Alexander Rødland",
+  "jobTitle": "Senior Consultant",
+  "company": "Innofactor",
+  "bio": "Besides my activity for ten years as a journalist and product manager for the Norwegian IT- Magazine ITpro.no, I have also managed to acquire two certificates of completed apprenticeship within electronics and ICT.\r\n \r\n As of fall 2015 I have completed a bachelor degree in information science (BASV-INFO), and spring 2018 I finished my degree in Work- and organizational psychology (BAPS-AOP), both at the University of Bergen. Combined my background focus on software development and motivational- and organizational psychology. In my daytime job at Innofactor, I work mainly but not exclusively with the Microsoft 365 sphere with focus on implementation of new technology to peoples life and it's user experience\r\n \r\n I have been awarded the Microsoft MVP since 2014, Windows Insider MVP since 2019 and have been a frequent speaker at various local seminars, and events like TechDays Sweden, Nordic Infrastructure Conference (NIC) and Ignite.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4508842/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90711",
+   "92325",
+   "92326"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "",
+   "Expert (400)",
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Alexander Rødland",
+  "lastUpdate": "2020-01-29T05:35:15.409+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697363",
+  "attendeeId": "d2d5d314-cdfe-4d2e-9e4b-6de8f3ed502d",
+  "firstName": "Milad",
+  "lastName": "Aslaner",
+  "displayName": "Milad Aslaner",
+  "jobTitle": "Principal Security Program Manager",
+  "company": "Microsoft",
+  "bio": "Milad Aslaner is a security professional with more than 10 years of international experience in product management, program management and security research.\r\n\r\nThroughout his career, Milad Aslaner has published several white papers and books on broad topics such as social engineering, practical application of cyber security and cyber security in the financial services industry with technical focus on Endpoint Detection & Response (EDR), Threat and Vulnerability Management (TVM), Incident Response and real world exploitation techniques.\r\n\r\nHe has been with Microsoft since March 2012. In his recent roles, he was leading the Microsoft Surface commercial software engineering team for Surface Book, Surface Laptop and build with his development team security features such as Surface Enterprise Management Mode (SEMM). \r\n\r\nAs Principal Security Program Manager in the Microsoft Defender Advanced Threat Protection research & development team he is responsible for transforming strategic enterprise customer requirements into product and/or feature requirements, and partner with the development and research teams to build scenarios that enable Microsoft customers to protect, detect and respond to the evolving threat landscape.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509052/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86547"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Intermediate (200)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Milad Aslaner",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697422",
+  "attendeeId": "8a30af87-7095-4b92-bba0-63dd722ff53a",
+  "firstName": "Preethy",
+  "lastName": "Krishnamurthy",
+  "displayName": "Preethy Krishnamurthy",
+  "jobTitle": "Program Manager",
+  "company": "Microsoft",
+  "bio": "Product Manager in Teams Engineering group leading customer adoption initiatives across Middle East markets for enterprise & education organizations with specific focus on UAE, Qatar, Kuwait, Bahrain, Oman & Saudi Arabia.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509213/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86580",
+   "86585",
+   "92249"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Preethy Krishnamurthy",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697487",
+  "attendeeId": "dbca02a2-99e7-4b46-92ee-4ee5bbd611b9",
+  "firstName": "Michel",
+  "lastName": "LAPLANE",
+  "displayName": "Michel LAPLANE",
+  "jobTitle": "CEO",
+  "company": "SHAREVISUAL",
+  "bio": "Visio MVP Michel Laplane lives in France. He is a graduate engineer, from INSA Lyon (France) in electrical engineering, electronics, automation, numerical analysis software. He founded his first company in 1986 that developed graphical applications and in 1988 launched the first CAD architect software for Windows Discovering Visio 5.0 he developed an IDE for creating Visio application featuring the ability to link Visio application to database. He founded his third company, SHAREVISUAL, in 2012 that build Visio solutions. They have created a DWG to Visio Converter, a Visio toolbar for mechanical drawing, two C# Visual Studio templates to automate the creation of Visio Add-ins or Visio Drawing Control Skeleton providing generic ribbon, reporting and database recording features out of the box. Now they focus on Visio Online, SharePoint and Teams for creating powerful solutions. Want to learn more about Michel’s work, contact him at michel.laplane@hotmail.com or at michel.laplane@sharevisual.com.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509309/biggest.png",
+  "blog": "http://www.visualblog.fr",
+  "twitter": "@MichelLAPLANE",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92333",
+   "92334"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Michel LAPLANE",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697629",
+  "attendeeId": "beb8e58f-0af6-4f48-a46f-4a3406f508d7",
+  "firstName": "Henk",
+  "lastName": "Boelman",
+  "displayName": "Henk Boelman",
+  "jobTitle": "Cloud Advocate",
+  "company": "Microsoft",
+  "bio": "Henk is a Cloud Advocate specializing in Artificial intelligence and Azure with a background in application development. He is currently part of the regional cloud advocate team in the Netherlands. Before joining Microsoft, he was a Microsoft AI MVP and worked as a software developer and architect building lots of AI powered platforms on Azure.\r\n\r\nHe loves to share his knowledge about topics such as DevOps, Azure and Artificial Intelligence by providing training courses and he is a regular speaker at user groups and international conferences.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4483347/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86449",
+   "86496"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Henk Boelman",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "697652",
+  "attendeeId": "261c89e0-1127-4cfa-9ca2-89c90c1d9d74",
+  "firstName": "Stavros",
+  "lastName": "Menegos",
+  "displayName": "Stavros Menegos",
+  "jobTitle": "Chief Technology Officer",
+  "company": "Entersoft SA",
+  "bio": "Education\r\n1985 - 1990: BEng Deggree @ Univeristy of Patras, Computer & IT Engineering Department, Greece\r\n1990 - 1991: Imperial College, London: Masters Deggree with Distinction on Advanced Information Technology and S/W Engineering\r\n\r\nProfessional Experience\r\n1992 - 2002: Senior S/W Engineer, Architect and R&D Director @ ComputerLogic SA - ISV for Enterprise Applications\r\n2002 - Now: Co-founder, Member Of The Board  and Chief Technology Officer @ Entersoft SA, Greece (https://www.entersoft.eu)\r\n2015 - Now: Nominated 3 times so far as a Microsoft Regional Director: (https://rd.microsoft.com/en-us/stavros-menegos)\r\n\r\nCurrently I am putting a lot of effort, R&D and consulting towards the direction of AI and Machine Learning where we can see value in the blending between Microsoft Azure Cloud and Services with other technologies, especially in the area of Python, open source ML packages and Docker / Containers platform in order to host ML services either on Microsoft Azure or on-premises. There is value for the customers, power users, the customer’s customers, that has to be incorporated and transparently mixed into the day-to-day operations of LOB operations, spanning across Invoicing, Finance, Logistics, Supply Chain, Customer Segmentation, Loyalty etc. just to name a few. There is also another field that I am working on and I can collaborate with MS Teams that has to do with the integration of MS SQL Server and Python and R Language as it will allow all those organizations that trusted their data on MS SQL Server to gain the most from ML solutions right-out of their data on SQL Server. This year alone, I managed to motivate quite a number of Medium-To-Large enterprises in Greece, Romania, Bulgaria to move onto MS SQL Server 2017 for this and many more other reasons.\r\n\r\nMicrosoft Power BI, powered by Microsoft Analysis Services, as well as other external sources is an area of primary interest in my region. BI, Analytics and Self-Service Reporting have been around fo",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509455/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92338"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Stavros Menegos",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "698031",
+  "attendeeId": "efda2416-cfab-4189-9bf1-4fce230a43c3",
+  "firstName": "Cassie",
+  "lastName": "Breviu",
+  "displayName": "Cassie Breviu",
+  "jobTitle": "Cloud Developer Advocate",
+  "company": "Microsoft",
+  "bio": "Cassie is a Cloud Developer Advocate at Microsoft and .Net Software Engineer. She got into development when she started automating her job with excel macros and realized coding is life. Now she enjoys working in technologies with two letter abbreviations: AI/ML, MR/VR/XR/AR. But really, she loves all things tech and enjoys building with many technologies. Outside of programming she loves yoga, music, ukulele, biking, puppies, and whatever flavor of the year hobby has caught her attention.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4510606/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86452",
+   "86487",
+   "90732"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Cassie Breviu",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "698253",
+  "attendeeId": "21e3f1dd-1092-46f6-a4ec-88cc93cbd113",
+  "firstName": "Ahmed",
+  "lastName": "Nabil Mahmoud",
+  "displayName": "Ahmed Nabil Mahmoud",
+  "jobTitle": "Chief Architect",
+  "company": "Personal",
+  "bio": "Ahmed Nabil has more than 17 years of experience in the field of Information Technology/Systems, Infrastructure, Project Management, Information Security, Application development/Automation, IT management and holds several professional IT certifications from Microsoft, CISCO, ISACA, ISC2, PMI, CWNP, PECB and EC- Council. Ahmed is an industry expert in Information Security and Digital Transformation, public speaker at several international conferences (Microsoft Ignite the Tour, ITCamp Cluj, CISO Africa Summit, Egypt CSCAMP, SharePoint Saturdays, CloudWeekend…..etc.) and author of several articles published in different international security magazines. \r\n\r\nAhmed Nabil graduated in 2000 with a BS in Electrical and Control Engineering. He completed his graduate education and earned MSc in Business Information Technology from School of Computer Science, Middlesex University, UK in 2007 and Master of Business Administration (MBA) from International Business School of Scandinavia in 2016. \r\n\r\nAhmed is currently the Global Chief Architect at one of the top Oil and Gas companies in the world. \r\n\r\nAhmed was awarded the Microsoft Most Valuable Professional Award in Enterprise security/Cloud and Data Center Management for 7 years in row from 2013 to 2020 for his exceptional knowledge sharing and community leadership in Egypt and Middle East Region.\r\n\r\nAhmed recently received the MESA CISO 100 Award from the MESA conference held in Dubai for the top CISO executives in the Middle East and was finalist in EC-COUNCIL CISO awards 2018 (Atlanta, US)\r\n\r\nAhmed was recently (Feb 2019) selected as a member of the EC-Council CCISO advisory board due to his Industry standing and deep experience.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4511509/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92321",
+   "92322",
+   "92323"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ahmed Nabil Mahmoud",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "698979",
+  "attendeeId": "e1b7f4d6-c4f0-4055-8184-c56b4bd146d5",
+  "firstName": "Ammar",
+  "lastName": "Hasayen",
+  "displayName": "Ammar Hasayen",
+  "jobTitle": "Cloud Architect - Business Solutions",
+  "company": "Etisalat Digital",
+  "bio": "Ammar Hasayen, CISSP, CISM, Microsoft MVP is a leading expert in cybersecurity and cloud computing with more than fifteen years of experience working with international enterprises. As a cloud security architect, he helps organizations in their cloud migrations by adopting security best practices across the globe. He regularly writes and consults on a variety of technical and security topics and runs blog.ahasayen.com. Ammar recently published a cloud migration handbook available here: http://https://me.ahasayen.com/cloud-migration",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4513376/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92330"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ammar Hasayen",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702105",
+  "attendeeId": "b4a2d886-c539-4dcd-ae4d-fc79037d5700",
+  "firstName": "Oluwaseyi",
+  "lastName": "Oluwawumiju",
+  "displayName": "Oluwaseyi Oluwawumiju",
+  "jobTitle": "CEO/MD",
+  "company": "convenant Technologies",
+  "bio": "Oluwawumiju Oluwaseyi is a Technical consultant and the CEO/MD of Convenant Technologies, He is also an MCT REGIONAL LEAD AND MVP FOR OFFICE SERVER AND SERVICES and founder of MCTNAIJA-microtechxTechUSERGROUP. Convenant Technologies is a Certified Partner with Microsoft in Lagos, Nigeria. He is also a senior consulting partner for Convenant Technologies on Microsoft infrastructure with over 17 years’ experience and, he is a fellow of the institute of information Management Africa one of the highest honor for Management of data. Suffice it to say, that championing campaign for SharePoint, Microsoft Team, Yammer, Microsoft Azure and Cloud technology strictly from a value point of view in medium and large organizations is the mainstay of his business interest in WECA and the response as well as prospect from the Nigerian marketplace for instance, is no doubt a boost to his business outlook in Africa.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4465193/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92335",
+   "92336",
+   "92337"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Oluwaseyi Oluwawumiju",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702496",
+  "attendeeId": "6d0345c8-61ed-4267-beb6-97f3a123f60e",
+  "firstName": "Antti",
+  "lastName": "Pajunen",
+  "displayName": "Antti Pajunen",
+  "jobTitle": "MVP",
+  "company": "Innofactor",
+  "bio": "I'm a Dynamics 365 functional and presales consultant with a passion for sharing and learning new things. I specialize in Project Service Automation and Microsoft Project for the web.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4481756/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86400",
+   "86402",
+   "92331"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "",
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Antti Pajunen",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702559",
+  "attendeeId": "5f5416a0-3be3-42f1-b8ed-77259c431f3e",
+  "firstName": "Jim",
+  "lastName": "Moyle",
+  "displayName": "Jim Moyle",
+  "jobTitle": "WVD GBB",
+  "company": "Microsoft",
+  "bio": "Jim Moyle has been an infrastructure technologist with over two decades of passionate involvement in the IT industry. Over the last decade he has been a specialist in the Server Based Computing, application and desktop delivery sector. He has worked with many blue chip companies around the UK including being involved in the architecture and delivery of some of the largest Citrix deployments in Europe. As the Chief Technical Evangelist for FSLogix (now with Microsoft) he is responsible for the design and execution of many world class projects. He also enjoys speaking at various industry events and you can find him sharing knowledge on YouTube, twitter @jimmoyle and on GitHub.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4522493/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "91282"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Intermediate (200)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Jim Moyle",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702888",
+  "attendeeId": "c5b0470c-2db3-43fc-b935-6121172474f6",
+  "firstName": "Jakob",
+  "lastName": "Nielsen",
+  "displayName": "Jakob Nielsen",
+  "jobTitle": "Principal Designer",
+  "company": "Microsoft Corporation",
+  "bio": "Principal designer in the Microsoft Office team working on Excel and Office for analysts, developers, makers and everyone else that want to achieve more.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4481869/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86605",
+   "86619"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Intermediate (200)",
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Jakob Nielsen",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702993",
+  "attendeeId": "173f8ab8-7ad1-4eab-afc5-da19100b919a",
+  "firstName": "Mohamed",
+  "lastName": "Mostafa",
+  "displayName": "Mohamed Mostafa",
+  "jobTitle": "Microsoft MVP - Solutions Director",
+  "company": "TechLabs London",
+  "bio": "Mohamed is a Microsoft Most Valuable Professional (MVP) who focuses on Architecting, Leading and Delivering Dynamics 365 Technology enabled Business Solutions and Digital Transformation programmes. He has been focusing on Microsoft Dynamics CRM for more than 12 years. He has led and delivered Dynamics programmes across various Industries and Sectors leading both onshore and offshore teams. Mohamed is also a regular speaker on Dynamics CRM, GDPR, Cloud & Digital Transformation and Customer Technology Strategy. He started, and built from the ground up, the Dynamics CRM Practice for a Big 4 Management Consultancy in London. He managed to grow it to a successful multimillion pound practice with more than 40 consultants and developers delivering a number of successful high profile programmes.\r\n \r\nAs a seasoned Architect, who led and delivered large scale several thousand users implementations, he currently focuses on helping his clients with their Dynamics Programmes providing both Technical/Programme Assurance and Specialist Implementation Services along with onshore and offshore development capabilities. \r\n\r\nAcademically, Mohamed holds a Masters in Business Management from Henley Business School, University of Reading, UK and a Masters in Software Engineering from University of Nottingham, UK. He is also a certified SCRUM Master and KPMG accredited Engagement Leader.\r\n\r\nSpecialties: \r\n\r\nMicrosoft Dynamics 365, Dynamics CRM online (CRM Cloud) and on-premise. Customer Digital platforms including .Net MVC Portals and Dynamics 365 integrated websites.\r\nCertified in CRM Online, CRM 2016, CRM 2015, CRM 2013, 2011, CRM 4.0 and CRM 3.0, Integration and Data Migration (Scribe MVP), Certified SCRUM Master and a wider technology experience.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4478710/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90735"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Mohamed Mostafa",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "702999",
+  "attendeeId": "e6ac1633-cd63-4719-be53-9de6d1333378",
+  "firstName": "Diaundra",
+  "lastName": "Jones",
+  "displayName": "Diaundra Jones",
+  "jobTitle": "Product Marketing Manager",
+  "company": "Microsoft",
+  "bio": "Diaundra is a Product Marketing Manager for Microsoft Teams.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4511006/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86582",
+   "86583"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Diaundra Jones",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "703050",
+  "attendeeId": "f8bf17bd-3372-42f9-b67c-478cf6bb7b70",
+  "firstName": "Chris",
+  "lastName": "McNulty",
+  "displayName": "Chris McNulty",
+  "jobTitle": "Sr. Product Manager",
+  "company": "Microsoft",
+  "bio": "TBD",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4523734/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86598",
+   "86600"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Chris McNulty",
+  "lastUpdate": "2020-01-27T19:20:14.762+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "703851",
+  "attendeeId": "14b992d5-4651-49a7-8e04-ff080448ca2f",
+  "firstName": "Tiander",
+  "lastName": "Turpijn",
+  "displayName": "Tiander Turpijn",
+  "jobTitle": "Senior Program Manager",
+  "company": "Microsoft",
+  "bio": "Senior Program Manager in the Security C+I Engineering team",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4526159/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86559"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Tiander Turpijn",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "704342",
+  "attendeeId": "ca2a5e0c-7e32-4eb9-89ff-d223a749b407",
+  "firstName": "Elena",
+  "lastName": "Djonova",
+  "displayName": "Elena Djonova",
+  "jobTitle": "Technical Specialist",
+  "company": "Microsoft",
+  "bio": "Technical Specialist for D365 Finance and Operations @Microsoft",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4526963/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86399"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Elena Djonova",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "704728",
+  "attendeeId": "909c84a4-8ef7-4ed6-82f0-82cad7e7f25e",
+  "firstName": "Bill",
+  "lastName": "Ayers",
+  "displayName": "Bill Ayers",
+  "jobTitle": "Technical Director",
+  "company": "Flow Simulation Ltd",
+  "bio": "Dr Bill Ayers is a consultant developer and solution architect who has been working with computers for over 30 years. He originally earned his PhD in applications of computers in engineering before specialising in collaboration with SharePoint and more recently Microsoft 365. He also specialises in mobile development and agile software development practices. He is a Microsoft Certified Master and Charter MCSM for SharePoint, and a Microsoft Certified Trainer and Office Development MVP. He has also taken over two dozen Microsoft certifications and is a CompTIA CTT+ certified classroom trainer.  He speaks regularly at international conferences and user groups and is based in Sheffield, UK.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4461570/biggest.png",
+  "blog": "https://www.spdoctor.com/",
+  "twitter": "@SPDoctor",
+  "linkedIn": "https://www.linkedin.com/in/billayers/",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86617"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Bill Ayers",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "707057",
+  "attendeeId": "ce81859d-bd0b-4e08-b1da-6dcc7e2f2a39",
+  "firstName": "Ahmed",
+  "lastName": "Al Chami",
+  "displayName": "Ahmed Al Chami",
+  "jobTitle": "Sr. Solutions Specialist",
+  "company": "Microsoft",
+  "bio": "Sr. Solutions Specialist for Dynamics 365 Finance and Operations",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528385/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86404"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ahmed Al Chami",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "707101",
+  "attendeeId": "a944dd94-83e7-4ffb-8e17-d8c61be7d893",
+  "firstName": "Tiberiu George",
+  "lastName": "Covaci",
+  "displayName": "Tiberiu George Covaci",
+  "jobTitle": "CTO",
+  "company": "Cloudeon A/S",
+  "bio": "TBU",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528574/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86432",
+   "86490"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Tiberiu George Covaci",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "707167",
+  "attendeeId": "7dc2bc9f-88b0-4f6b-ad90-480369632af8",
+  "firstName": "Jasjit",
+  "lastName": "Chopra",
+  "displayName": "Jasjit Chopra",
+  "jobTitle": "CEO",
+  "company": "Penthara Technologies",
+  "bio": "Passionate technologist running a small IT consulting company called Penthara Technologies. Believe in making a change in people’s lives and community by sticking to being human, empathetic and transparent.\r\n\r\nMicrosoft MVP in Azure space for 2 years and industry experience of 15 years plus. Microsoft certified in SharePoint and Azure.\r\n\r\nIn free time love working with DIY projects with raspberry pi’s and some cool and innovative sensor technologies out there today.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528822/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90722"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Jasjit Chopra",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "707230",
+  "attendeeId": "bd65dd52-132b-4fa2-92a8-25aa8f07342a",
+  "firstName": "Andy",
+  "lastName": "Malone",
+  "displayName": "Andy Malone",
+  "jobTitle": "SNR Technology & Cybersecurity Instructor",
+  "company": "Quality Training (Scotland) Ltd",
+  "bio": "Winning the coveted Microsoft Speaker Idol competition in 2006 catapulted Andy into a prestigious international speaking career. Today, Andy is not only a world class conference speaker but is also a renowned security & technology instructor who has delivered ground breaking content to tens of thousands worldwide. His passionate style of delivery combined with a sense of fun has become his trademark and has won him multiple awards and global acclaim at events including, Microsoft Ignite, MacSysAdmin, Spiceworld, The Cybercrime Security Forum, NIC and many more. Although teaching and consulting on cloud and cybersecurity remain his primary focus. Andy also loves to inspire, and with technology ever changing, there's often an interesting story to be told.  \r\n\r\nApart from work and his family to keep him busy, Andy also has a passion for writing. As well as contributing to Tribe of Hackers by Marcus Carey & Learn Social Engineering by Dr Erdal Ozkaya, both of which were ranked highly on Amazon. Andy has also authored two fiction novels, The Seventh Day and Shadows Rising. Which won prestigious book awards in the US. Andy is currently writing his third book in the trilogy which will be published in early next year.  Follow Andy on Twitter @AndyMalone",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4400988/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86523",
+   "86526",
+   "86620",
+   "86629"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Andy Malone",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "708017",
+  "attendeeId": "0ee3fab5-e941-401a-9a6d-468e0922133d",
+  "firstName": "Scott",
+  "lastName": "Seely",
+  "displayName": "Scott Seely",
+  "jobTitle": "Principal Solution Architect",
+  "company": "Microsoft",
+  "bio": "Scott has worked on a large variety of systems over his career. He tested the logic in the Boeing 777 autopilot, built software to run refrigerated warehouses, created a system to transmit medical data from an ambulance to the hospital, and built building door management systems. On Azure, he helped build a scalable actuarial modeling system and delivered a kiosk based movie rental system. At Microsoft, he has worked on WCF, Service Bus, and Notification Hubs. He used his breadth of knowledge to co-author five books, speak at user groups across the US, and teach for Pluralsight and Wintellect. Today, he spends his time helping Microsoft customers in financial services understand how to use Azure.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4530158/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "91186",
+   "91187"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Scott Seely",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "708520",
+  "attendeeId": "2f86bc74-a0a7-4d84-a6b6-cd59ae36160c",
+  "firstName": "Allan",
+  "lastName": "Pead",
+  "displayName": "Allan Pead",
+  "jobTitle": "CTO",
+  "company": "AD Soft",
+  "bio": "Allan Pead is an architect and software developer with more than 20 years commercial experience.  The love for programming started with writing that first BASIC program on a ZX Spectrum as a child.  What excites him is any project that involves mobile and / or IoT devices.  He is very happy to be in a position where his passion and hobby is also his day job. \r\n\r\nAllan is a Xamarin MVP and a Microsoft Development Technologies MVP based in Cape Town South Africa.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528830/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92327",
+   "92328",
+   "92329"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Allan Pead",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "709325",
+  "attendeeId": "894c6b42-5a53-4287-b19f-cc373843b9bd",
+  "firstName": "Sylvain",
+  "lastName": "RENOUIL",
+  "displayName": "Sylvain RENOUIL",
+  "jobTitle": "Surface Global Black Belt",
+  "company": "Microsoft",
+  "bio": "As EMEA Surface GBB, Sylvain RENOUIL is responsible for supporting the big opportunities with strategic customers, as well as insuring readiness of certified Partners, and incubating new Surface products, with its related ecosystem and technologies.\r\n \r\nSylvain joined Microsoft in February 2016. He was formerly Business Development Manager Europe, in charge of the Software Editors at Samsung Electronics.\r\n \r\nSylvain holds a master degree of Computer Science and Electronics at the Polytech Sorbonne University (Paris), and a master degree of International Business at the Sorbonne Business School (Paris).",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4533374/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90720",
+   "91281"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "",
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Sylvain RENOUIL",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "709891",
+  "attendeeId": "dfbca435-c694-4a8c-b7f0-a9f5863b2832",
+  "firstName": "Christine",
+  "lastName": "Alford",
+  "displayName": "Christine Alford",
+  "jobTitle": "Director, Commercial Marketplace",
+  "company": "Microsoft",
+  "bio": "Christine is the Director of Business Program Management in Microsoft’s Partner Experience & Startup Team in the Cloud + AI engineering division. Our charter is to win the hearts and minds of our cloud innovation partners and design the pathways for startups to partner successfully with Microsoft. Specifically, Christine leads partner Go-To-Market for marketplace. Prior to this role Christine held a variety of leadership roles in product and program management at SMART Technologies, Johnson & Johnson & American Express.\r\n\r\nChristine is an MBA graduate of the London Business School with an undergraduate degree from Yale University. Outside of work Christine loves to run (although not quickly), play tennis and force friends to try her favorite restaurants.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4534960/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "91184",
+   "91185"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Intermediate (200)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Christine Alford",
+  "lastUpdate": "2020-01-27T21:50:14.965+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "712623",
+  "attendeeId": "a4b75dce-57f9-4676-a477-1106d44be6b7",
+  "firstName": "Michael",
+  "lastName": "Niehaus",
+  "displayName": "Michael Niehaus",
+  "jobTitle": "Principal Program Manager",
+  "company": "Microsoft",
+  "bio": "After a few years in product marketing talking about Windows deployment and Windows as a service topics, Michael Niehaus has moved back to the technical side of the house, working as a principal program manager on the modern deployment team, responsible for Windows AutoPilot and related technologies.  Previously, Michael was a longtime program manager and developer for the Microsoft Deployment Toolkit, having joined Microsoft in 2004 after spending 14 years working in enterprise IT.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4539728/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86561",
+   "86563"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Michael Niehaus",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "712663",
+  "attendeeId": "5cf2f5a1-9b2f-4efa-b31d-638ad0bfc927",
+  "firstName": "Laurent",
+  "lastName": "Bugnion",
+  "displayName": "Laurent Bugnion",
+  "jobTitle": "Cloud Advocate",
+  "company": "Microsoft",
+  "bio": "Laurent works as Senior Cloud Developer Advocate for Microsoft Azure after almost 10 years spent working for IdentityMine and Valorem, two leading firms in Microsoft technologies. He codes in Azure, .NET, Windows, WPF, Xamarin (iOS and Android), ASP.NET (Core and Classic). On his free time, he writes for technical publications such as MSDN Magazine, publishes technical videos on YouTube and Microsoft Channel 9, and his blog is on blog.galasoft.ch. He is a frequent speaker at conferences such as Microsoft Ignite, Microsoft Build, TechEd, VS Live, Techorama and many other international events. Prior to joining Microsoft, he was a Microsoft Most Valuable Professional for Windows development from 2007 to 2017, a Microsoft Regional Director from 2013 and a Xamarin Most Valuable Professional from 2015. He is also the author of the well-known open source framework MVVM Light for Windows, WPF and Xamarin.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4318908/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86471",
+   "86476",
+   "90733"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Laurent Bugnion",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "712694",
+  "attendeeId": "3d04caa0-6a23-4c40-871c-015df6c4d078",
+  "firstName": "Ari",
+  "lastName": "Nadin",
+  "displayName": "Ari Nadin",
+  "jobTitle": "Director, Modern Workplace CoE",
+  "company": "Avanade",
+  "bio": "I got my first MCSE in Windows NT 4.0, over 20 years ago. Since starting in IT in 1989, I have worked on the customer side and the vendor side, on five continents and across numerous industries, from startups to Fortune 50s. I started out in tech support, became a server admin, and eventually got to work on network infrastructure. After several years running voice, video and data networking infrastructure at HBO, I went to business school and got an MBA focused on Global Business and Leading Change. I think that's when I discovered my passion for the human experience of technology. We can make a difference for each other in a profound and lasting way, and that's what's exciting to me about what we do.\r\n\r\nNot long after that I moved to Singapore and started focusing on workplace technologies for enterprise customers. This is the stuff that office workers interact with for more than half of their day, and that affects the life of everyone who collects a paycheck. When we get this stuff right, lots of good things happen. I love that half of my job is talking to companies about how much of a difference they can make in the lives of their employees and customers and that the other half is bringing that message to life.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4540467/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92250"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Intermediate (200)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ari Nadin",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "712734",
+  "attendeeId": "0d4b3587-3b00-4b69-846b-bc8b6cf2adb1",
+  "firstName": "Orin",
+  "lastName": "Thomas",
+  "displayName": "Orin Thomas",
+  "jobTitle": "Cloud Ops Advocate",
+  "company": "Microsoft",
+  "bio": "Orin Thomas has written more than 3 dozen books for Microsoft Press on topics including Windows Server, Windows Client, Azure, Office 365, System Center, Exchange Server, Security, and SQL Server. He has authored Azure Architecture courses at Pluralsight, has authored multiple Microsoft Official Curriculum and EdX courses on a variety of IT Pro topics, and is completing a Doctorate of Information Technology on cloud computing security and compliance at Charles Sturt University. You can follow him on twitter at http://twitter.com/orinthomas",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4352201/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86504",
+   "86509",
+   "90731"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Orin Thomas",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "713474",
+  "attendeeId": "11176a6a-2e58-4d00-b2e1-bd0aa9a1d8df",
+  "firstName": "Roshan",
+  "lastName": "Sabapaty",
+  "displayName": "Roshan Sabapaty",
+  "jobTitle": "Senior Program Manager",
+  "company": "Microsoft",
+  "bio": "Program Manager for Office 365 engineering based in Dubai taking care of network connectivity and performance. Works directly with customers and partners world wide to build network connectivity that is secure, scalable and high performing for Microsoft 365 and Azure services.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4543304/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90708"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Roshan Sabapaty",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "713875",
+  "attendeeId": "ec543eb9-7dad-4e6f-a7f7-4961014ba827",
+  "firstName": "Aditi",
+  "lastName": "Gangwar",
+  "displayName": "Aditi Gangwar",
+  "jobTitle": "Program Manager",
+  "company": "Microsoft",
+  "bio": "Aditi works on PDF in Edge, focusing on Accessibility, and Enterprise Experiences. At Ignite, Aditi will talk about how the new Microsoft Edge has features as cross-platform compatibility, security, and ease of use, which allow Enterprise admins to manage and leverage Edge better.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4524370/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92259",
+   "92260",
+   "92261"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Foundational (100)",
+   "Intermediate (200)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Aditi Gangwar",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "714668",
+  "attendeeId": "86550f72-4999-4ab8-8d01-37c9cfa96689",
+  "firstName": "Tracy",
+  "lastName": "Van der Schyff",
+  "displayName": "Tracy Van der Schyff",
+  "jobTitle": "Microsoft 365 Coach & Catalyst",
+  "company": "The Guid Stuff",
+  "bio": "Facilitating the evolution of human capabilities, Tracy's passion is to empower people and therefore training and change management lie close to her heart. Her Mission is to positively impact WHAT and HOW people create, as she believes that what we design / create, designs / creates us back (Ontological Design). It is about enabling others to serve themselves better, expand their possibilities, increase their capacity to learn, act more effectively and better design their future.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4371288/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90710"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Tracy Van der Schyff",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "714853",
+  "attendeeId": "14607ea9-42de-4d36-bd56-793e5251fb59",
+  "firstName": "Mohamed",
+  "lastName": "Mahmoud",
+  "displayName": "Mohamed Mahmoud",
+  "jobTitle": "Dynamics 365 Solution Architect",
+  "company": "Microsoft",
+  "bio": "TBD",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4504436/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86401",
+   "86415"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Mohamed Mahmoud",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "715251",
+  "attendeeId": "cef5e1be-a952-4c61-8319-289c77b8b992",
+  "firstName": "Ali Jibran",
+  "lastName": "Sayed Mohammed",
+  "displayName": "Ali Jibran Sayed Mohammed",
+  "jobTitle": "Solution Architect",
+  "company": "Microsoft",
+  "bio": "Dynamics 365 Solution Architect in Microsoft",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547450/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86416",
+   "86418"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ali Jibran Sayed Mohammed",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "715262",
+  "attendeeId": "48288b20-27f1-4ebb-ad84-42694be855ed",
+  "firstName": "Ercument",
+  "lastName": "Turkmenoglu",
+  "displayName": "Ercument Turkmenoglu",
+  "jobTitle": "PARTNER TECHNICAL ARCHITECT",
+  "company": "MICROSOFT",
+  "bio": "Partner Technical Architect \r\nMicrosoft Dubai\r\nMiddle East & Africa Market",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547539/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90721"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ercument Turkmenoglu",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "715281",
+  "attendeeId": "fd75af64-0798-464a-bc85-0adc89763d07",
+  "firstName": "Ahmed",
+  "lastName": "Khairy",
+  "displayName": "Ahmed Khairy",
+  "jobTitle": "Technical Sales Manager",
+  "company": "Microsoft",
+  "bio": "Ahmed is a technical sales manager with Microsoft UAE handling Microsoft's collaboration as well as security suite of products across the Gulf region for both Enterprise Commercial as well as Public Sector customers Ahmed's experience is quite diverse having worked in several disciplines (consultancy, engineering and sales) as well as across several verticals including but not limited to airlines, telecommunications, oil and gas and FSI. His experience is backed with a Masters degree as well as several technical certifications.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547578/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86566"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Ahmed Khairy",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "715283",
+  "attendeeId": "da80cc73-2253-4bb4-8f8c-ba7300e287b9",
+  "firstName": "Christian",
+  "lastName": "Nwamba",
+  "displayName": "Christian Nwamba",
+  "jobTitle": "Ms",
+  "company": "Microsoft",
+  "bio": "I’m a Software Engineer and love making things that might possibly work using JavaScript. I currently work as a Senior Cloud Developer Advocate at Microsoft focussing on startups, Azure and JavaScript. I was also a Developer Advocate for 2 years at Cloudinary before joining Microsoft. Before becoming an advocate, I loved working as a consultant.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547587/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86450",
+   "86486"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Christian Nwamba",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "715291",
+  "attendeeId": "1eccdf2f-dd33-4f1d-87cd-bff8376c6e75",
+  "firstName": "Bradley",
+  "lastName": "Stewart",
+  "displayName": "Bradley Stewart",
+  "jobTitle": "Sr Cloud Solution Architect",
+  "company": "Microsoft",
+  "bio": "Bradley Stewart joined Microsoft in 2017 as a Sr Cloud Solution Architect in the One Commercial Partner team supporting Microsoft's partners across the MEA region.\r\n\r\nBradley is a specialist Azure CSA covering areas of Cyber Security, DC Modernization, Desktop Virtualization, and Hybrid Cloud.\r\n\r\nBradley was born in London, UK, and is currently completing his Masters (MSc) in Computer Science and Cyber Security from the University of Staffordshire, UK.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547605/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86431"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Bradley Stewart",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "716951",
+  "attendeeId": "f477c575-d31e-4860-9d7e-0ed763a693f5",
+  "firstName": "Rami",
+  "lastName": "Calache",
+  "displayName": "Rami Calache",
+  "jobTitle": "Technical Specialist Manager",
+  "company": "Microsoft",
+  "bio": "A Technical Specialist Manager at Microsoft with 15+ years of experience in Collaboration, Communications and Security solutions.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4542770/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86564",
+   "86566"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "",
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Rami Calache",
+  "lastUpdate": "2020-01-23T21:45:14.591+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "717841",
+  "attendeeId": "3c9fa019-c857-4440-8c14-b943e2cef305",
+  "firstName": "Subha",
+  "lastName": "Bhattacharyay",
+  "displayName": "Subha Bhattacharyay",
+  "jobTitle": "Principal Group Program Manager",
+  "company": "Microsoft Corporation",
+  "bio": "Principal Group Program Manager for Identity CXP team to drive the Customer Experience with Support and Incident Communications.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4552693/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86549"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Subha Bhattacharyay",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "717897",
+  "attendeeId": "6c5ea6bd-a0a8-400a-b191-d2c3f39a650f",
+  "firstName": "Bernd",
+  "lastName": "Verst",
+  "displayName": "Bernd Verst",
+  "jobTitle": "Cloud Developer Advocate",
+  "company": "Microsoft",
+  "bio": "Bernd Verst if a developer advocate with a decade of experience in cloud native application development.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4552852/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86434",
+   "86614"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Bernd Verst",
+  "lastUpdate": "2020-01-25T00:45:13.91+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719728",
+  "attendeeId": "c76d6935-6d61-44dd-84ff-b5dea69b251e",
+  "firstName": "April",
+  "lastName": "Edwards",
+  "displayName": "April Edwards",
+  "jobTitle": "Senior Software Engineer",
+  "company": "Microsoft",
+  "bio": "April is a senior software engineer and cloud advocate for Microsoft specializing in datacentre modernization and application transformation.  Her focus is advocating the cloud to customers and taking them on a journey to what is possible in the cloud.  Migrating customers away from legacy methods into the new world of serverless and containers, where code comes first.  April works with orgranizations to promote cloud adoption and implementing DevOps.  She works on the Commercial Software Engineering team at MIcrosoft deploying cloud native solutions.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4368205/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86429",
+   "86484",
+   "86505"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "April Edwards",
+  "lastUpdate": "2020-01-25T00:45:13.91+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719747",
+  "attendeeId": "0d4fddfd-8e8f-4f16-af73-8f6fc359c6a0",
+  "firstName": "Roelf",
+  "lastName": "Zomerman",
+  "displayName": "Roelf Zomerman",
+  "jobTitle": "Cloud Solution Architect",
+  "company": "Microsoft",
+  "bio": "As a Cloud Solution Architect in the Enterprise & Partner Group with a focus on (Cloud) Infrastructure and Identity Management and solutions. I strive to help businesses leverage the capabilities of Azure to enable them to achieve more. Businesses today need to adapt increasingly fast to changing customer requirements and business goals while making their complex IT easy for end-users to use. It is my role to help businesses to find new opportunities in their IT landscape, decide on the best architecture to use, help them during the transformation and ultimately provide better services towards their users, customers and partners using Azure Cloud Services.\r\n\r\nAs an active writer, I have my own blog on which I post Azure related information, mostly focused towards Azure Infrastructure and Identity related topics: blog.studiographic.nl",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555738/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86448"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Roelf Zomerman",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719750",
+  "attendeeId": "1e330cf9-878d-4282-9e58-faf0b2872590",
+  "firstName": "David",
+  "lastName": "Maskell",
+  "displayName": "David Maskell",
+  "jobTitle": "Manager",
+  "company": "Microsoft",
+  "bio": "David Maskell has been in the IT Security field for over 20 years, having had various experiences with nearly all security has to offer including 13 years in a Microsoft Security partners and 8 years in Microsoft in the security field. He is now part of an global team of experts in the security field and is Dubai based. He holds various industry standard certifications including CISM, CISA, CISSP, CCSK and others.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555766/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86548",
+   "92251"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "David Maskell",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719751",
+  "attendeeId": "55ded1b2-81ec-490d-bcf8-5dd0a6f84aa2",
+  "firstName": "George",
+  "lastName": "Moussalem",
+  "displayName": "George Moussalem",
+  "jobTitle": "PRINCIPAL PROGRAM MANAGER",
+  "company": "Microsoft",
+  "bio": "George is a principal Program Manager in the Office 365 engineering group, managing a portfolio of large enterprise customers in Europe, Middle East, and Africa across various industries. His primary accountability is to ensure customers are successful in their journey to the Microsoft 365 cloud and help achieve business value quicker. Being part of the customer experience team, he also serves customers as a connection point directly into the product groups to establish direct engineering engagements and to submit customer requests and feedback to help shape and improve our products and services. \r\nGeorge has been critical in building the FastTrack program and creating collateral since it inception which is Microsoft’s success service to continuously evolve and streamline the methodology, remove complexity, and reduce cost based on experience with thousands of customers to assist enterprises deploy, migrate to, and adopt Microsoft 365 services in their organization. \r\nEver since joining Microsoft in 2007, he has been exclusively involved in helping customers move their estate and users to the cloud, starting with BPOS to what eventually evolved into Office 365, now part of the Microsoft 365 suite which also includes Windows 10 and Enterprise Mobility and Security.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555764/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90719",
+   "90725"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "George Moussalem",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719756",
+  "attendeeId": "7271e2cc-6d09-433a-8200-37abbea2ceb2",
+  "firstName": "Anca",
+  "lastName": "Ventura",
+  "displayName": "Anca Ventura",
+  "jobTitle": "Sr. Product Marketing Lead",
+  "company": "Microsoft",
+  "bio": "Anca Ventura is Senior Product Marketing Manager for the Surface commercial business in the Microsoft Middle East and Africa region. Anca arrived to MEA in 2018 from Microsoft Corporation Redmond, U.S.A, where she acted as a Senior Product Marketing Manager in the Windows & Devices global marketing team. Prior to her role at Microsoft Corporation Redmond, she worked as Senior Product Marketing Manager for Microsoft Mobile Device Sales with 18 countries in the Middle East, Near East, Emerging Asia, North Africa, Levant, Turkey and Israel. During her tenure at Microsoft, Anca was highly recognized for successfully driving the long-term direction and the go-to-market for the most innovative and high-profile Microsoft and Windows features and devices including Microsoft Surface, Windows Hello & Security, and Windows Mixed Reality. Anca achieved multiple awards and distinctions in her professional career. She brings an overall successful track record of 19+ years in managing and expanding hardware, software and services categories attaining sales and profitability targets on global scale businesses for Microsoft, Nokia, Siemens, and Vodafone. Having lived and worked in Central & Eastern Europe, Western Europe, Middle East and Africa, and in the United States, she also brings strong cross-cultural and cross-regional intelligence. Originally from Bucharest, Romania, Anca lives in Dubai, United Arab Emirates. Anca has an MBA from the Washington State University, Washington State, United States of America, in progress, and she earned a bachelor’s degree in international business from the Bucharest University of Economics Studies.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555835/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "90724"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Anca Ventura",
+  "lastUpdate": "2020-01-27T19:00:14.329+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "719772",
+  "attendeeId": "80ea5741-437a-4dd2-8e85-33599d713f93",
+  "firstName": "Giorgio",
+  "lastName": "Sardo",
+  "displayName": "Giorgio Sardo",
+  "jobTitle": "General Manager",
+  "company": "Microsoft",
+  "bio": "Giorgio Sardo is currently an Engineering General Manager in the Experiences and Devices organization at Microsoft Corp. He runs PAX (Partners, Analytics and essential eXperiences), a team of PM, developers, designers and data engineers in Redmond and other locations in US and Europe.\r\n\r\nHe leads product management and engineering of impactful app and web experiences (across Windows 10, Edge, Surface devices, and Microsoft 365) in partnership with strategic consumer and commercial ISVs in the industry like Amazon, Apple, Facebook, Netflix, SAP, Tencent and hundreds of other talented partners.\r\n\r\nHe is also responsible for a well-established portfolio of core inbox apps and services on Windows that reach millions of users every day, like Movies & TV, Notepad, and Calculator.\r\n\r\nGiorgio is an advocate of Web Standards and Open Source. With his team he open-sourced popular Windows apps and developer toolkits, and drove breadth developer activities around the world like the Insider Dev Tour. He is a professional speaker and presented at hundreds of conferences around the globe like TEDx, Future of the Web, and Microsoft Build.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4480758/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86618"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Giorgio Sardo",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "721311",
+  "attendeeId": "25de214a-d5a0-4f45-b06a-35995910901e",
+  "firstName": "Jessica",
+  "lastName": "Deen",
+  "displayName": "Jessica Deen",
+  "jobTitle": "Senior Cloud Advocate",
+  "company": "Microsoft",
+  "bio": "Jessica is a Cloud Developer Advocate for Microsoft focusing on Azure, Infrastructure, DevOps, and OSS. Prior to joining Microsoft, she spent over a decade as an IT Consultant / Systems Administrator for various corporate and enterprise environments, catering to end users and IT professionals in the San Francisco Bay Area. Jessica holds three Microsoft Certifications (MCP, MSTS, Azure Infrastructure), 3 CompTIA certifications (A+, Network+, and Security+), 4 Apple Certifications, and is a former 4-year Microsoft Most Valuable Professional for Windows and Devices for IT. In 2013, she also achieved her FEMA certification from the U.S Department of Homeland Security, which recognizes her leadership and influence abilities during times of crisis and emergency.\r\n\r\nWhen she’s not doing something geeky, you can find her doing something active, most likely running out of breath at her local CrossFit gym or hiking. She also enjoys biking (motorcycles and/or bicycles), shooting, eating, reading, and hanging with her 5-year-old rescue pup.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4559564/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86488",
+   "86489"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Jessica Deen",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "722024",
+  "attendeeId": "2ef20005-7b3a-4ccb-ab90-812a753faaef",
+  "firstName": "Hosam",
+  "lastName": "Kamel",
+  "displayName": "Hosam Kamel",
+  "jobTitle": "Azure Application Development Specialist",
+  "company": "Microsoft",
+  "bio": "Azure AppDev/DevOps Specialist with 13 years of software development and architecture experience, 10+ years with Microsoft helping customers transition to the cloud through Apps Modernization, DevOps Adoption, Cloud-native applications, and serverless computing.\r\n•\tLead Overall App Dev and DevOps Engagements for Largest Microsoft Azure customers in the UAE region.\r\n•\tWorked on large app modernization and DevOps projects in UAE.\r\n•\tMicrosoft Worldwide Community lead for ALM and DevOps community.\r\n•\tCertified: CKAD-Kubernetes Application Developer, Azure Solutions Architect Expert, Azure DevOps Engineer Expert, Microsoft Certified Trainer 2018-2019, Azure Developer Associate, Scrum Master, SAFe Agilist",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4458952/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86522"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Hosam Kamel",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "722025",
+  "attendeeId": "6e9eb68f-fd0b-4d8a-93ee-86e7a8b727d5",
+  "firstName": "James",
+  "lastName": "Toulman",
+  "displayName": "James Toulman",
+  "jobTitle": "Technical Director",
+  "company": "Digital Energy",
+  "bio": "I work as Technical Director and partner in Digital Energy based out of Dubai. We specialise in providing Data Science, AI and Cloud solutions for energy and asset intensive industries globally. I was awarded Microsoft MVP status in Microsoft Azure in 2019 and have ran the local user group Azure UAE for the last two years.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4561204/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86508",
+   "95086",
+   "95244"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "James Toulman",
+  "lastUpdate": "2020-01-30T21:20:15.449+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "722033",
+  "attendeeId": "32b9576d-a0ca-441f-86fd-2c742946d13c",
+  "firstName": "Marc",
+  "lastName": "Windle",
+  "displayName": "Marc Windle",
+  "jobTitle": "Principal Program Manager",
+  "company": "Microsoft",
+  "bio": "Marc is a Principal Program Manager on the SharePoint Online and OneDrive for Business platform team. A graduate of the University of Victoria and originating from Vancouver, Canada, Marc has worked on various aspects of SharePoint since joining Microsoft in 2008.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4534503/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86595",
+   "86596"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Marc Windle",
+  "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "723474",
+  "attendeeId": "240692cc-2152-4a5f-9b30-adc9bc235902",
+  "firstName": "Sandeep",
+  "lastName": "Ravindran",
+  "displayName": "Sandeep Ravindran",
+  "jobTitle": "Technical Specialist",
+  "company": "Microsoft",
+  "bio": "On a journey to improve Cyber Security posture of organizations with Microsoft technologies , products and solutions .Security, trust and privacy are the foundation of every digital transaction. Cyber Security is a long road ahead. Lifelong learning and commitment to being a learn it all in every aspect of life is my aspiration.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4454267/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86527",
+   "92251"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Sandeep Ravindran",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "724361",
+  "attendeeId": "471b8f24-5990-4a87-af52-cf7bfe807ee0",
+  "firstName": "Pierre",
+  "lastName": "Roman",
+  "displayName": "Pierre Roman",
+  "jobTitle": "Senior Cloud Advocate",
+  "company": "Microsoft",
+  "bio": "Pierre Roman engages with the operations and infrastructure communities on behalf of Microsoft. He is part of a team that drives growth and adoptions of the Azure platform by providing guidance and bringing your feedback to the product groups. \r\nWith over 25 years of experience in the industry, he brings a well-rounded view of all facets of the Ops/infra lifecycle. His experiences enable him to relate to his audiences and cultivate relationships at all levels (from the nuts and bolts guy/gal to management.)\r\nHe’s a husband, a dad, a hockey fan, a gadget freak and a geek.\r\nPierre is always ready for a conversation (in English or français - naturellement).",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4341857/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86473",
+   "86507",
+   "90734"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Pierre Roman",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "726799",
+  "attendeeId": "dc171ff1-28c7-4cc9-b6d7-b7ce89559a61",
+  "firstName": "Hatim",
+  "lastName": "Nagarwala",
+  "displayName": "Hatim Nagarwala",
+  "jobTitle": "Technical Lead",
+  "company": "AppsWave",
+  "bio": "Full Stack Developer with hands on experience of designing, developing and maintaining web as well as mobile applications since 8 years. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Highly skilled at collaborating with team members to ship beautiful products within deadlines. Specialties includes Web Apps using ASP.NET & .NETCore, C#, React & Angular and Mobile Applications using Xamarin which are cloud centric and revolves around Microsoft Azure and AWS in a combination of solutions which involves IaaS and PaaS. Love to develop Bots and cognitive services apps. Community leader at Microsoft Developers UAE group.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4561156/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86433",
+   "95085",
+   "95244"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Hatim Nagarwala",
+  "lastUpdate": "2020-01-30T21:20:15.449+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "737384",
+  "attendeeId": "61f289f2-46f1-46fb-b699-cc635eeac9b8",
+  "firstName": "Fabrice",
+  "lastName": "Aubert",
+  "displayName": "Fabrice Aubert",
+  "jobTitle": "Cloud Solution Architect",
+  "company": "Microsoft",
+  "bio": "I have 20+ years experience in IT with a special focus on application development. I have worked with many large organization helping them to move their applications to  Azure cloud. Scalability being of the main reason to move application in Azure cloud, I am very excited, during this Ignite tour to speak about Capacity Planning and Scaling.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4592191/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86524"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Fabrice Aubert",
+  "lastUpdate": "2020-01-24T05:15:15.834+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "738427",
+  "attendeeId": "feb5776f-b1ca-4208-94c6-819df590d4ca",
+  "firstName": "Nupur",
+  "lastName": "Goyal",
+  "displayName": "Nupur Goyal",
+  "jobTitle": "Sr. Product Marketing Manager",
+  "company": "Microsoft",
+  "bio": "Nupur currently leads product marketing for security and governance products at Microsoft. An engineer at heart, Nupur has been in the product marketing space for over 14 years and has led product marketing efforts of companies like SailPoint and Duo Security.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4556223/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86549",
+   "92251"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Nupur Goyal",
+  "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "745369",
+  "attendeeId": "4ef57269-6add-4e89-81fc-707818b77577",
+  "firstName": "Hesham",
+  "lastName": "Saad",
+  "displayName": "Hesham Saad",
+  "jobTitle": "Sr. Security & Compliance Technical Specialist",
+  "company": "Microsoft",
+  "bio": "Hesham is A-Defender, CISSP, CRISC, C|EH, GIAC- GCFA and a Senior Security & Threat Protection Technical Specialist at Microsoft. Extensive experience in SecOps, Threat Protection - Management, Forensic Analysis, Incident Response and Advanced Hunting. Simply, want to hunt bad guys ... reach out to Hesham!",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4612118/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "86550",
+   "92251"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   ""
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Hesham Saad",
+  "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "747873",
+  "attendeeId": "3059ce61-e3b6-46b3-a4d5-d643952b9b0c",
+  "firstName": "Alexander",
+  "lastName": "Ermakov",
+  "displayName": "Alexander Ermakov",
+  "jobTitle": "Managing Partner",
+  "company": "Awara IT",
+  "bio": "Microsoft Regional Director in Russia, Microsoft MVP in Business Applications and Azure, inspiring speaker, MCT, MCSE, MCSA, MOMS, MCP, MBA, Certified Auditor, Partner at Awara IT, beloved husband, father of two and just a good guy.\r\n\r\nAlexander has over 25 years of experience working with IT, last 14 were tightly dedicated to Microsoft technologies in Business Applications. He had sold his heart to Dynamics NAV (now Dynamics 365 Business Central - besides he does sometimes Dynamics 365 F&O projects), and for many years in a raw evangelizes Dynamics platform inside Russia and across the board - with a focus on Russian localization and compliance with local legislation requirements.\r\n\r\nSince 2006, he works for one on the most efficient and competitive IT companies in Russia that deals with implementation of ERP systems and business consulting. Awara IT is Gold Microsoft partner for Business Applications. It is Microsoft Country Partner of the Year 2019 in Russia, as well as Dynamics 365 Business Central, Power BI and Teamwork Partner of the Year.",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4616064/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "92324"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Advanced (300)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Alexander Ermakov",
+  "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+ },
+ {
+  "@search.score": 1.0,
+  "speakerId": "760207",
+  "attendeeId": "b7d434d0-be6e-48bc-8c39-d81290925e39",
+  "firstName": "Vinayak",
+  "lastName": "Hegde",
+  "displayName": "Vinayak Hegde",
+  "jobTitle": "CTO-In-Residence, Microsoft for Startups",
+  "company": "Microsoft",
+  "bio": "Vinayak Hegde currently works as CTO-in-residence at Microsoft for\r\nStartups. With over 18 years of experience, Vinayak has built multiple\r\nproducts across different domains such as IoT, large scale networks\r\nand large scale data systems in a variety of individual contributor\r\nand senior technical leadership roles. Previously he has worked with\r\nAkamai, Inmobi, and Zoomcar.\r\n\r\nLinkedin Profile : https://www.linkedin.com/in/vinayakh/",
+  "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4621319/biggest.png",
+  "blog": "",
+  "twitter": "",
+  "linkedIn": "",
+  "facebook": "",
+  "website": "",
+  "sessionsPresenting": [
+   "93625"
+  ],
+  "sessionSets": [
+   "Session Catalog 2019",
+   "Session Scheduler",
+   "My Schedule"
+  ],
+  "products": [],
+  "levels": [
+   "Foundational (100)"
+  ],
+  "priorityTrack": [],
+  "format": [
+   ""
+  ],
+  "staffingDetails": "",
+  "assignmentName": "",
+  "assignmentType": "",
+  "currentLocation": "",
+  "assignmentStart": null,
+  "assignmentEnd": null,
+  "currentLocationOriginalSerial": "",
+  "liveLocation": false,
+  "fullName": "Vinayak Hegde",
+  "lastUpdate": "2020-01-30T19:55:14.377+00:00"
+ }
+]

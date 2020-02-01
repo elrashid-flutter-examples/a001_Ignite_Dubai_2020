@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "717897",
+ "attendeeId": "6c5ea6bd-a0a8-400a-b191-d2c3f39a650f",
+ "firstName": "Bernd",
+ "lastName": "Verst",
+ "displayName": "Bernd Verst",
+ "jobTitle": "Cloud Developer Advocate",
+ "company": "Microsoft",
+ "bio": "Bernd Verst if a developer advocate with a decade of experience in cloud native application development.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4552852/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86434",
+  "86614"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Bernd Verst",
+ "lastUpdate": "2020-01-25T00:45:13.91+00:00"
+}

@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "712623",
+ "attendeeId": "a4b75dce-57f9-4676-a477-1106d44be6b7",
+ "firstName": "Michael",
+ "lastName": "Niehaus",
+ "displayName": "Michael Niehaus",
+ "jobTitle": "Principal Program Manager",
+ "company": "Microsoft",
+ "bio": "After a few years in product marketing talking about Windows deployment and Windows as a service topics, Michael Niehaus has moved back to the technical side of the house, working as a principal program manager on the modern deployment team, responsible for Windows AutoPilot and related technologies.  Previously, Michael was a longtime program manager and developer for the Microsoft Deployment Toolkit, having joined Microsoft in 2004 after spending 14 years working in enterprise IT.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4539728/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86561",
+  "86563"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Michael Niehaus",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

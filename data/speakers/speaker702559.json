@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "702559",
+ "attendeeId": "5f5416a0-3be3-42f1-b8ed-77259c431f3e",
+ "firstName": "Jim",
+ "lastName": "Moyle",
+ "displayName": "Jim Moyle",
+ "jobTitle": "WVD GBB",
+ "company": "Microsoft",
+ "bio": "Jim Moyle has been an infrastructure technologist with over two decades of passionate involvement in the IT industry. Over the last decade he has been a specialist in the Server Based Computing, application and desktop delivery sector. He has worked with many blue chip companies around the UK including being involved in the architecture and delivery of some of the largest Citrix deployments in Europe. As the Chief Technical Evangelist for FSLogix (now with Microsoft) he is responsible for the design and execution of many world class projects. He also enjoys speaking at various industry events and you can find him sharing knowledge on YouTube, twitter @jimmoyle and on GitHub.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4522493/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "91282"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Intermediate (200)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Jim Moyle",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

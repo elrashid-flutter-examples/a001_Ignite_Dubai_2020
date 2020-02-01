@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "707057",
+ "attendeeId": "ce81859d-bd0b-4e08-b1da-6dcc7e2f2a39",
+ "firstName": "Ahmed",
+ "lastName": "Al Chami",
+ "displayName": "Ahmed Al Chami",
+ "jobTitle": "Sr. Solutions Specialist",
+ "company": "Microsoft",
+ "bio": "Sr. Solutions Specialist for Dynamics 365 Finance and Operations",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528385/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86404"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Ahmed Al Chami",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

@@ -1,0 +1,143 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 400,
+ "attendeeCount": 37,
+ "sessionId": "86476",
+ "sessionInstanceId": "86476",
+ "sessionCode": "MOD40",
+ "sessionCodeNormalized": "MOD40",
+ "title": "Debugging and interacting with production applications",
+ "sortTitle": "debugging and interacting with production applications",
+ "sortRank": 2147483647,
+ "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall E",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T11:15:00+00:00",
+ "endDateTime": "2020-02-11T12:00:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Modernizing web applications and data",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907377",
+ "speakerIds": [
+  "712663"
+ ],
+ "speakerNames": [
+  "Laurent Bugnion"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86472,
+   "title": "Migrating web applications to Azure",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+   "location": "Sheikh Rashid Hall E"
+  },
+  {
+   "sessionId": 86474,
+   "title": "Moving your database to Azure",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+   "location": "Sheikh Rashid Hall E"
+  },
+  {
+   "sessionId": 86471,
+   "title": "Enhancing web applications with cloud intelligence",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "712663"
+   ],
+   "speakerNames": [
+    "Laurent Bugnion"
+   ],
+   "speakerCompanies": [],
+   "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+   "location": "Sheikh Rashid Hall E"
+  },
+  {
+   "sessionId": 86484,
+   "title": "Managing delivery of your app via DevOps",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "719728"
+   ],
+   "speakerNames": [
+    "April Edwards"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+   "location": "Sheikh Rashid Hall E"
+  },
+  {
+   "sessionId": 90733,
+   "title": "Deploying and A/B testing without risks with deployment slots",
+   "startDateTime": "2020-02-10T07:50:00+00:00",
+   "endDateTime": "2020-02-10T08:05:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "712663"
+   ],
+   "speakerNames": [
+    "Laurent Bugnion"
+   ],
+   "speakerCompanies": [],
+   "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
+   "location": "Theater 1"
+  }
+ ]
+}

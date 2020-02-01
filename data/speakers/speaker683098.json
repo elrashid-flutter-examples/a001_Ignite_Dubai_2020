@@ -1,0 +1,47 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "683098",
+ "attendeeId": "a57aa23c-41ec-4568-8c27-a37763d63233",
+ "firstName": "Harjit",
+ "lastName": "Dhaliwal",
+ "displayName": "Harjit Dhaliwal",
+ "jobTitle": "Technology Evangelist",
+ "company": "Tech Konnect",
+ "bio": "Microsoft MVP, IT Professional, ConfigMgr Admin, Technology & Social Media Evangelist, Photographer, Microsoft Ignite Community Reporter & Roundtable member, International Speaker, and Mentor.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4481294/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86546",
+  "86551",
+  "86561",
+  "86562",
+  "86563"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Harjit Dhaliwal",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

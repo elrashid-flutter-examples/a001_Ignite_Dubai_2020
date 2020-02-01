@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "666688",
+ "attendeeId": "8a1775b9-de63-4842-977f-a2e3e54851e8",
+ "firstName": "Mark",
+ "lastName": "Wilcock",
+ "displayName": "Mark Wilcock",
+ "jobTitle": "BI Consultant",
+ "company": "Zomalex Ltd.",
+ "bio": "Mark runs a small business intelligence consultancy, Zomalex Limited, which builds data lakes, reporting systems and dashboards using Power BI and the Microsoft Data Platform. It also provides training courses on analysing and visualisng data and on Power BI.\r\n\r\nMark organises the London Business Analytics Group, a popular community meetup group that has held over 60 events in the last 5 years. \r\n\r\nMark has a MA in Natural Sciences from Cambridge and an MBA from Imperial College, London, and is a Microsoft Most Valuable Professional (MVP).",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4460761/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86403",
+  "86417"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Mark Wilcock",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

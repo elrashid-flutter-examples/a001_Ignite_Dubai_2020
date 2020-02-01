@@ -1,0 +1,167 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 224,
+ "attendeeCount": 45,
+ "sessionId": "86418",
+ "sessionInstanceId": "86418",
+ "sessionCode": "POWA50",
+ "sessionCodeNormalized": "POWA50",
+ "title": "Managing and supporting the Power Apps and Microsoft Power Automate at scale",
+ "sortTitle": "managing and supporting the power apps and microsoft power automate at scale",
+ "sortRank": 2147483647,
+ "description": "Learn how administrators and IT-Pros can manage the enterprise adoption of Power Apps and Microsoft Power Automate. Discover the features, tools and practices to monitor, protect and support your organizations' data and innovations at scale. We'll share the top tips around governance, security, and monitoring requirements, as well as strategies employed by top customers to help you land low-code powered digital transformation in your organization.",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall B",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-10T12:30:00+00:00",
+ "endDateTime": "2020-02-10T13:15:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Power Platform",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907401",
+ "speakerIds": [
+  "715251"
+ ],
+ "speakerNames": [
+  "Ali Jibran Sayed Mohammed"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86403,
+   "title": "Enabling everyone to digitize apps and processes with Power Apps and the Power Platform",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "speakerIds": [
+    "666688"
+   ],
+   "speakerNames": [
+    "Mark Wilcock"
+   ],
+   "speakerCompanies": [],
+   "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
+   "location": "Sheikh Rashid Hall B"
+  },
+  {
+   "sessionId": 86415,
+   "title": "Intelligent automation with Microsoft Power Automate",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "714853"
+   ],
+   "speakerNames": [
+    "Mohamed Mahmoud"
+   ],
+   "speakerCompanies": [],
+   "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
+   "location": "Sheikh Rashid Hall B"
+  },
+  {
+   "sessionId": 86417,
+   "title": "Enable modern analytics and enterprise business intelligence using Microsoft Power BI",
+   "startDateTime": "2020-02-10T10:00:00+00:00",
+   "endDateTime": "2020-02-10T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "666688"
+   ],
+   "speakerNames": [
+    "Mark Wilcock"
+   ],
+   "speakerCompanies": [],
+   "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
+   "location": "Sheikh Rashid Hall B"
+  },
+  {
+   "sessionId": 86416,
+   "title": "Connecting Power Apps, Microsoft Power Automate, Power BI, and the Common Data Service with data",
+   "startDateTime": "2020-02-10T11:15:00+00:00",
+   "endDateTime": "2020-02-10T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "715251"
+   ],
+   "speakerNames": [
+    "Ali Jibran Sayed Mohammed"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, we'll discuss how to use the Common Data Service, connectors, dataflows, and more to connect Power Apps, Microsoft Power Automate, and Power BI to your data.",
+   "location": "Sheikh Rashid Hall B"
+  },
+  {
+   "sessionId": 90723,
+   "title": "Learn How Microsoft Flow Is a the Perfect Automation Platform to Streamline Workflow Processes Across Your Entire IT Ecosystem",
+   "startDateTime": "2020-02-11T07:50:00+00:00",
+   "endDateTime": "2020-02-11T08:05:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "708239"
+   ],
+   "speakerNames": [
+    "Kuppurasu Nagaraj"
+   ],
+   "speakerCompanies": [],
+   "description": "TBD",
+   "location": "Theater 1"
+  },
+  {
+   "sessionId": 90722,
+   "title": "Top ten tips to securely rolling out Microsoft PowerApps and Microsoft Flow to your organization",
+   "startDateTime": "2020-02-11T10:50:00+00:00",
+   "endDateTime": "2020-02-11T11:05:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "707167"
+   ],
+   "speakerNames": [
+    "Jasjit Chopra"
+   ],
+   "speakerCompanies": [],
+   "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
+   "location": "Theater 1"
+  }
+ ]
+}

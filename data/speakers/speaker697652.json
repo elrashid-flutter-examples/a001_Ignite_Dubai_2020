@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697652",
+ "attendeeId": "261c89e0-1127-4cfa-9ca2-89c90c1d9d74",
+ "firstName": "Stavros",
+ "lastName": "Menegos",
+ "displayName": "Stavros Menegos",
+ "jobTitle": "Chief Technology Officer",
+ "company": "Entersoft SA",
+ "bio": "Education\r\n1985 - 1990: BEng Deggree @ Univeristy of Patras, Computer & IT Engineering Department, Greece\r\n1990 - 1991: Imperial College, London: Masters Deggree with Distinction on Advanced Information Technology and S/W Engineering\r\n\r\nProfessional Experience\r\n1992 - 2002: Senior S/W Engineer, Architect and R&D Director @ ComputerLogic SA - ISV for Enterprise Applications\r\n2002 - Now: Co-founder, Member Of The Board  and Chief Technology Officer @ Entersoft SA, Greece (https://www.entersoft.eu)\r\n2015 - Now: Nominated 3 times so far as a Microsoft Regional Director: (https://rd.microsoft.com/en-us/stavros-menegos)\r\n\r\nCurrently I am putting a lot of effort, R&D and consulting towards the direction of AI and Machine Learning where we can see value in the blending between Microsoft Azure Cloud and Services with other technologies, especially in the area of Python, open source ML packages and Docker / Containers platform in order to host ML services either on Microsoft Azure or on-premises. There is value for the customers, power users, the customer’s customers, that has to be incorporated and transparently mixed into the day-to-day operations of LOB operations, spanning across Invoicing, Finance, Logistics, Supply Chain, Customer Segmentation, Loyalty etc. just to name a few. There is also another field that I am working on and I can collaborate with MS Teams that has to do with the integration of MS SQL Server and Python and R Language as it will allow all those organizations that trusted their data on MS SQL Server to gain the most from ML solutions right-out of their data on SQL Server. This year alone, I managed to motivate quite a number of Medium-To-Large enterprises in Greece, Romania, Bulgaria to move onto MS SQL Server 2017 for this and many more other reasons.\r\n\r\nMicrosoft Power BI, powered by Microsoft Analysis Services, as well as other external sources is an area of primary interest in my region. BI, Analytics and Self-Service Reporting have been around fo",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509455/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92338"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Stavros Menegos",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

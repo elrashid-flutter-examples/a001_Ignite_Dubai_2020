@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "716951",
+ "attendeeId": "f477c575-d31e-4860-9d7e-0ed763a693f5",
+ "firstName": "Rami",
+ "lastName": "Calache",
+ "displayName": "Rami Calache",
+ "jobTitle": "Technical Specialist Manager",
+ "company": "Microsoft",
+ "bio": "A Technical Specialist Manager at Microsoft with 15+ years of experience in Collaboration, Communications and Security solutions.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4542770/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86564",
+  "86566"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "",
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Rami Calache",
+ "lastUpdate": "2020-01-23T21:45:14.591+00:00"
+}

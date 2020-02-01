@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "715262",
+ "attendeeId": "48288b20-27f1-4ebb-ad84-42694be855ed",
+ "firstName": "Ercument",
+ "lastName": "Turkmenoglu",
+ "displayName": "Ercument Turkmenoglu",
+ "jobTitle": "PARTNER TECHNICAL ARCHITECT",
+ "company": "MICROSOFT",
+ "bio": "Partner Technical Architect \r\nMicrosoft Dubai\r\nMiddle East & Africa Market",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4547539/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90721"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Ercument Turkmenoglu",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

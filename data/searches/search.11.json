@@ -1,0 +1,1058 @@
+{
+ "data": [
+  {
+   "@search.score": 1.0,
+   "sessionId": "85147",
+   "sessionInstanceId": "85147",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Power Platform",
+   "sortTitle": "power platform",
+   "sortRank": 2147483647,
+   "description": "Learn how to build and manage innovative business solutions with the Power Platform. Easily connect all your data to analyze real-time business performance, act on data and insights with custom built apps, and automate workflows to continuously improve the processes you work on every day, no matter your technical expertise.",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Power Platform",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120801",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86403,
+     "title": "Enabling everyone to digitize apps and processes with Power Apps and the Power Platform",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "666688"
+     ],
+     "speakerNames": [
+      "Mark Wilcock"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86415,
+     "title": "Intelligent automation with Microsoft Power Automate",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86417,
+     "title": "Enable modern analytics and enterprise business intelligence using Microsoft Power BI",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "666688"
+     ],
+     "speakerNames": [
+      "Mark Wilcock"
+     ],
+     "speakerCompanies": [],
+     "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86416,
+     "title": "Connecting Power Apps, Microsoft Power Automate, Power BI, and the Common Data Service with data",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "715251"
+     ],
+     "speakerNames": [
+      "Ali Jibran Sayed Mohammed"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, we'll discuss how to use the Common Data Service, connectors, dataflows, and more to connect Power Apps, Microsoft Power Automate, and Power BI to your data.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86418,
+     "title": "Managing and supporting the Power Apps and Microsoft Power Automate at scale",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "715251"
+     ],
+     "speakerNames": [
+      "Ali Jibran Sayed Mohammed"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how administrators and IT-Pros can manage the enterprise adoption of Power Apps and Microsoft Power Automate. Discover the features, tools and practices to monitor, protect and support your organizations' data and innovations at scale. We'll share the top tips around governance, security, and monitoring requirements, as well as strategies employed by top customers to help you land low-code powered digital transformation in your organization.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 90723,
+     "title": "Learn How Microsoft Flow Is a the Perfect Automation Platform to Streamline Workflow Processes Across Your Entire IT Ecosystem",
+     "startDateTime": "2020-02-11T07:50:00+00:00",
+     "endDateTime": "2020-02-11T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "708239"
+     ],
+     "speakerNames": [
+      "Kuppurasu Nagaraj"
+     ],
+     "speakerCompanies": [],
+     "description": "TBD",
+     "location": "Theater 1"
+    },
+    {
+     "sessionId": 90722,
+     "title": "Top ten tips to securely rolling out Microsoft PowerApps and Microsoft Flow to your organization",
+     "startDateTime": "2020-02-11T10:50:00+00:00",
+     "endDateTime": "2020-02-11T11:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "707167"
+     ],
+     "speakerNames": [
+      "Jasjit Chopra"
+     ],
+     "speakerCompanies": [],
+     "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
+     "location": "Theater 1"
+    }
+   ],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92332",
+   "sessionInstanceId": "92332",
+   "sessionCode": "BRK30199",
+   "sessionCodeNormalized": "BRK30199",
+   "title": "PowerApps and SharePoint: Better together for Intelligent Apps",
+   "sortTitle": "powerapps and sharepoint: better together for intelligent apps",
+   "sortRank": 2147483647,
+   "description": "You can now easily customize any SharePoint list form in PowerApps. Much of what we were doing with InfoPath is possible with PowerApps.  In a world where the end-users are handling information that is probably stored across different software suites, like SharePoint, Excel file, Access database, this comes like a killer feature. PowerApps is directly integrated with SharePoint and with PowerApps, you can create richly customized forms without any code. Once published, the forms are embedded within the SharePoint list and are available to all users of the list. Join me in this session on extending your business processes and explore the new concepts of zero-code apps!",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Advanced (300)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "694948"
+   ],
+   "speakerNames": [
+    "Gokan Ozcifci"
+   ],
+   "speakerCompanies": [
+    "Valo"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86524",
+   "sessionInstanceId": "86524",
+   "sessionCode": "OPS50",
+   "sessionCodeNormalized": "OPS50",
+   "title": "Preparing for growth: Capacity planning and scaling",
+   "sortTitle": "preparing for growth: capacity planning and scaling",
+   "sortRank": 2147483647,
+   "description": "When your growth or the demand for your systems exceeds, or is projected to exceed, your current capacity – that’s a “good” problem to have. However, this can be just as much of a threat to your system’s reliability as any other factor.  \r\n\r\nIn this session, dive into capacity planning and cost estimation basics, including the tools Azure provides to help with both. We wrap up with a discussion and demonstration of how Tailwind Traders judiciously applied Azure scaling features. Learn how to satisfy your customers and a growing demand, even when “challenged” by success.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Improving reliability through modern operations practices",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907368",
+   "speakerIds": [
+    "737384"
+   ],
+   "speakerNames": [
+    "Fabrice Aubert"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86508,
+     "title": "Building the foundation for modern ops: Monitoring",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "722025"
+     ],
+     "speakerNames": [
+      "James Toulman"
+     ],
+     "speakerCompanies": [],
+     "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86506,
+     "title": "Responding to incidents",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86505,
+     "title": "Learning from failure",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719728"
+     ],
+     "speakerNames": [
+      "April Edwards"
+     ],
+     "speakerCompanies": [],
+     "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86522,
+     "title": "Deployment practices for greater reliability",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "722024"
+     ],
+     "speakerNames": [
+      "Hosam Kamel"
+     ],
+     "speakerCompanies": [],
+     "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "90720",
+   "sessionInstanceId": "90720",
+   "sessionCode": "THR30036",
+   "sessionCodeNormalized": "THR30036",
+   "title": "Realize Ultimate Security with Microsoft Surface",
+   "sortTitle": "realize ultimate security with microsoft surface",
+   "sortRank": 2147483647,
+   "description": "In the world of Specter, Meltdown, and GDPR compliance your customers require devices that are designed to stay one step ahead of the next menacing threat. Attend this session to learn how Surface differentiates itself from chip to the cloud.  The session will provide a deep dive on Surface’s defense in depth strategy of built in hardware protections all the way up to the ability to address and immediately deploy protections through automated processes via the cloud or on-prem. You will leave with a firm understanding of how the Surface team works directly with engineering teams across Microsoft to ensure your investment in Surface provides you with the most secure device available.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:05:00+00:00",
+   "endDateTime": "2020-02-11T12:20:00+00:00",
+   "durationInMinutes": 15,
+   "sessionType": "Theater: 15 Minute",
+   "sessionTypeLogical": "Theater: 15 Minute",
+   "learningPath": "",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3114",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "709325",
+    "668803"
+   ],
+   "speakerNames": [
+    "Sylvain RENOUIL",
+    "Pradeep Lingam"
+   ],
+   "speakerCompanies": [
+    "Microsoft",
+    "Redington Middle East LLC"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86506",
+   "sessionInstanceId": "86506",
+   "sessionCode": "OPS20",
+   "sessionCodeNormalized": "OPS20",
+   "title": "Responding to incidents",
+   "sortTitle": "responding to incidents",
+   "sortRank": 2147483647,
+   "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Improving reliability through modern operations practices",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907371",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86508,
+     "title": "Building the foundation for modern ops: Monitoring",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "722025"
+     ],
+     "speakerNames": [
+      "James Toulman"
+     ],
+     "speakerCompanies": [],
+     "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86505,
+     "title": "Learning from failure",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719728"
+     ],
+     "speakerNames": [
+      "April Edwards"
+     ],
+     "speakerCompanies": [],
+     "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86522,
+     "title": "Deployment practices for greater reliability",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "722024"
+     ],
+     "speakerNames": [
+      "Hosam Kamel"
+     ],
+     "speakerCompanies": [],
+     "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    },
+    {
+     "sessionId": 86524,
+     "title": "Preparing for growth: Capacity planning and scaling",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "737384"
+     ],
+     "speakerNames": [
+      "Fabrice Aubert"
+     ],
+     "speakerCompanies": [],
+     "description": "When your growth or the demand for your systems exceeds, or is projected to exceed, your current capacity – that’s a “good” problem to have. However, this can be just as much of a threat to your system’s reliability as any other factor.  \r\n\r\nIn this session, dive into capacity planning and cost estimation basics, including the tools Azure provides to help with both. We wrap up with a discussion and demonstration of how Tailwind Traders judiciously applied Azure scaling features. Learn how to satisfy your customers and a growing demand, even when “challenged” by success.\r\n",
+     "location": "Sheikh Maktoum Hall D"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86620",
+   "sessionInstanceId": "86620",
+   "sessionCode": "ADM31",
+   "sessionCodeNormalized": "ADM31",
+   "title": "Role-based access control in Microsoft 365: Improve your operations and security posture",
+   "sortTitle": "role-based access control in microsoft 365: improve your operations and security posture",
+   "sortRank": 2147483647,
+   "description": "Role-based access control is essential for improving the security posture of your org, while providing IT with a focused experience based on permissions. In this session you will hear about how to use the centrally-managed, granular role-based access control in Microsoft 365 admin center.  We will dive into the new workload-specific admin roles and global reader role, showing you how to select the right administrator permissions and control who has access to your data.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T10:00:00+00:00",
+   "endDateTime": "2020-02-10T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "IT administrator’s guide to managing productivity in the cloud",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907340",
+   "speakerIds": [
+    "707230"
+   ],
+   "speakerNames": [
+    "Andy Malone"
+   ],
+   "speakerCompanies": [
+    "Quality Training (Scotland) Ltd"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86629,
+     "title": "What's new and what's next: Embrace Office 365 Group",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707230"
+     ],
+     "speakerNames": [
+      "Andy Malone"
+     ],
+     "speakerCompanies": [],
+     "description": "Office 365 groups is the membership service that drives teamwork across Microsoft 365. It’s a core underpinning of Teams, SharePoint, Outlook, SharePoint, Power BI, Dynamics CRM, and many other applications. In this session, you’ll learn the fundamentals and new innovations in Office 365 groups, including management and governance at scale, best practices for driving usage and adoption, and self-service. We will also share the Office 365 groups roadmap with you – and how coming investments will help you drive new levels of collaboration.",
+     "location": "Sheikh Rashid Hall E"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86549",
+   "sessionInstanceId": "86549",
+   "sessionCode": "SECO10",
+   "sessionCodeNormalized": "SECO10",
+   "title": "Secure your enterprise with a strong identity foundation",
+   "sortTitle": "secure your enterprise with a strong identity foundation",
+   "sortRank": 2147483647,
+   "description": "The three benefits we hear most often from our customers of Azure Active Directory are to reduce costs, improve security, and enhance user productivity. Come learn the top reasons why customers use Azure AD to gain greater visibility and control over users, apps, devices, and data. This Learning Path session is primarily targeted at organizations considering modernizing their identity and security solutions and have not yet adopted Azure AD widely, or existing customers that would like a refresher on the customer scenarios addressed.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Securing your organization",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907355",
+   "speakerIds": [
+    "717841",
+    "738427"
+   ],
+   "speakerNames": [
+    "Subha Bhattacharyay",
+    "Nupur Goyal"
+   ],
+   "speakerCompanies": [
+    "Microsoft Corporation",
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86547,
+     "title": "Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697363"
+     ],
+     "speakerNames": [
+      "Milad Aslaner"
+     ],
+     "speakerCompanies": [],
+     "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86548,
+     "title": "End-to-end cloud security for all your XaaS resources",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719750"
+     ],
+     "speakerNames": [
+      "David Maskell"
+     ],
+     "speakerCompanies": [],
+     "description": "As critical assets and information move to the cloud across apps, infrastructure and services, it’s key to have a comprehensive cloud security strategy. From billions of signals that we analyze daily, we put together a list of key challenges and use cases to run your cross-cloud environments more securely. In this session we’ll share how you can get better visibility and implement processes and controls that will help you improve the security across your SaaS, IaaS and PaaS resources.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86550,
+     "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "745369"
+     ],
+     "speakerNames": [
+      "Hesham Saad"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86559,
+     "title": "Top 10 best security practices for Azure today",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "703851"
+     ],
+     "speakerNames": [
+      "Tiander Turpijn"
+     ],
+     "speakerCompanies": [],
+     "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "90734",
+   "sessionInstanceId": "90734",
+   "sessionCode": "THR30032",
+   "sessionCodeNormalized": "THR30032",
+   "title": "Securing Azure IaaS virtual machines",
+   "sortTitle": "securing azure iaas virtual machines",
+   "sortRank": 2147483647,
+   "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T09:05:00+00:00",
+   "endDateTime": "2020-02-10T09:20:00+00:00",
+   "durationInMinutes": 15,
+   "sessionType": "Theater: 15 Minute",
+   "sessionTypeLogical": "Theater: 15 Minute",
+   "learningPath": "Managing Cloud Operations",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3114",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "724361"
+   ],
+   "speakerNames": [
+    "Pierre Roman"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92323",
+   "sessionInstanceId": "92323",
+   "sessionCode": "BRK30193",
+   "sessionCodeNormalized": "BRK30193",
+   "title": "Securing your domain starts with Active Directory, Are you sure ?",
+   "sortTitle": "securing your domain starts with active directory, are you sure ?",
+   "sortRank": 2147483647,
+   "description": "Securing identities is the main focus for Organizations moving to the cloud. Although Working anywhere, from any device and all this nice BYOD terms provides flexibility however the compromise of the employee identity on unknow devices or from malicious IP is severe threat for all organizations. Efficient protection of AD is critical in limiting the impact of such breach. Organizations cannot easily detect such compromise and Active directory might be badly configured at the same time. This session will explain how AD and Azure AD can secure identities and how to fix common AD security issues and configurations.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T12:30:00+00:00",
+   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Advanced (300)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "698253"
+   ],
+   "speakerNames": [
+    "Ahmed Nabil Mahmoud"
+   ],
+   "speakerCompanies": [
+    "Personal"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "85135",
+   "sessionInstanceId": "85135",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Securing your organization",
+   "sortTitle": "securing your organization",
+   "sortRank": 2147483647,
+   "description": "Learn how to protect your organization’s identities, data, applications, and devices across on-premises, cloud, and mobile - end to-end using the latest tools and guidance. ",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Securing your organization",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120807",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86549,
+     "title": "Secure your enterprise with a strong identity foundation",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "717841",
+      "738427"
+     ],
+     "speakerNames": [
+      "Subha Bhattacharyay",
+      "Nupur Goyal"
+     ],
+     "speakerCompanies": [],
+     "description": "The three benefits we hear most often from our customers of Azure Active Directory are to reduce costs, improve security, and enhance user productivity. Come learn the top reasons why customers use Azure AD to gain greater visibility and control over users, apps, devices, and data. This Learning Path session is primarily targeted at organizations considering modernizing their identity and security solutions and have not yet adopted Azure AD widely, or existing customers that would like a refresher on the customer scenarios addressed.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86547,
+     "title": "Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697363"
+     ],
+     "speakerNames": [
+      "Milad Aslaner"
+     ],
+     "speakerCompanies": [],
+     "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86548,
+     "title": "End-to-end cloud security for all your XaaS resources",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "719750"
+     ],
+     "speakerNames": [
+      "David Maskell"
+     ],
+     "speakerCompanies": [],
+     "description": "As critical assets and information move to the cloud across apps, infrastructure and services, it’s key to have a comprehensive cloud security strategy. From billions of signals that we analyze daily, we put together a list of key challenges and use cases to run your cross-cloud environments more securely. In this session we’ll share how you can get better visibility and implement processes and controls that will help you improve the security across your SaaS, IaaS and PaaS resources.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86550,
+     "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "745369"
+     ],
+     "speakerNames": [
+      "Hesham Saad"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86559,
+     "title": "Top 10 best security practices for Azure today",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "703851"
+     ],
+     "speakerNames": [
+      "Tiander Turpijn"
+     ],
+     "speakerCompanies": [],
+     "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    }
+   ],
+   "siblingModules": []
+  }
+ ],
+ "facets": {
+  "durationInMinutes": {
+   "displayName": "durationInMinutes",
+   "facetName": "durationInMinutes",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": 45,
+     "count": 92
+    },
+    {
+     "value": 15,
+     "count": 22
+    },
+    {
+     "value": 0,
+     "count": 16
+    },
+    {
+     "value": 60,
+     "count": 11
+    },
+    {
+     "value": 195,
+     "count": 1
+    }
+   ]
+  },
+  "sessionType": {
+   "displayName": "translate.filters.session-type",
+   "facetName": "sessionType",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "Module: 45 Minute",
+     "count": 79
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 22
+    },
+    {
+     "value": "Breakout: 45 Minute",
+     "count": 20
+    },
+    {
+     "value": "Learning Path",
+     "count": 16
+    },
+    {
+     "value": "",
+     "count": 4
+    },
+    {
+     "value": "Workshop: 120 Minute",
+     "count": 1
+    }
+   ]
+  },
+  "learningPath": {
+   "displayName": "translate.filters.learning-path",
+   "facetName": "learningPath",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 40
+    },
+    {
+     "value": "Azure fundamentals",
+     "count": 11
+    },
+    {
+     "value": "Power Platform",
+     "count": 8
+    },
+    {
+     "value": "Developers guide to AI",
+     "count": 7
+    },
+    {
+     "value": "Microsoft Dynamics 365",
+     "count": 7
+    },
+    {
+     "value": "Modernizing web applications and data",
+     "count": 7
+    },
+    {
+     "value": "Deploying, managing, and servicing windows, office and all your devices",
+     "count": 6
+    },
+    {
+     "value": "Develop integrations and workflows for your productivity applications",
+     "count": 6
+    },
+    {
+     "value": "Developing cloud native applications",
+     "count": 6
+    },
+    {
+     "value": "Improving reliability through modern operations practices",
+     "count": 6
+    },
+    {
+     "value": "Journey to Microsoft Teams",
+     "count": 6
+    },
+    {
+     "value": "Meeting organizational compliance requirements",
+     "count": 6
+    },
+    {
+     "value": "Securing your organization",
+     "count": 6
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 5
+    },
+    {
+     "value": "IT administrator’s guide to managing productivity in the cloud",
+     "count": 5
+    },
+    {
+     "value": "Migrating server infrastructure",
+     "count": 5
+    },
+    {
+     "value": "Managing cloud operations",
+     "count": 3
+    },
+    {
+     "value": "Developing Cloud Native Applications",
+     "count": 1
+    },
+    {
+     "value": "Managing Cloud Operations",
+     "count": 1
+    }
+   ]
+  },
+  "level": {
+   "displayName": "translate.filters.level",
+   "facetName": "level",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 108
+    },
+    {
+     "value": "Advanced (300)",
+     "count": 22
+    },
+    {
+     "value": "Intermediate (200)",
+     "count": 7
+    },
+    {
+     "value": "Foundational (100)",
+     "count": 3
+    },
+    {
+     "value": "Expert (400)",
+     "count": 2
+    }
+   ]
+  },
+  "format": {
+   "displayName": "translate.filters.format",
+   "facetName": "format",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 142
+    }
+   ]
+  },
+  "topic": {
+   "displayName": "translate.filters.topic",
+   "facetName": "topic",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 138
+    },
+    {
+     "value": "Productivity",
+     "count": 2
+    },
+    {
+     "value": "Compliance",
+     "count": 1
+    },
+    {
+     "value": "Security",
+     "count": 1
+    }
+   ]
+  },
+  "sessionTypeId": {
+   "displayName": "sessionTypeId",
+   "facetName": "sessionTypeId",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "3107",
+     "count": 80
+    },
+    {
+     "value": "3106",
+     "count": 23
+    },
+    {
+     "value": "3114",
+     "count": 22
+    },
+    {
+     "value": "3301",
+     "count": 16
+    },
+    {
+     "value": "3108",
+     "count": 1
+    }
+   ]
+  }
+ },
+ "total": 142
+}

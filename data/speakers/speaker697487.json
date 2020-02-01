@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697487",
+ "attendeeId": "dbca02a2-99e7-4b46-92ee-4ee5bbd611b9",
+ "firstName": "Michel",
+ "lastName": "LAPLANE",
+ "displayName": "Michel LAPLANE",
+ "jobTitle": "CEO",
+ "company": "SHAREVISUAL",
+ "bio": "Visio MVP Michel Laplane lives in France. He is a graduate engineer, from INSA Lyon (France) in electrical engineering, electronics, automation, numerical analysis software. He founded his first company in 1986 that developed graphical applications and in 1988 launched the first CAD architect software for Windows Discovering Visio 5.0 he developed an IDE for creating Visio application featuring the ability to link Visio application to database. He founded his third company, SHAREVISUAL, in 2012 that build Visio solutions. They have created a DWG to Visio Converter, a Visio toolbar for mechanical drawing, two C# Visual Studio templates to automate the creation of Visio Add-ins or Visio Drawing Control Skeleton providing generic ribbon, reporting and database recording features out of the box. Now they focus on Visio Online, SharePoint and Teams for creating powerful solutions. Want to learn more about Michel’s work, contact him at michel.laplane@hotmail.com or at michel.laplane@sharevisual.com.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509309/biggest.png",
+ "blog": "http://www.visualblog.fr",
+ "twitter": "@MichelLAPLANE",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "92333",
+  "92334"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Advanced (300)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Michel LAPLANE",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

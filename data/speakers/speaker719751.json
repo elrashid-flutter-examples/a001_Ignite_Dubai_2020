@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "719751",
+ "attendeeId": "55ded1b2-81ec-490d-bcf8-5dd0a6f84aa2",
+ "firstName": "George",
+ "lastName": "Moussalem",
+ "displayName": "George Moussalem",
+ "jobTitle": "PRINCIPAL PROGRAM MANAGER",
+ "company": "Microsoft",
+ "bio": "George is a principal Program Manager in the Office 365 engineering group, managing a portfolio of large enterprise customers in Europe, Middle East, and Africa across various industries. His primary accountability is to ensure customers are successful in their journey to the Microsoft 365 cloud and help achieve business value quicker. Being part of the customer experience team, he also serves customers as a connection point directly into the product groups to establish direct engineering engagements and to submit customer requests and feedback to help shape and improve our products and services. \r\nGeorge has been critical in building the FastTrack program and creating collateral since it inception which is Microsoft’s success service to continuously evolve and streamline the methodology, remove complexity, and reduce cost based on experience with thousands of customers to assist enterprises deploy, migrate to, and adopt Microsoft 365 services in their organization. \r\nEver since joining Microsoft in 2007, he has been exclusively involved in helping customers move their estate and users to the cloud, starting with BPOS to what eventually evolved into Office 365, now part of the Microsoft 365 suite which also includes Windows 10 and Enterprise Mobility and Security.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555764/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90719",
+  "90725"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "George Moussalem",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

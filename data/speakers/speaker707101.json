@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "707101",
+ "attendeeId": "a944dd94-83e7-4ffb-8e17-d8c61be7d893",
+ "firstName": "Tiberiu George",
+ "lastName": "Covaci",
+ "displayName": "Tiberiu George Covaci",
+ "jobTitle": "CTO",
+ "company": "Cloudeon A/S",
+ "bio": "TBU",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4528574/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86432",
+  "86490"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Tiberiu George Covaci",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

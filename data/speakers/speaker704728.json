@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "704728",
+ "attendeeId": "909c84a4-8ef7-4ed6-82f0-82cad7e7f25e",
+ "firstName": "Bill",
+ "lastName": "Ayers",
+ "displayName": "Bill Ayers",
+ "jobTitle": "Technical Director",
+ "company": "Flow Simulation Ltd",
+ "bio": "Dr Bill Ayers is a consultant developer and solution architect who has been working with computers for over 30 years. He originally earned his PhD in applications of computers in engineering before specialising in collaboration with SharePoint and more recently Microsoft 365. He also specialises in mobile development and agile software development practices. He is a Microsoft Certified Master and Charter MCSM for SharePoint, and a Microsoft Certified Trainer and Office Development MVP. He has also taken over two dozen Microsoft certifications and is a CompTIA CTT+ certified classroom trainer.  He speaks regularly at international conferences and user groups and is based in Sheffield, UK.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4461570/biggest.png",
+ "blog": "https://www.spdoctor.com/",
+ "twitter": "@SPDoctor",
+ "linkedIn": "https://www.linkedin.com/in/billayers/",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86617"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Bill Ayers",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

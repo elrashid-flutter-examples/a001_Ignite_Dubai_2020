@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "719747",
+ "attendeeId": "0d4fddfd-8e8f-4f16-af73-8f6fc359c6a0",
+ "firstName": "Roelf",
+ "lastName": "Zomerman",
+ "displayName": "Roelf Zomerman",
+ "jobTitle": "Cloud Solution Architect",
+ "company": "Microsoft",
+ "bio": "As a Cloud Solution Architect in the Enterprise & Partner Group with a focus on (Cloud) Infrastructure and Identity Management and solutions. I strive to help businesses leverage the capabilities of Azure to enable them to achieve more. Businesses today need to adapt increasingly fast to changing customer requirements and business goals while making their complex IT easy for end-users to use. It is my role to help businesses to find new opportunities in their IT landscape, decide on the best architecture to use, help them during the transformation and ultimately provide better services towards their users, customers and partners using Azure Cloud Services.\r\n\r\nAs an active writer, I have my own blog on which I post Azure related information, mostly focused towards Azure Infrastructure and Identity related topics: blog.studiographic.nl",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4555738/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86448"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Roelf Zomerman",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

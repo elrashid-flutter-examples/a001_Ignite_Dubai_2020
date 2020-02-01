@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "737384",
+ "attendeeId": "61f289f2-46f1-46fb-b699-cc635eeac9b8",
+ "firstName": "Fabrice",
+ "lastName": "Aubert",
+ "displayName": "Fabrice Aubert",
+ "jobTitle": "Cloud Solution Architect",
+ "company": "Microsoft",
+ "bio": "I have 20+ years experience in IT with a special focus on application development. I have worked with many large organization helping them to move their applications to  Azure cloud. Scalability being of the main reason to move application in Azure cloud, I am very excited, during this Ignite tour to speak about Capacity Planning and Scaling.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4592191/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86524"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Fabrice Aubert",
+ "lastUpdate": "2020-01-24T05:15:15.834+00:00"
+}

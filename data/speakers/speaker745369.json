@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "745369",
+ "attendeeId": "4ef57269-6add-4e89-81fc-707818b77577",
+ "firstName": "Hesham",
+ "lastName": "Saad",
+ "displayName": "Hesham Saad",
+ "jobTitle": "Sr. Security & Compliance Technical Specialist",
+ "company": "Microsoft",
+ "bio": "Hesham is A-Defender, CISSP, CRISC, C|EH, GIAC- GCFA and a Senior Security & Threat Protection Technical Specialist at Microsoft. Extensive experience in SecOps, Threat Protection - Management, Forensic Analysis, Incident Response and Advanced Hunting. Simply, want to hunt bad guys ... reach out to Hesham!",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4612118/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86550",
+  "92251"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Hesham Saad",
+ "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+}

@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "724361",
+ "attendeeId": "471b8f24-5990-4a87-af52-cf7bfe807ee0",
+ "firstName": "Pierre",
+ "lastName": "Roman",
+ "displayName": "Pierre Roman",
+ "jobTitle": "Senior Cloud Advocate",
+ "company": "Microsoft",
+ "bio": "Pierre Roman engages with the operations and infrastructure communities on behalf of Microsoft. He is part of a team that drives growth and adoptions of the Azure platform by providing guidance and bringing your feedback to the product groups. \r\nWith over 25 years of experience in the industry, he brings a well-rounded view of all facets of the Ops/infra lifecycle. His experiences enable him to relate to his audiences and cultivate relationships at all levels (from the nuts and bolts guy/gal to management.)\r\nHe’s a husband, a dad, a hockey fan, a gadget freak and a geek.\r\nPierre is always ready for a conversation (in English or français - naturellement).",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4341857/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86473",
+  "86507",
+  "90734"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Pierre Roman",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

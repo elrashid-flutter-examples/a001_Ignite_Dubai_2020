@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "697422",
+ "attendeeId": "8a30af87-7095-4b92-bba0-63dd722ff53a",
+ "firstName": "Preethy",
+ "lastName": "Krishnamurthy",
+ "displayName": "Preethy Krishnamurthy",
+ "jobTitle": "Program Manager",
+ "company": "Microsoft",
+ "bio": "Product Manager in Teams Engineering group leading customer adoption initiatives across Middle East markets for enterprise & education organizations with specific focus on UAE, Qatar, Kuwait, Bahrain, Oman & Saudi Arabia.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4509213/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86580",
+  "86585",
+  "92249"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Preethy Krishnamurthy",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

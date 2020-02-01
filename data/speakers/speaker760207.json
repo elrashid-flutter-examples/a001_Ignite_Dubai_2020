@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "760207",
+ "attendeeId": "b7d434d0-be6e-48bc-8c39-d81290925e39",
+ "firstName": "Vinayak",
+ "lastName": "Hegde",
+ "displayName": "Vinayak Hegde",
+ "jobTitle": "CTO-In-Residence, Microsoft for Startups",
+ "company": "Microsoft",
+ "bio": "Vinayak Hegde currently works as CTO-in-residence at Microsoft for\r\nStartups. With over 18 years of experience, Vinayak has built multiple\r\nproducts across different domains such as IoT, large scale networks\r\nand large scale data systems in a variety of individual contributor\r\nand senior technical leadership roles. Previously he has worked with\r\nAkamai, Inmobi, and Zoomcar.\r\n\r\nLinkedin Profile : https://www.linkedin.com/in/vinayakh/",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4621319/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "93625"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  "Foundational (100)"
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Vinayak Hegde",
+ "lastUpdate": "2020-01-30T19:55:14.377+00:00"
+}

@@ -1,0 +1,46 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "707230",
+ "attendeeId": "bd65dd52-132b-4fa2-92a8-25aa8f07342a",
+ "firstName": "Andy",
+ "lastName": "Malone",
+ "displayName": "Andy Malone",
+ "jobTitle": "SNR Technology & Cybersecurity Instructor",
+ "company": "Quality Training (Scotland) Ltd",
+ "bio": "Winning the coveted Microsoft Speaker Idol competition in 2006 catapulted Andy into a prestigious international speaking career. Today, Andy is not only a world class conference speaker but is also a renowned security & technology instructor who has delivered ground breaking content to tens of thousands worldwide. His passionate style of delivery combined with a sense of fun has become his trademark and has won him multiple awards and global acclaim at events including, Microsoft Ignite, MacSysAdmin, Spiceworld, The Cybercrime Security Forum, NIC and many more. Although teaching and consulting on cloud and cybersecurity remain his primary focus. Andy also loves to inspire, and with technology ever changing, there's often an interesting story to be told.  \r\n\r\nApart from work and his family to keep him busy, Andy also has a passion for writing. As well as contributing to Tribe of Hackers by Marcus Carey & Learn Social Engineering by Dr Erdal Ozkaya, both of which were ranked highly on Amazon. Andy has also authored two fiction novels, The Seventh Day and Shadows Rising. Which won prestigious book awards in the US. Andy is currently writing his third book in the trilogy which will be published in early next year.  Follow Andy on Twitter @AndyMalone",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4400988/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86523",
+  "86526",
+  "86620",
+  "86629"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Andy Malone",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

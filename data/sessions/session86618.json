@@ -1,0 +1,135 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 224,
+ "attendeeCount": 21,
+ "sessionId": "86618",
+ "sessionInstanceId": "86618",
+ "sessionCode": "MDEV50",
+ "sessionCodeNormalized": "MDEV50",
+ "title": "Windows 10: The developer platform, and modern application development",
+ "sortTitle": "windows 10: the developer platform, and modern application development",
+ "sortRank": 2147483647,
+ "description": "How do you build modern applications on Windows 10? What are some of the Windows 10 features that can make applications even better for users, and how can developers take advantage of these features from existing desktop applications? In this demo-focused and info-packed session, we’ll cover the modern technologies for building applications on or for Windows, the different app models, how to take advantage of platform tools and features, and more. We’ll use Win32/.net apps, XAML, Progressive Web Apps (PWA) using JavaScript, Edge, packaging with MSIX, the modern command line, the Windows Subsystem for Linux and more.",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall A",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T11:15:00+00:00",
+ "endDateTime": "2020-02-11T12:00:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Develop integrations and workflows for your productivity applications",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907336",
+ "speakerIds": [
+  "719772"
+ ],
+ "speakerNames": [
+  "Giorgio Sardo"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86604,
+   "title": "The perfectly tailored productivity suite starts with the Microsoft 365 platform",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "speakerIds": [
+    "606930"
+   ],
+   "speakerNames": [
+    "Kyle Marsh"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, discover how developers and partners can use the Microsoft 365 platform to extend their solutions into familiar experiences across Microsoft 365 to tailor and enhance the productivity of tens of millions of people – every day. We show you the tools and technology we’ve created to help you enrich communications, elevate data analysis and streamline workflows across Microsoft 365. We also give you a preview of the next wave of extensibility solutions taking shape back in Redmond.",
+   "location": "Dubai C+D"
+  },
+  {
+   "sessionId": 86605,
+   "title": "Microsoft Graph: a primer for developers",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702888"
+   ],
+   "speakerNames": [
+    "Jakob Nielsen"
+   ],
+   "speakerCompanies": [],
+   "description": "Join this session to get a deeper understanding of the Microsoft Graph. We start with an origins story, and demonstrate just how deeply Microsoft Graph is woven into the fabric of everyday Microsoft 365 experiences. From there, we look at examples of partners who use the Microsoft Graph APIs to extend many of the same Microsoft Graph-powered experiences into their apps, and close by showing you how easy it is to get started building Microsoft Graph-powered apps of your own.",
+   "location": "Dubai C+D"
+  },
+  {
+   "sessionId": 86617,
+   "title": "Building modern enterprise-grade collaboration solutions with Microsoft Teams and SharePoint",
+   "startDateTime": "2020-02-10T10:00:00+00:00",
+   "endDateTime": "2020-02-10T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "704728"
+   ],
+   "speakerNames": [
+    "Bill Ayers"
+   ],
+   "speakerCompanies": [],
+   "description": "SharePoint is the bedrock of enterprise intranets, while Microsoft Teams is the new collaboration tool on the block. In this session we look at each product individually, then show you how they can work together. We start with an overview of the SharePoint Framework and modern, cross-platform intranet development. We pivot to an overview of Microsoft Teams extensibility and demonstrate how to increase the speed relevance of collaboration in your organization. Finally, we put the two together – with a little help from Microsoft Graph - and show you how a single application can run in both applications.",
+   "location": "Dubai C+D"
+  },
+  {
+   "sessionId": 86619,
+   "title": "Transform everyday business processes with Microsoft 365 platform tools",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702888"
+   ],
+   "speakerNames": [
+    "Jakob Nielsen"
+   ],
+   "speakerCompanies": [],
+   "description": "Even the smallest gaps between people and systems in your organization can cost time and money. The Microsoft 365 platform has powerful solutions for professional and citizen developers that can close those gaps. We begin this session by showing you some low- and no-code business process automation scenarios using Microsoft PowerApps, Microsoft Flow and Excel. From there, we show you how adaptive cards and actionable messages can increase the velocity, efficiency, and productivity of your business. Finally, we demonstrate how to remain engaged with other software tools without switching context using Office add-ins.",
+   "location": "Sheikh Rashid Hall A"
+  }
+ ]
+}

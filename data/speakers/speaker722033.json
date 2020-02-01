@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "722033",
+ "attendeeId": "32b9576d-a0ca-441f-86fd-2c742946d13c",
+ "firstName": "Marc",
+ "lastName": "Windle",
+ "displayName": "Marc Windle",
+ "jobTitle": "Principal Program Manager",
+ "company": "Microsoft",
+ "bio": "Marc is a Principal Program Manager on the SharePoint Online and OneDrive for Business platform team. A graduate of the University of Victoria and originating from Vancouver, Canada, Marc has worked on various aspects of SharePoint since joining Microsoft in 2008.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4534503/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86595",
+  "86596"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Marc Windle",
+ "lastUpdate": "2020-01-24T05:25:15.823+00:00"
+}

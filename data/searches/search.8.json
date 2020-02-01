@@ -1,0 +1,1099 @@
+{
+ "data": [
+  {
+   "@search.score": 1.0,
+   "sessionId": "92327",
+   "sessionInstanceId": "92327",
+   "sessionCode": "BRK30195",
+   "sessionCodeNormalized": "BRK30195",
+   "title": "Let's create an Azure Sphere, Real-time Secure IoT Solution",
+   "sortTitle": "let's create an azure sphere, real-time secure iot solution",
+   "sortRank": 2147483647,
+   "description": "Get ready for the MCU IoT revolutionAzure Sphere is a solution for creating highly-secured, connected Microcontroller (MCU) devices, providing you with the confidence and the power to reimagine your business and create the future.Let's firstly learn what Azure Sphere is all about and why it's a good thing for society. Then we will have some demo fun and learn more with it in action within a mobile enabled real-time IoT solution.What will be learnt is how Azure Sphere, Azure IoT Hubs, Xamarin, SignalR and CosmosDB can all come together in a melting pot to create a solution.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Advanced (300)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "708520"
+   ],
+   "speakerNames": [
+    "Allan Pead"
+   ],
+   "speakerCompanies": [
+    "AD Soft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92333",
+   "sessionInstanceId": "92333",
+   "sessionCode": "BRK30200",
+   "sessionCodeNormalized": "BRK30200",
+   "title": "Leverage Visio Online in your SharePoint Site and as a Teams App using SharePoint SFPx Framework",
+   "sortTitle": "leverage visio online in your sharepoint site and as a teams app using sharepoint sfpx framework",
+   "sortRank": 2147483647,
+   "description": "In this session we will show you how to use Visio Online to display Visio content in a SharePoint Site. Extraction of information from diagram and Customized Drill down capability will be demonstrated as an example of powerful online usage of Visio and SharePoint. You will learn how to build a React SPFx SharePoint WebPart with a Microsoft Visio component and make it also available in Teams :\r\n-\tCreation of an SPFx React Webpart using Yeoman Generator \r\n-\tAdding a React Visio Component using Visio Javascript API\r\n-\tDeploying the solution to a tenant and to Teams.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Advanced (300)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "697487"
+   ],
+   "speakerNames": [
+    "Michel LAPLANE"
+   ],
+   "speakerCompanies": [
+    "SHAREVISUAL"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86496",
+   "sessionInstanceId": "86496",
+   "sessionCode": "AIML50",
+   "sessionCodeNormalized": "AIML50",
+   "title": "Machine learning operations: Applying DevOps to data science",
+   "sortTitle": "machine learning operations: applying devops to data science",
+   "sortRank": 2147483647,
+   "description": "Many companies have adopted DevOps practices to improve their software delivery, but these same techniques are rarely applied to machine learning projects. Collaboration between developers and data scientists can be limited and deploying models to production in a consistent, trustworthy way is often a pipe dream. \r\n\r\nIn this session, learn how Tailwind Traders applied DevOps practices to their machine learning projects using Azure DevOps and Azure Machine Learning Service. We show automated training, scoring, and storage of versioned models, wrap the models in Docker containers, and deploy them to Azure Container Instances or Azure Kubernetes Service. We even collect continuous feedback on model behavior so we know when to retrain.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T12:30:00+00:00",
+   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Developers guide to AI",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907388",
+   "speakerIds": [
+    "697629"
+   ],
+   "speakerNames": [
+    "Henk Boelman"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86614,
+     "title": "Making sense of your unstructured data with AI",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "717897"
+     ],
+     "speakerNames": [
+      "Bernd Verst"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has a lot of legacy data that they’d like their developers to leverage in their apps – from various sources, both structured and unstructured, and including images, forms, and several others. In this session, you'll learn how the team used Azure Cognitive Search to make sense of this data in a short amount of time and with amazing success. We'll discuss tons of AI concepts, like the ingest-enrich-explore pattern, search skillsets, cognitive skills, natural language processing, computer vision, and beyond.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86451,
+     "title": "Using pre-built AI to solve business challenges",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "As a data-driven company, Tailwind Traders understands the importance of using artificial intelligence to improve business processes and delight customers. Before investing in an AI team, their existing developers were able to demonstrate some quick wins using pre-built AI technologies.  \r\n\r\nIn this session, we show how you can use Azure Cognitive Services to extract insights from retail data and go into the neural networks behind computer vision. Learn how it works and how to augment the pre-built AI with your own images for custom image recognition applications.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86452,
+     "title": "Start Building Machine Learning Models Faster than You Think",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders uses custom machine learning models without requiring their teams to code. How? Azure Machine Learning Visual Interface.  In this session, learn the data science process that Tailwind Traders uses and get an introduction to Azure Machine Learning Visual Interface. See how to find, import, and prepare data, selecting a machine learning algorithm, training and testing the model, and how to deploy a complete model to an API. Lastly, we discuss how to avoid common data science beginner mistakes, providing additional resources for you to continue your machine learning journey.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86449,
+     "title": "Taking models to the next level with Azure Machine Learning best practices",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697629"
+     ],
+     "speakerNames": [
+      "Henk Boelman"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders’ data science team uses natural language processing (NLP), and recently discovered how to fine tune and build a baseline models with Automated ML. \r\n\r\nIn this session, learn what Automated ML is and why it’s so powerful, then dive into how to improve upon baseline models using examples from the NLP best practices repository. We highlight Azure Machine Learning key features and how you can apply them to your organization, including: low priority compute instances, distributed training with auto scale, hyperparameter optimization, collaboration, logging, and deployment.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 90735,
+     "title": "Developers guide to AI: A data story",
+     "startDateTime": "2020-02-10T06:20:00+00:00",
+     "endDateTime": "2020-02-10T06:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "702993"
+     ],
+     "speakerNames": [
+      "Mohamed Mostafa"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, we show the data science process and how to apply it. From exploration of datasets to deployment of services - all applied to an interesting data story. We also take you on a very brief tour of the Azure AI platform.",
+     "location": "Theater 3"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86614",
+   "sessionInstanceId": "86614",
+   "sessionCode": "AIML10",
+   "sessionCodeNormalized": "AIML10",
+   "title": "Making sense of your unstructured data with AI",
+   "sortTitle": "making sense of your unstructured data with ai",
+   "sortRank": 2147483647,
+   "description": "Tailwind Traders has a lot of legacy data that they’d like their developers to leverage in their apps – from various sources, both structured and unstructured, and including images, forms, and several others. In this session, you'll learn how the team used Azure Cognitive Search to make sense of this data in a short amount of time and with amazing success. We'll discuss tons of AI concepts, like the ingest-enrich-explore pattern, search skillsets, cognitive skills, natural language processing, computer vision, and beyond.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Developers guide to AI",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907334",
+   "speakerIds": [
+    "717897"
+   ],
+   "speakerNames": [
+    "Bernd Verst"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86451,
+     "title": "Using pre-built AI to solve business challenges",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "As a data-driven company, Tailwind Traders understands the importance of using artificial intelligence to improve business processes and delight customers. Before investing in an AI team, their existing developers were able to demonstrate some quick wins using pre-built AI technologies.  \r\n\r\nIn this session, we show how you can use Azure Cognitive Services to extract insights from retail data and go into the neural networks behind computer vision. Learn how it works and how to augment the pre-built AI with your own images for custom image recognition applications.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86452,
+     "title": "Start Building Machine Learning Models Faster than You Think",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders uses custom machine learning models without requiring their teams to code. How? Azure Machine Learning Visual Interface.  In this session, learn the data science process that Tailwind Traders uses and get an introduction to Azure Machine Learning Visual Interface. See how to find, import, and prepare data, selecting a machine learning algorithm, training and testing the model, and how to deploy a complete model to an API. Lastly, we discuss how to avoid common data science beginner mistakes, providing additional resources for you to continue your machine learning journey.",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86449,
+     "title": "Taking models to the next level with Azure Machine Learning best practices",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697629"
+     ],
+     "speakerNames": [
+      "Henk Boelman"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders’ data science team uses natural language processing (NLP), and recently discovered how to fine tune and build a baseline models with Automated ML. \r\n\r\nIn this session, learn what Automated ML is and why it’s so powerful, then dive into how to improve upon baseline models using examples from the NLP best practices repository. We highlight Azure Machine Learning key features and how you can apply them to your organization, including: low priority compute instances, distributed training with auto scale, hyperparameter optimization, collaboration, logging, and deployment.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 86496,
+     "title": "Machine learning operations: Applying DevOps to data science",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697629"
+     ],
+     "speakerNames": [
+      "Henk Boelman"
+     ],
+     "speakerCompanies": [],
+     "description": "Many companies have adopted DevOps practices to improve their software delivery, but these same techniques are rarely applied to machine learning projects. Collaboration between developers and data scientists can be limited and deploying models to production in a consistent, trustworthy way is often a pipe dream. \r\n\r\nIn this session, learn how Tailwind Traders applied DevOps practices to their machine learning projects using Azure DevOps and Azure Machine Learning Service. We show automated training, scoring, and storage of versioned models, wrap the models in Docker containers, and deploy them to Azure Container Instances or Azure Kubernetes Service. We even collect continuous feedback on model behavior so we know when to retrain.\r\n",
+     "location": "Sheikh Maktoum Hall A"
+    },
+    {
+     "sessionId": 90735,
+     "title": "Developers guide to AI: A data story",
+     "startDateTime": "2020-02-10T06:20:00+00:00",
+     "endDateTime": "2020-02-10T06:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "702993"
+     ],
+     "speakerNames": [
+      "Mohamed Mostafa"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, we show the data science process and how to apply it. From exploration of datasets to deployment of services - all applied to an interesting data story. We also take you on a very brief tour of the Azure AI platform.",
+     "location": "Theater 3"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86418",
+   "sessionInstanceId": "86418",
+   "sessionCode": "POWA50",
+   "sessionCodeNormalized": "POWA50",
+   "title": "Managing and supporting the Power Apps and Microsoft Power Automate at scale",
+   "sortTitle": "managing and supporting the power apps and microsoft power automate at scale",
+   "sortRank": 2147483647,
+   "description": "Learn how administrators and IT-Pros can manage the enterprise adoption of Power Apps and Microsoft Power Automate. Discover the features, tools and practices to monitor, protect and support your organizations' data and innovations at scale. We'll share the top tips around governance, security, and monitoring requirements, as well as strategies employed by top customers to help you land low-code powered digital transformation in your organization.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T12:30:00+00:00",
+   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Power Platform",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907401",
+   "speakerIds": [
+    "715251"
+   ],
+   "speakerNames": [
+    "Ali Jibran Sayed Mohammed"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86403,
+     "title": "Enabling everyone to digitize apps and processes with Power Apps and the Power Platform",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "666688"
+     ],
+     "speakerNames": [
+      "Mark Wilcock"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86415,
+     "title": "Intelligent automation with Microsoft Power Automate",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86417,
+     "title": "Enable modern analytics and enterprise business intelligence using Microsoft Power BI",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "666688"
+     ],
+     "speakerNames": [
+      "Mark Wilcock"
+     ],
+     "speakerCompanies": [],
+     "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 86416,
+     "title": "Connecting Power Apps, Microsoft Power Automate, Power BI, and the Common Data Service with data",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "715251"
+     ],
+     "speakerNames": [
+      "Ali Jibran Sayed Mohammed"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, we'll discuss how to use the Common Data Service, connectors, dataflows, and more to connect Power Apps, Microsoft Power Automate, and Power BI to your data.",
+     "location": "Sheikh Rashid Hall B"
+    },
+    {
+     "sessionId": 90723,
+     "title": "Learn How Microsoft Flow Is a the Perfect Automation Platform to Streamline Workflow Processes Across Your Entire IT Ecosystem",
+     "startDateTime": "2020-02-11T07:50:00+00:00",
+     "endDateTime": "2020-02-11T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "708239"
+     ],
+     "speakerNames": [
+      "Kuppurasu Nagaraj"
+     ],
+     "speakerCompanies": [],
+     "description": "TBD",
+     "location": "Theater 1"
+    },
+    {
+     "sessionId": 90722,
+     "title": "Top ten tips to securely rolling out Microsoft PowerApps and Microsoft Flow to your organization",
+     "startDateTime": "2020-02-11T10:50:00+00:00",
+     "endDateTime": "2020-02-11T11:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "707167"
+     ],
+     "speakerNames": [
+      "Jasjit Chopra"
+     ],
+     "speakerCompanies": [],
+     "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
+     "location": "Theater 1"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "85069",
+   "sessionInstanceId": "85069",
+   "sessionCode": "",
+   "sessionCodeNormalized": "",
+   "title": "Managing cloud operations",
+   "sortTitle": "managing cloud operations",
+   "sortRank": 2147483647,
+   "description": "Learn how to define your organization’s governance, security, and policies within Azure Regulate and organize your Azure subscription, adhering to your compliance preferences and setup guard rails for cost and regional structure.",
+   "registrationLink": "",
+   "startDateTime": null,
+   "endDateTime": null,
+   "durationInMinutes": 0,
+   "sessionType": "Learning Path",
+   "sessionTypeLogical": "Learning Path",
+   "learningPath": "Managing cloud operations",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3301",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "120811",
+   "speakerIds": [],
+   "speakerNames": [],
+   "speakerCompanies": [],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [
+    {
+     "sessionId": 86473,
+     "title": "IaaS VM operations",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "724361"
+     ],
+     "speakerNames": [
+      "Pierre Roman"
+     ],
+     "speakerCompanies": [],
+     "description": "In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes.  \r\nIn this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 86475,
+     "title": "Azure governance and management",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.  \r\n\r\nIn this session, walk through the processes and technologies that will keep Tailwind Traders’ deployments in good standing with the help of Azure Blueprints, Azure Policy, role-based access control (RBAC), and more.\r\n",
+     "location": "Sheikh Rashid Hall D"
+    },
+    {
+     "sessionId": 90734,
+     "title": "Securing Azure IaaS virtual machines",
+     "startDateTime": "2020-02-10T09:05:00+00:00",
+     "endDateTime": "2020-02-10T09:20:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "724361"
+     ],
+     "speakerNames": [
+      "Pierre Roman"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
+     "location": "Theater 1"
+    }
+   ],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86484",
+   "sessionInstanceId": "86484",
+   "sessionCode": "MOD50",
+   "sessionCodeNormalized": "MOD50",
+   "title": "Managing delivery of your app via DevOps",
+   "sortTitle": "managing delivery of your app via devops",
+   "sortRank": 2147483647,
+   "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Modernizing web applications and data",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907376",
+   "speakerIds": [
+    "719728"
+   ],
+   "speakerNames": [
+    "April Edwards"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86472,
+     "title": "Migrating web applications to Azure",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86474,
+     "title": "Moving your database to Azure",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [],
+     "speakerNames": [],
+     "speakerCompanies": [],
+     "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86471,
+     "title": "Enhancing web applications with cloud intelligence",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 86476,
+     "title": "Debugging and interacting with production applications",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+     "location": "Sheikh Rashid Hall E"
+    },
+    {
+     "sessionId": 90733,
+     "title": "Deploying and A/B testing without risks with deployment slots",
+     "startDateTime": "2020-02-10T07:50:00+00:00",
+     "endDateTime": "2020-02-10T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
+     "location": "Theater 1"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86585",
+   "sessionInstanceId": "86585",
+   "sessionCode": "TMS40",
+   "sessionCodeNormalized": "TMS40",
+   "title": "Managing Microsoft Teams effectively",
+   "sortTitle": "managing microsoft teams effectively",
+   "sortRank": 2147483647,
+   "description": "With simple and granular management capabilities, Microsoft Teams empowers Contoso administrators with the controls they need to provide the best experience possible to users while protecting company data and meeting business requirements. Join us to learn more about the latest security and administration capabilities of Microsoft Teams.\r\n",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Journey to Microsoft Teams",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907348",
+   "speakerIds": [
+    "697422"
+   ],
+   "speakerNames": [
+    "Preethy Krishnamurthy"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86583,
+     "title": "What's new with Microsoft Teams: The hub for teamwork in Microsoft 365",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702999"
+     ],
+     "speakerNames": [
+      "Diaundra Jones"
+     ],
+     "speakerCompanies": [],
+     "description": "Join us to learn how Microsoft Teams, the hub for collaboration and intelligent communications, is transforming the way people work at Contoso. We showcase some of the big feature innovations we’ve made in the last year and give you a sneak peek at some of the exciting new innovations coming to Microsoft Teams. This demo-rich session highlights the best Teams has to offer!\r\n",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86582,
+     "title": "Intelligent communications in Microsoft Teams",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702999",
+      "717224"
+     ],
+     "speakerNames": [
+      "Diaundra Jones",
+      "Ghouse Shariff"
+     ],
+     "speakerCompanies": [],
+     "description": "Microsoft Teams solves the communication needs of a diverse workforce. Calling and meeting experiences in Teams support more productive collaboration and foster teamwork across Contoso. Join us to learn more about the latest intelligent communications features along with the most recent additions to our device portfolio.\r\n",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86581,
+     "title": "Designing your path from Skype for Business to Teams",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "717224"
+     ],
+     "speakerNames": [
+      "Ghouse Shariff"
+     ],
+     "speakerCompanies": [],
+     "description": "Explore the end-to-end Skype for Business to Teams upgrade experience, inclusive of technical and user readiness considerations. This session provides guidance for a successful upgrade and shares learnings from enterprises that have already successfully upgraded.  Learn more about the rich productivity and communication capabilities of Microsoft Teams.\r\n",
+     "location": "Sheikh Maktoum Hall C"
+    },
+    {
+     "sessionId": 86580,
+     "title": "Six Steps for a Successful Teams Deployment",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "697422"
+     ],
+     "speakerNames": [
+      "Preethy Krishnamurthy"
+     ],
+     "speakerCompanies": [],
+     "description": "Microsoft Teams is permanently changing how Federal Government organizations collaborate but how do we drive adoption (usefulness) of Teams? Stop by to learn six proven steps to successfully drive adoption. We’ll share how to start with the end in mind, how to focus on small victory laps, how to split governance, how to show more than tell to drive adoption with field-proven techniques! Expect an insight-packed learning experience based on a real-world case study from a 500K+ user organization in DoD. Note: we’ll take you on a helicopter ride over the process but land that helicopter several times show the details. To say it differently, don’t expect a session full of slides and talking.",
+     "location": "Sheikh Maktoum Hall C"
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "91185",
+   "sessionInstanceId": "91185",
+   "sessionCode": "MRK20004",
+   "sessionCodeNormalized": "MRK20004",
+   "title": "Managing the deployment and procurement of 3rd party software in Azure",
+   "sortTitle": "managing the deployment and procurement of 3rd party software in azure",
+   "sortRank": 2147483647,
+   "description": "Adoption of cloud marketplaces and SaaS solutions is rapidly accelerating and large organizations have more sophisticated requirements for deploying and managing software.  Customization is needed to control access to Azure Marketplace, accommodate various deployment scenarios, adhere to security requirements, and support new pricing and billing models. In this session you'll learn about the technical capabilities within Azure Marketplace aligned to enterprise requirements.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "709891"
+   ],
+   "speakerNames": [
+    "Christine Alford"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "90724",
+   "sessionInstanceId": "90724",
+   "sessionCode": "THR10000",
+   "sessionCodeNormalized": "THR10000",
+   "title": "Meet Microsoft Surface",
+   "sortTitle": "meet microsoft surface",
+   "sortRank": 2147483647,
+   "description": "Designed by Microsoft, the Surface portfolio is engineered to deliver the best Windows 10 and Microsoft 365 experiences at home and work. Together with our customers, we are leading to support world-class deployment, management and security as part of business and education transformation.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T12:05:00+00:00",
+   "endDateTime": "2020-02-10T12:20:00+00:00",
+   "durationInMinutes": 15,
+   "sessionType": "Theater: 15 Minute",
+   "sessionTypeLogical": "Theater: 15 Minute",
+   "learningPath": "",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3114",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "668803",
+    "719756"
+   ],
+   "speakerNames": [
+    "Pradeep Lingam",
+    "Anca Ventura"
+   ],
+   "speakerCompanies": [
+    "Redington Middle East LLC",
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  }
+ ],
+ "facets": {
+  "durationInMinutes": {
+   "displayName": "durationInMinutes",
+   "facetName": "durationInMinutes",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": 45,
+     "count": 92
+    },
+    {
+     "value": 15,
+     "count": 22
+    },
+    {
+     "value": 0,
+     "count": 16
+    },
+    {
+     "value": 60,
+     "count": 11
+    },
+    {
+     "value": 195,
+     "count": 1
+    }
+   ]
+  },
+  "sessionType": {
+   "displayName": "translate.filters.session-type",
+   "facetName": "sessionType",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "Module: 45 Minute",
+     "count": 79
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 22
+    },
+    {
+     "value": "Breakout: 45 Minute",
+     "count": 20
+    },
+    {
+     "value": "Learning Path",
+     "count": 16
+    },
+    {
+     "value": "",
+     "count": 4
+    },
+    {
+     "value": "Workshop: 120 Minute",
+     "count": 1
+    }
+   ]
+  },
+  "learningPath": {
+   "displayName": "translate.filters.learning-path",
+   "facetName": "learningPath",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 40
+    },
+    {
+     "value": "Azure fundamentals",
+     "count": 11
+    },
+    {
+     "value": "Power Platform",
+     "count": 8
+    },
+    {
+     "value": "Developers guide to AI",
+     "count": 7
+    },
+    {
+     "value": "Microsoft Dynamics 365",
+     "count": 7
+    },
+    {
+     "value": "Modernizing web applications and data",
+     "count": 7
+    },
+    {
+     "value": "Deploying, managing, and servicing windows, office and all your devices",
+     "count": 6
+    },
+    {
+     "value": "Develop integrations and workflows for your productivity applications",
+     "count": 6
+    },
+    {
+     "value": "Developing cloud native applications",
+     "count": 6
+    },
+    {
+     "value": "Improving reliability through modern operations practices",
+     "count": 6
+    },
+    {
+     "value": "Journey to Microsoft Teams",
+     "count": 6
+    },
+    {
+     "value": "Meeting organizational compliance requirements",
+     "count": 6
+    },
+    {
+     "value": "Securing your organization",
+     "count": 6
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 5
+    },
+    {
+     "value": "IT administrator’s guide to managing productivity in the cloud",
+     "count": 5
+    },
+    {
+     "value": "Migrating server infrastructure",
+     "count": 5
+    },
+    {
+     "value": "Managing cloud operations",
+     "count": 3
+    },
+    {
+     "value": "Developing Cloud Native Applications",
+     "count": 1
+    },
+    {
+     "value": "Managing Cloud Operations",
+     "count": 1
+    }
+   ]
+  },
+  "level": {
+   "displayName": "translate.filters.level",
+   "facetName": "level",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 108
+    },
+    {
+     "value": "Advanced (300)",
+     "count": 22
+    },
+    {
+     "value": "Intermediate (200)",
+     "count": 7
+    },
+    {
+     "value": "Foundational (100)",
+     "count": 3
+    },
+    {
+     "value": "Expert (400)",
+     "count": 2
+    }
+   ]
+  },
+  "format": {
+   "displayName": "translate.filters.format",
+   "facetName": "format",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 142
+    }
+   ]
+  },
+  "topic": {
+   "displayName": "translate.filters.topic",
+   "facetName": "topic",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 138
+    },
+    {
+     "value": "Productivity",
+     "count": 2
+    },
+    {
+     "value": "Compliance",
+     "count": 1
+    },
+    {
+     "value": "Security",
+     "count": 1
+    }
+   ]
+  },
+  "sessionTypeId": {
+   "displayName": "sessionTypeId",
+   "facetName": "sessionTypeId",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "3107",
+     "count": 80
+    },
+    {
+     "value": "3106",
+     "count": 23
+    },
+    {
+     "value": "3114",
+     "count": 22
+    },
+    {
+     "value": "3301",
+     "count": 16
+    },
+    {
+     "value": "3108",
+     "count": 1
+    }
+   ]
+  }
+ },
+ "total": 142
+}

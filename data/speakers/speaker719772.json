@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "719772",
+ "attendeeId": "80ea5741-437a-4dd2-8e85-33599d713f93",
+ "firstName": "Giorgio",
+ "lastName": "Sardo",
+ "displayName": "Giorgio Sardo",
+ "jobTitle": "General Manager",
+ "company": "Microsoft",
+ "bio": "Giorgio Sardo is currently an Engineering General Manager in the Experiences and Devices organization at Microsoft Corp. He runs PAX (Partners, Analytics and essential eXperiences), a team of PM, developers, designers and data engineers in Redmond and other locations in US and Europe.\r\n\r\nHe leads product management and engineering of impactful app and web experiences (across Windows 10, Edge, Surface devices, and Microsoft 365) in partnership with strategic consumer and commercial ISVs in the industry like Amazon, Apple, Facebook, Netflix, SAP, Tencent and hundreds of other talented partners.\r\n\r\nHe is also responsible for a well-established portfolio of core inbox apps and services on Windows that reach millions of users every day, like Movies & TV, Notepad, and Calculator.\r\n\r\nGiorgio is an advocate of Web Standards and Open Source. With his team he open-sourced popular Windows apps and developer toolkits, and drove breadth developer activities around the world like the Insider Dev Tour. He is a professional speaker and presented at hundreds of conferences around the globe like TEDx, Future of the Web, and Microsoft Build.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4480758/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86618"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Giorgio Sardo",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

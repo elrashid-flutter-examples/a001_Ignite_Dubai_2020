@@ -1,0 +1,1251 @@
+{
+    "data": [
+        {
+            "@search.score": 1.0,
+            "sessionId": "86549",
+            "sessionInstanceId": "86549",
+            "sessionCode": "SECO10",
+            "sessionCodeNormalized": "SECO10",
+            "title": "Secure your enterprise with a strong identity foundation",
+            "sortTitle": "secure your enterprise with a strong identity foundation",
+            "sortRank": 2147483647,
+            "description": "With identity as the control plane, you can have greater visibility and control over who is accessing your organization’s applications and data and under which conditions. Come learn how Azure Active Directory can help you enable seamless access, strong authentication, and identity-driven security and governance for your users. This will be relevant to not only organizations considering modernizing their identity solutions, but also existing Azure Active Directory customers looking to see demos of the latest capabilities.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T07:00:00+00:00",
+            "endDateTime": "2020-02-11T07:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Securing your organization",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907355",
+            "speakerIds": [
+                "717841"
+            ],
+            "speakerNames": [
+                "Subha Bhattacharyay"
+            ],
+            "speakerCompanies": [
+                "Microsoft Corporation"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86547,
+                    "title": "Dive deep into Microsoft 365 Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "697363"
+                    ],
+                    "speakerNames": [
+                        "Milad Aslaner"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86548,
+                    "title": "End-to-end cloud security for all your XaaS resources",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "719750"
+                    ],
+                    "speakerNames": [
+                        "David Maskell"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Today, in most organizations, there exists an abundance of security solutions and yet what will actually make you secure remains obscure. Come to this session to get your much-needed answers on the steps you can quickly take to protect yourself against the most prevelant current and emerging threats!\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86550,
+                    "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "703050"
+                    ],
+                    "speakerNames": [
+                        "Christopher McNulty"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86559,
+                    "title": "Top 10 best security practices for Azure today",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "703851"
+                    ],
+                    "speakerNames": [
+                        "Tiander Turpijn"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "90734",
+            "sessionInstanceId": "90734",
+            "sessionCode": "THR30032",
+            "sessionCodeNormalized": "THR30032",
+            "title": "Securing Azure IaaS virtual machines",
+            "sortTitle": "securing azure iaas virtual machines",
+            "sortRank": 2147483647,
+            "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T09:05:00+00:00",
+            "endDateTime": "2020-02-10T09:20:00+00:00",
+            "durationInMinutes": 15,
+            "sessionType": "Theater: 15 Minute",
+            "sessionTypeLogical": "Theater: 15 Minute",
+            "learningPath": "Managing Cloud Operations",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3114",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "",
+            "speakerIds": [
+                "724361"
+            ],
+            "speakerNames": [
+                "Pierre Roman"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "85135",
+            "sessionInstanceId": "85135",
+            "sessionCode": "",
+            "sessionCodeNormalized": "",
+            "title": "Securing your organization",
+            "sortTitle": "securing your organization",
+            "sortRank": 2147483647,
+            "description": "Learn how to protect your organization’s identities, data, applications, and devices across on-premises, cloud, and mobile - end to-end using the latest tools and guidance. ",
+            "registrationLink": "",
+            "startDateTime": null,
+            "endDateTime": null,
+            "durationInMinutes": 0,
+            "sessionType": "Learning Path",
+            "sessionTypeLogical": "Learning Path",
+            "learningPath": "Securing your organization",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3301",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "120807",
+            "speakerIds": [],
+            "speakerNames": [],
+            "speakerCompanies": [],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [
+                {
+                    "sessionId": 86549,
+                    "title": "Secure your enterprise with a strong identity foundation",
+                    "startDateTime": "2020-02-11T07:00:00+00:00",
+                    "endDateTime": "2020-02-11T07:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "717841"
+                    ],
+                    "speakerNames": [
+                        "Subha Bhattacharyay"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "With identity as the control plane, you can have greater visibility and control over who is accessing your organization’s applications and data and under which conditions. Come learn how Azure Active Directory can help you enable seamless access, strong authentication, and identity-driven security and governance for your users. This will be relevant to not only organizations considering modernizing their identity solutions, but also existing Azure Active Directory customers looking to see demos of the latest capabilities.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86547,
+                    "title": "Dive deep into Microsoft 365 Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "697363"
+                    ],
+                    "speakerNames": [
+                        "Milad Aslaner"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86548,
+                    "title": "End-to-end cloud security for all your XaaS resources",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "719750"
+                    ],
+                    "speakerNames": [
+                        "David Maskell"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Today, in most organizations, there exists an abundance of security solutions and yet what will actually make you secure remains obscure. Come to this session to get your much-needed answers on the steps you can quickly take to protect yourself against the most prevelant current and emerging threats!\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86550,
+                    "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "703050"
+                    ],
+                    "speakerNames": [
+                        "Christopher McNulty"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86559,
+                    "title": "Top 10 best security practices for Azure today",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "703851"
+                    ],
+                    "speakerNames": [
+                        "Tiander Turpijn"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                }
+            ],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "90701",
+            "sessionInstanceId": "90701",
+            "sessionCode": "MDEV60",
+            "sessionCodeNormalized": "MDEV60",
+            "title": "Simplify sign in and authorization with the Microsoft identity platform",
+            "sortTitle": "simplify sign in and authorization with the microsoft identity platform",
+            "sortRank": 2147483647,
+            "description": "Building a secure and usable authentication experience has been difficult and time-consuming. Whether you’re building an app to reach consumers or enterprises, the Microsoft identity platform is here to help. In this session, learn how to authenticate personal Microsoft or Azure Active Directory accounts, and securely access APIs in your apps. Once integrated with the Microsoft identity platform, see how you can start accessing data in Microsoft Graph to build richer applications.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T12:30:00+00:00",
+            "endDateTime": "2020-02-11T13:15:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "",
+            "speakerIds": [
+                "606930"
+            ],
+            "speakerNames": [
+                "Kyle Marsh"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86452",
+            "sessionInstanceId": "86452",
+            "sessionCode": "AIML30",
+            "sessionCodeNormalized": "AIML30",
+            "title": "Start Building Machine Learning Models Faster than You Think",
+            "sortTitle": "start building machine learning models faster than you think",
+            "sortRank": 2147483647,
+            "description": "Tailwind Traders uses custom machine learning models without requiring their teams to code. How? Azure Machine Learning Visual Interface.  In this session, learn the data science process that Tailwind Traders uses and get an introduction to Azure Machine Learning Visual Interface. See how to find, import, and prepare data, selecting a machine learning algorithm, training and testing the model, and how to deploy a complete model to an API. Lastly, we discuss how to avoid common data science beginner mistakes, providing additional resources for you to continue your machine learning journey.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T10:00:00+00:00",
+            "endDateTime": "2020-02-10T10:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Developers guide to AI",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907390",
+            "speakerIds": [
+                "698031"
+            ],
+            "speakerNames": [
+                "Cassie Breviu"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86614,
+                    "title": "Making sense of your unstructured data with AI",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [
+                        "717897"
+                    ],
+                    "speakerNames": [
+                        "Bernd Verst"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has a lot of legacy data that they’d like their developers to leverage in their apps – from various sources, both structured and unstructured, and including images, forms, and several others. In this session, you'll learn how the team used Azure Cognitive Search to make sense of this data in a short amount of time and with amazing success. We'll discuss tons of AI concepts, like the ingest-enrich-explore pattern, search skillsets, cognitive skills, natural language processing, computer vision, and beyond.",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86451,
+                    "title": "Using pre-built AI to solve business challenges",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "As a data-driven company, Tailwind Traders understands the importance of using artificial intelligence to improve business processes and delight customers. Before investing in an AI team, their existing developers were able to demonstrate some quick wins using pre-built AI technologies.  \r\n\r\nIn this session, we show how you can use Azure Cognitive Services to extract insights from retail data and go into the neural networks behind computer vision. Learn how it works and how to augment the pre-built AI with your own images for custom image recognition applications.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86449,
+                    "title": "Taking models to the next level with Azure Machine Learning best practices",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "697629"
+                    ],
+                    "speakerNames": [
+                        "Henk Boelman"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders’ data science team uses natural language processing (NLP), and recently discovered how to fine tune and build a baseline models with Automated ML. \r\n\r\nIn this session, learn what Automated ML is and why it’s so powerful, then dive into how to improve upon baseline models using examples from the NLP best practices repository. We highlight Azure Machine Learning key features and how you can apply them to your organization, including: low priority compute instances, distributed training with auto scale, hyperparameter optimization, collaboration, logging, and deployment.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                },
+                {
+                    "sessionId": 86496,
+                    "title": "Machine learning operations: Applying DevOps to data science",
+                    "startDateTime": "2020-02-10T12:30:00+00:00",
+                    "endDateTime": "2020-02-10T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "697629"
+                    ],
+                    "speakerNames": [
+                        "Henk Boelman"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Many companies have adopted DevOps practices to improve their software delivery, but these same techniques are rarely applied to machine learning projects. Collaboration between developers and data scientists can be limited and deploying models to production in a consistent, trustworthy way is often a pipe dream. \r\n\r\nIn this session, learn how Tailwind Traders applied DevOps practices to their machine learning projects using Azure DevOps and Azure Machine Learning Service. We show automated training, scoring, and storage of versioned models, wrap the models in Docker containers, and deploy them to Azure Container Instances or Azure Kubernetes Service. We even collect continuous feedback on model behavior so we know when to retrain.\r\n",
+                    "location": "Sheikh Maktoum Hall A"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86429",
+            "sessionInstanceId": "86429",
+            "sessionCode": "AFUN50",
+            "sessionCodeNormalized": "AFUN50",
+            "title": "Storing data in Azure",
+            "sortTitle": "storing data in azure",
+            "sortRank": 2147483647,
+            "description": "Tailwind Traders deals with gigantic amounts of data, continually pouring in from sources such as sales, marketing, and fulfillment. In the past, the only choice they had was to put it all into a relational database in a data center. However, by moving to Microsoft Azure, they can now optimize their data storage with increased scalability and resilience. In this session, we will introduce the various storage options available on Azure, from blob to SQL databases. You’ll learn about Azure Cosmos DB, a globally distributed, multi-model database, as well as SQL Data Warehouse and Data Factory.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T12:30:00+00:00",
+            "endDateTime": "2020-02-10T13:15:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Azure fundamentals",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907396",
+            "speakerIds": [
+                "717897"
+            ],
+            "speakerNames": [
+                "Bernd Verst"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86430,
+                    "title": "Discovering Microsoft Azure",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "New developers at Tailwind Traders have a saying about learning our technology platform: \"it's like drinking from a firehose.\" Indeed, learning all Microsoft Azure services can seem overwhelming – especially if you're unfamiliar with Azure or the cloud in general. In this session, we start at the beginning, introducing Azure and the core concepts that are foundational to our cloud platform. We start with a discussion of what cloud computing is and what Azure offers you and your team. We then take a look at basic services and features, setting up an account and subscription along the way. Finally, we tour the Azure Portal and do a quick overview of the resources available and what they do.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86431,
+                    "title": "Azure networking basics",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "715291"
+                    ],
+                    "speakerNames": [
+                        "Bradley Stewart"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that Tailwind Traders has decided to take the journey into the cloud, they need to understand how their applications and services communicate with each other, the internet, and on-premises networks. In this session, we cover the basics of Azure networking: what it is, how it differs from on-premises, and how to take full advantage of its capabilities. We then learn how the virtual machines in your new network can communicate with each other over the internet and our on-premises network, using Virtual Network Peering, site-to-site VPN, and Azure ExpressRoute. Finally, we discuss how you to optimize, using Azure Traffic Manager.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86434,
+                    "title": "Discovering Azure tooling and utilities",
+                    "startDateTime": "2020-02-10T10:00:00+00:00",
+                    "endDateTime": "2020-02-10T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "719728"
+                    ],
+                    "speakerNames": [
+                        "April Edwards"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Microsoft Azure allows you to build your applications with the full power and resilience of the cloud. But, how do you do that? In this session, we show you the tools that Tailwind Traders uses on a daily basis, including the Visual Studio Code editor and its Azure extension. We also introduce you to the Azure Cloud Shell, which allows you to work with Azure resources - without the need for the Portal. Finally, we show you how Azure Resource Management (ARM) templates save you time and help you automate infrastructure, reducing the chance of errors that come with manual human input.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86432,
+                    "title": "Azure security fundamentals",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "707101"
+                    ],
+                    "speakerNames": [
+                        "Tiberiu George Covaci"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86433,
+                    "title": "Exploring containers and orchestration in Azure",
+                    "startDateTime": "2020-02-11T07:00:00+00:00",
+                    "endDateTime": "2020-02-11T07:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "726799"
+                    ],
+                    "speakerNames": [
+                        "Hatim Nagarwala"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, you’ll learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service. \r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86447,
+                    "title": "Keeping costs down in Azure",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, you'll learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86616,
+                    "title": "What you need to know about governance in Azure",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, you'll learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86448,
+                    "title": "Azure identity fundamentals",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "719747"
+                    ],
+                    "speakerNames": [
+                        "Roelf Zomerman"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Identity is the core of most workloads in Azure, and Tailwind Traders wants to implement Azure Active Directory in a way that correctly meshes their on-premises identities with those required in the cloud. In this session, learn the difference between authentication and authorization, as well as different identity models. Then, dive into the benefits of conditional access and multi-factor authentication (MFA) and wrap up with a demo showing you how to implement these types of extra protection.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                },
+                {
+                    "sessionId": 86450,
+                    "title": "Figuring out Azure functions",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "715283"
+                    ],
+                    "speakerNames": [
+                        "Christian Nwamba"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders is curious about the concept behind “serverless” computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.\r\n",
+                    "location": "Sheikh Rashid Hall F"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86563",
+            "sessionInstanceId": "86563",
+            "sessionCode": "DEP30",
+            "sessionCodeNormalized": "DEP30",
+            "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
+            "sortTitle": "streamline and stay current with windows 10 and office 365 proplus",
+            "sortRank": 2147483647,
+            "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T10:00:00+00:00",
+            "endDateTime": "2020-02-10T10:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907358",
+            "speakerIds": [
+                "683098",
+                "712623"
+            ],
+            "speakerNames": [
+                "Harjit Dhaliwal",
+                "Michael Niehaus"
+            ],
+            "speakerCompanies": [
+                "@Hoorge",
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86562,
+                    "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86561,
+                    "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098",
+                        "712623"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal",
+                        "Michael Niehaus"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86546,
+                    "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86551,
+                    "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
+                    "startDateTime": "2020-02-10T12:30:00+00:00",
+                    "endDateTime": "2020-02-10T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
+                    "location": "Sheikh Maktoum Hall B"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86580",
+            "sessionInstanceId": "86580",
+            "sessionCode": "TMS50",
+            "sessionCodeNormalized": "TMS50",
+            "title": "Streamline business processes with the Microsoft Teams development platform",
+            "sortTitle": "streamline business processes with the microsoft teams development platform",
+            "sortRank": 2147483647,
+            "description": "Join us to learn how Microsoft Teams can integrate applications and streamline business processes at Contoso. Teams can become your productivity hub by embedding the apps you are already using or deploying custom-built solutions using the latest dev tools. We show you how to leverage the Microsoft Power Platform to automate routine tasks like approvals and create low code apps for your Teams users.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T12:30:00+00:00",
+            "endDateTime": "2020-02-11T13:15:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Journey to Microsoft Teams",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907346",
+            "speakerIds": [
+                "697422"
+            ],
+            "speakerNames": [
+                "Preethy Krishnamurthy"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86583,
+                    "title": "What's new with Microsoft Teams: The hub for teamwork in Microsoft 365",
+                    "startDateTime": "2020-02-11T07:00:00+00:00",
+                    "endDateTime": "2020-02-11T07:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "702999"
+                    ],
+                    "speakerNames": [
+                        "Diaundra Jones"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Join us to learn how Microsoft Teams, the hub for collaboration and intelligent communications, is transforming the way people work at Contoso. We showcase some of the big feature innovations we’ve made in the last year and give you a sneak peek at some of the exciting new innovations coming to Microsoft Teams. This demo-rich session highlights the best Teams has to offer!\r\n",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86582,
+                    "title": "Intelligent communications in Microsoft Teams",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "702999",
+                        "717224"
+                    ],
+                    "speakerNames": [
+                        "Diaundra Jones",
+                        "Ghouse Shariff"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Microsoft Teams solves the communication needs of a diverse workforce. Calling and meeting experiences in Teams support more productive collaboration and foster teamwork across Contoso. Join us to learn more about the latest intelligent communications features along with the most recent additions to our device portfolio.\r\n",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86581,
+                    "title": "Plan and implement a successful upgrade from Skype for Business to Microsoft Teams",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "717224"
+                    ],
+                    "speakerNames": [
+                        "Ghouse Shariff"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Explore the end-to-end Skype for Business to Teams upgrade experience, inclusive of technical and user readiness considerations. This session provides guidance for a successful upgrade and shares learnings from enterprises that have already successfully upgraded.  Learn more about the rich productivity and communication capabilities of Microsoft Teams.\r\n",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86585,
+                    "title": "Managing Microsoft Teams effectively",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "697422"
+                    ],
+                    "speakerNames": [
+                        "Preethy Krishnamurthy"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "With simple and granular management capabilities, Microsoft Teams empowers Contoso administrators with the controls they need to provide the best experience possible to users while protecting company data and meeting business requirements. Join us to learn more about the latest security and administration capabilities of Microsoft Teams.\r\n",
+                    "location": "Sheikh Maktoum Hall C"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86546",
+            "sessionInstanceId": "86546",
+            "sessionCode": "DEP40",
+            "sessionCodeNormalized": "DEP40",
+            "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
+            "sortTitle": "supercharge pc and mobile device management: attach configuration manager to microsoft intune and the microsoft 365 cloud",
+            "sortRank": 2147483647,
+            "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T11:15:00+00:00",
+            "endDateTime": "2020-02-10T12:00:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907357",
+            "speakerIds": [
+                "683098"
+            ],
+            "speakerNames": [
+                "Harjit Dhaliwal"
+            ],
+            "speakerCompanies": [
+                "@Hoorge"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86562,
+                    "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86561,
+                    "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098",
+                        "712623"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal",
+                        "Michael Niehaus"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86563,
+                    "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
+                    "startDateTime": "2020-02-10T10:00:00+00:00",
+                    "endDateTime": "2020-02-10T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098",
+                        "712623"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal",
+                        "Michael Niehaus"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86551,
+                    "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
+                    "startDateTime": "2020-02-10T12:30:00+00:00",
+                    "endDateTime": "2020-02-10T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
+                    "location": "Sheikh Maktoum Hall B"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86566",
+            "sessionInstanceId": "86566",
+            "sessionCode": "COMP50",
+            "sessionCodeNormalized": "COMP50",
+            "title": "Supercharge your ability to simplify IT compliance and reduce risk with Microsoft Compliance Score",
+            "sortTitle": "supercharge your ability to simplify it compliance and reduce risk with microsoft compliance score",
+            "sortRank": 2147483647,
+            "description": "Continuously assessing, improving and monitoring the effectiveness of your security and privacy controls is a top priority for all companies today. The new Compliance Score can automatically assess controls implemented in your system and get recommended actions and tools to improve your risk profile on an ongoing basis. Come find out how Compliance Score can help you demystify compliance and make you the hero admins to help your organization manage risks and compliance. You will also see the updated Microsoft 365 compliance center with improved admin experience to help you discover solutions and get started easily.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T12:30:00+00:00",
+            "endDateTime": "2020-02-10T13:15:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Meeting organizational compliance requirements",
+            "level": "Advanced (300)",
+            "products": [],
+            "format": "",
+            "topic": "Productivity",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907361",
+            "speakerIds": [
+                "715281"
+            ],
+            "speakerNames": [
+                "Ahmed Khairy"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86527,
+                    "title": "Know your data: use intelligence to identify, protect and govern your important data",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "Knowing your data, where it is stored, what is business critical, what is sensitive and needs to be protected, what should be kept and what can be deleted is an absolute priority.  In this session you will gain a deeper understanding of the new intelligent capabilities to assess the risks you face and how to reduce that risk by automatically classifying, labeling and protecting and governing data where it lives across your environment, endpoints, apps and services.",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86525,
+                    "title": "Identify and take action on insider risks, threats and code of conduct violations",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "669942"
+                    ],
+                    "speakerNames": [
+                        "AMIT BHATIA"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Insider threats and policy violations are a major risk for all companies and can easily go undetected until it is too late.  Proactively managing these risks and threats can provide you with a game changing advantage.  Gain a deeper understanding of how to gain visibility into and take action on insider threats, data leakage and policy violations.  Come learn about how the new Microsoft 365 Insider Risk Management and Communication Compliance solutions correlate multiple signals, from activities to communications, to give you a proactive view into potential threats and take remediate actions as appropriate.",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86564,
+                    "title": "Take control of your data explosion with intelligent Information Governance",
+                    "startDateTime": "2020-02-10T10:00:00+00:00",
+                    "endDateTime": "2020-02-10T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "716951"
+                    ],
+                    "speakerNames": [
+                        "Rami Calache"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "As data explodes in the modern workplace organizations recognize data is an asset but also a liability. Learn how Microsoft 365 can help your customers establish a comprehensive information governance strategy to intelligently manage your data lifecycle, keep what is important and delete what isn't.",
+                    "location": "Sheikh Maktoum Hall C"
+                },
+                {
+                    "sessionId": 86565,
+                    "title": "eDiscovery and Audit: Harnessing intelligent and end-to-end solutions to improve results and lower costs​",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "669942"
+                    ],
+                    "speakerNames": [
+                        "AMIT BHATIA"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Organizations are required often to quickly find relevant information related to investigations, litigation or regulatory requests.  However, discovering relevant information an organization needs when it is needed is both difficult and expensive.  Our Advanced e-discovery, Data Investigations and Audit capabilities enable you to quickly find relevant data and respond efficiently.  Come find our how you can reduce risk, time and cost in data discovery and remediation processes.  It’s applicable in a variety of scenarios, including litigations, internal investigations, privacy regulations and beyond.",
+                    "location": "Sheikh Maktoum Hall C"
+                }
+            ]
+        }
+    ],
+    "facets": {
+        "durationInMinutes": {
+            "displayName": "durationInMinutes",
+            "facetName": "durationInMinutes",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": 45,
+                    "count": 70
+                },
+                {
+                    "value": 0,
+                    "count": 16
+                },
+                {
+                    "value": 15,
+                    "count": 11
+                },
+                {
+                    "value": 60,
+                    "count": 9
+                },
+                {
+                    "value": 195,
+                    "count": 1
+                }
+            ]
+        },
+        "sessionType": {
+            "displayName": "translate.filters.session-type",
+            "facetName": "sessionType",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "Module: 45 Minute",
+                    "count": 79
+                },
+                {
+                    "value": "Learning Path",
+                    "count": 16
+                },
+                {
+                    "value": "Theater: 15 Minute",
+                    "count": 11
+                },
+                {
+                    "value": "Workshop: 90 Minute",
+                    "count": 1
+                }
+            ]
+        },
+        "learningPath": {
+            "displayName": "translate.filters.learning-path",
+            "facetName": "learningPath",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "Azure fundamentals",
+                    "count": 11
+                },
+                {
+                    "value": "Power Platform",
+                    "count": 8
+                },
+                {
+                    "value": "",
+                    "count": 7
+                },
+                {
+                    "value": "Developers guide to AI",
+                    "count": 7
+                },
+                {
+                    "value": "Deploying, managing, and servicing windows, office and all your devices",
+                    "count": 6
+                },
+                {
+                    "value": "Develop integrations and workflows for your productivity applications",
+                    "count": 6
+                },
+                {
+                    "value": "Developing cloud native applications",
+                    "count": 6
+                },
+                {
+                    "value": "Improving reliability through modern operations practices",
+                    "count": 6
+                },
+                {
+                    "value": "Journey to Microsoft Teams",
+                    "count": 6
+                },
+                {
+                    "value": "Meeting organizational compliance requirements",
+                    "count": 6
+                },
+                {
+                    "value": "Microsoft Dynamics 365",
+                    "count": 6
+                },
+                {
+                    "value": "Modernizing web applications and data",
+                    "count": 6
+                },
+                {
+                    "value": "Securing your organization",
+                    "count": 6
+                },
+                {
+                    "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+                    "count": 5
+                },
+                {
+                    "value": "IT administrator’s guide to managing productivity in the cloud",
+                    "count": 5
+                },
+                {
+                    "value": "Migrating server infrastructure",
+                    "count": 5
+                },
+                {
+                    "value": "Managing cloud operations",
+                    "count": 3
+                },
+                {
+                    "value": "Developing Cloud Native Applications",
+                    "count": 1
+                },
+                {
+                    "value": "Managing Cloud Operations",
+                    "count": 1
+                }
+            ]
+        },
+        "level": {
+            "displayName": "translate.filters.level",
+            "facetName": "level",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 100
+                },
+                {
+                    "value": "Intermediate (200)",
+                    "count": 4
+                },
+                {
+                    "value": "Advanced (300)",
+                    "count": 2
+                },
+                {
+                    "value": "Foundational (100)",
+                    "count": 1
+                }
+            ]
+        },
+        "format": {
+            "displayName": "translate.filters.format",
+            "facetName": "format",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 107
+                }
+            ]
+        },
+        "topic": {
+            "displayName": "translate.filters.topic",
+            "facetName": "topic",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 103
+                },
+                {
+                    "value": "Productivity",
+                    "count": 2
+                },
+                {
+                    "value": "Compliance",
+                    "count": 1
+                },
+                {
+                    "value": "Security",
+                    "count": 1
+                }
+            ]
+        },
+        "sessionTypeId": {
+            "displayName": "sessionTypeId",
+            "facetName": "sessionTypeId",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "3107",
+                    "count": 79
+                },
+                {
+                    "value": "3301",
+                    "count": 16
+                },
+                {
+                    "value": "3114",
+                    "count": 11
+                },
+                {
+                    "value": "3108",
+                    "count": 1
+                }
+            ]
+        }
+    },
+    "total": 107
+}

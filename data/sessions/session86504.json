@@ -1,0 +1,119 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 240,
+ "attendeeCount": 42,
+ "sessionId": "86504",
+ "sessionInstanceId": "86504",
+ "sessionCode": "MSI10",
+ "sessionCodeNormalized": "MSI10",
+ "title": "Migrating to Windows Server 2019",
+ "sortTitle": "migrating to windows server 2019",
+ "sortRank": 2147483647,
+ "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall D",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T10:00:00+00:00",
+ "endDateTime": "2020-02-11T10:45:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Migrating server infrastructure",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907375",
+ "speakerIds": [
+  "712734"
+ ],
+ "speakerNames": [
+  "Orin Thomas"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86509,
+   "title": "Hybrid management technologies",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "712734"
+   ],
+   "speakerNames": [
+    "Orin Thomas"
+   ],
+   "speakerCompanies": [],
+   "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 86507,
+   "title": "Migrating IaaS workloads to Azure",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "724361"
+   ],
+   "speakerNames": [
+    "Pierre Roman"
+   ],
+   "speakerCompanies": [],
+   "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 90731,
+   "title": "Top five new features of Windows Server 2019",
+   "startDateTime": "2020-02-10T10:50:00+00:00",
+   "endDateTime": "2020-02-10T11:05:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "712734"
+   ],
+   "speakerNames": [
+    "Orin Thomas"
+   ],
+   "speakerCompanies": [],
+   "description": "Windows Server 2019 is Microsoft's most rapidly adopted server operating system. With Windows Server 2008 and 2008 R2 end of support upon us, learn about some of the amazing new features included in the latest version of the Windows Server operating system. In this session, learn about the top new features in Windows Server 2019 including Windows Admin Center, Storage Migration Service, hyperconverged storage improvements, System Insights, Cluster Sets, Azure integration, Linux Containers and Kubernetes integration.",
+   "location": "Theater 1"
+  }
+ ]
+}

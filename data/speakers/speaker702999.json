@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "702999",
+ "attendeeId": "e6ac1633-cd63-4719-be53-9de6d1333378",
+ "firstName": "Diaundra",
+ "lastName": "Jones",
+ "displayName": "Diaundra Jones",
+ "jobTitle": "Product Marketing Manager",
+ "company": "Microsoft",
+ "bio": "Diaundra is a Product Marketing Manager for Microsoft Teams.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4511006/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86582",
+  "86583"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Diaundra Jones",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

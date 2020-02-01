@@ -1,0 +1,44 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "703050",
+ "attendeeId": "f8bf17bd-3372-42f9-b67c-478cf6bb7b70",
+ "firstName": "Chris",
+ "lastName": "McNulty",
+ "displayName": "Chris McNulty",
+ "jobTitle": "Sr. Product Manager",
+ "company": "Microsoft",
+ "bio": "TBD",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4523734/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86598",
+  "86600"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Chris McNulty",
+ "lastUpdate": "2020-01-27T19:20:14.762+00:00"
+}

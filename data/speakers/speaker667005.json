@@ -1,0 +1,43 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "667005",
+ "attendeeId": "f8eaf627-7c3c-4d85-be8c-b7d5c808f158",
+ "firstName": "Paul",
+ "lastName": "Collinge",
+ "displayName": "Paul Collinge",
+ "jobTitle": "Senior Program Manager",
+ "company": "Microsoft",
+ "bio": "Paul has worked at Microsoft since 2004 and is a Senior Program Manager in the Microsoft Office 365 Engineering team, primarily looking after network connectivity and performance to the service. Working directly with Microsoft’s largest customers to assist with their cloud network transformation, helping them to plan and optimize their enterprise connectivity to deliver best in class infrastructure for the modern world.\r\nPaul’s role utilizes the knowledge gained from this work to drive engineering changes and improvements to Microsoft’s infrastructure and has also enabled him to gain industry wide experience of the challenges and solutions to both enterprise Office 365 connectivity, and wider modern network best practices.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4332525/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "90708"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Paul Collinge",
+ "lastUpdate": "2020-01-22T19:51:51.639+00:00"
+}

@@ -1,0 +1,45 @@
+{
+ "@search.score": 1.0,
+ "speakerId": "726799",
+ "attendeeId": "dc171ff1-28c7-4cc9-b6d7-b7ce89559a61",
+ "firstName": "Hatim",
+ "lastName": "Nagarwala",
+ "displayName": "Hatim Nagarwala",
+ "jobTitle": "Technical Lead",
+ "company": "AppsWave",
+ "bio": "Full Stack Developer with hands on experience of designing, developing and maintaining web as well as mobile applications since 8 years. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Highly skilled at collaborating with team members to ship beautiful products within deadlines. Specialties includes Web Apps using ASP.NET & .NETCore, C#, React & Angular and Mobile Applications using Xamarin which are cloud centric and revolves around Microsoft Azure and AWS in a combination of solutions which involves IaaS and PaaS. Love to develop Bots and cognitive services apps. Community leader at Microsoft Developers UAE group.",
+ "photo": "https://1384msignitetoprodeast.blob.core.windows.net/23478avatar/r/4561156/biggest.png",
+ "blog": "",
+ "twitter": "",
+ "linkedIn": "",
+ "facebook": "",
+ "website": "",
+ "sessionsPresenting": [
+  "86433",
+  "95085",
+  "95244"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "products": [],
+ "levels": [
+  ""
+ ],
+ "priorityTrack": [],
+ "format": [
+  ""
+ ],
+ "staffingDetails": "",
+ "assignmentName": "",
+ "assignmentType": "",
+ "currentLocation": "",
+ "assignmentStart": null,
+ "assignmentEnd": null,
+ "currentLocationOriginalSerial": "",
+ "liveLocation": false,
+ "fullName": "Hatim Nagarwala",
+ "lastUpdate": "2020-01-30T21:20:15.449+00:00"
+}

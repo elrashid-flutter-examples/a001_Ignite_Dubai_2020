@@ -1,0 +1,1059 @@
+{
+    "data": [
+        {
+            "@search.score": 1.0,
+            "sessionId": "92250",
+            "sessionInstanceId": "92250",
+            "sessionCode": "WRK20004",
+            "sessionCodeNormalized": "WRK20004",
+            "title": "Microsoft Intelligent Intranet Accelerator Workshop",
+            "sortTitle": "microsoft intelligent intranet accelerator workshop",
+            "sortRank": 2147483647,
+            "description": "Are you ready to create a connected workplace? An intelligent intranet can connect you, your teams, and your organization when applying the right communication, knowledge sharing and discovery tools. We’ll show you how, with the right content sharing and business solution resources, you can greatly enhance the employee experience. Join us for this hands-on workshop where we teach you how to prototype, which will help demonstrate the possibilities of an intelligent intranet and gain buy-in from your stakeholders. You’ll gain the knowledge and ability to show your team the value of a new connected workplace and share strategies on how to drive adoption. By participating in our workshop, you’ll walk away with the tools and capabilities necessary to accelerate your time-to-value and prove the impact of the intelligent intranet. Get inspired, with the art of the possible at the Microsoft Intelligent Intranet Workshop",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T10:00:00+00:00",
+            "endDateTime": "2020-02-11T13:15:00+00:00",
+            "durationInMinutes": 195,
+            "sessionType": "Workshop: 90 Minute",
+            "sessionTypeLogical": "Workshop: 120 Minute",
+            "learningPath": "",
+            "level": "Intermediate (200)",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3108",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "",
+            "speakerIds": [
+                "712694"
+            ],
+            "speakerNames": [
+                "Ari Nadin"
+            ],
+            "speakerCompanies": [
+                "Avanade"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86507",
+            "sessionInstanceId": "86507",
+            "sessionCode": "MSI30",
+            "sessionCodeNormalized": "MSI30",
+            "title": "Migrating IaaS workloads to Azure",
+            "sortTitle": "migrating iaas workloads to azure",
+            "sortRank": 2147483647,
+            "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T12:30:00+00:00",
+            "endDateTime": "2020-02-11T13:15:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Migrating server infrastructure",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907373",
+            "speakerIds": [
+                "724361"
+            ],
+            "speakerNames": [
+                "Pierre Roman"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86504,
+                    "title": "Migrating to Windows Server 2019",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712734"
+                    ],
+                    "speakerNames": [
+                        "Orin Thomas"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                },
+                {
+                    "sessionId": 86509,
+                    "title": "Hybrid management technologies",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712734"
+                    ],
+                    "speakerNames": [
+                        "Orin Thomas"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "85065",
+            "sessionInstanceId": "85065",
+            "sessionCode": "",
+            "sessionCodeNormalized": "",
+            "title": "Migrating server infrastructure",
+            "sortTitle": "migrating server infrastructure",
+            "sortRank": 2147483647,
+            "description": "For many organizations, cloud adoption starts with assessing your current environment and upgrading to Window Server 2019: a new hybrid ecosystem not previously available. See how to get started and simplify your Windows Server and SQL Server Azure migration.",
+            "registrationLink": "",
+            "startDateTime": null,
+            "endDateTime": null,
+            "durationInMinutes": 0,
+            "sessionType": "Learning Path",
+            "sessionTypeLogical": "Learning Path",
+            "learningPath": "Migrating server infrastructure",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3301",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "120810",
+            "speakerIds": [],
+            "speakerNames": [],
+            "speakerCompanies": [],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [
+                {
+                    "sessionId": 86504,
+                    "title": "Migrating to Windows Server 2019",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712734"
+                    ],
+                    "speakerNames": [
+                        "Orin Thomas"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                },
+                {
+                    "sessionId": 86509,
+                    "title": "Hybrid management technologies",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712734"
+                    ],
+                    "speakerNames": [
+                        "Orin Thomas"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                },
+                {
+                    "sessionId": 86507,
+                    "title": "Migrating IaaS workloads to Azure",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "724361"
+                    ],
+                    "speakerNames": [
+                        "Pierre Roman"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                }
+            ],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86504",
+            "sessionInstanceId": "86504",
+            "sessionCode": "MSI10",
+            "sessionCodeNormalized": "MSI10",
+            "title": "Migrating to Windows Server 2019",
+            "sortTitle": "migrating to windows server 2019",
+            "sortRank": 2147483647,
+            "description": "Tailwind Traders has acquired Northwind, a large subsidiary company. Northwind currently has 1500 servers running Windows Server 2008 R2 -  either directly or virtually - on hardware at the midpoint of its operational lifespan. While Tailwind Traders will eventually move many of these workloads to Azure, Windows Server 2008 R2 end of life is quickly approaching. In this session, learn how Tailwind Traders’ used Azure hybrid management technologies to migrate servers, and the roles that they host, to Windows Server 2019.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T10:00:00+00:00",
+            "endDateTime": "2020-02-11T10:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Migrating server infrastructure",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907375",
+            "speakerIds": [
+                "712734"
+            ],
+            "speakerNames": [
+                "Orin Thomas"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86509,
+                    "title": "Hybrid management technologies",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712734"
+                    ],
+                    "speakerNames": [
+                        "Orin Thomas"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has now migrated the majority of their server hosts from Windows Server 2008 R2 to Windows Server 2019. Now, they are interested in the Azure hybrid technologies that are readily available to them. \r\n\r\nIn this session, learn how Tailwind Traders began using Windows Admin Center to manage its fleet of Windows Server computers and integrated hybrid technologies, such as Azure File Sync, Azure Active Directory Password Protection, Azure Backup, and Windows Defender ATP, to improve deployment performance and manageability.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                },
+                {
+                    "sessionId": 86507,
+                    "title": "Migrating IaaS workloads to Azure",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "724361"
+                    ],
+                    "speakerNames": [
+                        "Pierre Roman"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that the migration of their server hosts from Windows Server 2008 R2 to Windows Server 2019 is complete, Tailwind Traders wants to begin the process of “lift and shift”: migrating some of their on-premises VMs they’ve been running in their datacenter.  \r\n\r\nIn this session, learn about how Tailwind Traders began the process of migrating some of their existing VM workloads to Azure and how this allowed them to retire aging server hardware and close datacenter and server rooms that were costing the organization a substantial amount of money.\r\n",
+                    "location": "Sheikh Rashid Hall D"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86472",
+            "sessionInstanceId": "86472",
+            "sessionCode": "MOD10",
+            "sessionCodeNormalized": "MOD10",
+            "title": "Migrating web applications to Azure",
+            "sortTitle": "migrating web applications to azure",
+            "sortRank": 2147483647,
+            "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T07:00:00+00:00",
+            "endDateTime": "2020-02-11T07:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Modernizing web applications and data",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907380",
+            "speakerIds": [],
+            "speakerNames": [],
+            "speakerCompanies": [],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86474,
+                    "title": "Moving your database to Azure",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86471,
+                    "title": "Enhancing web applications with cloud intelligence",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86476,
+                    "title": "Debugging and interacting with production applications",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86484,
+                    "title": "Managing delivery of your app via DevOps",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86561",
+            "sessionInstanceId": "86561",
+            "sessionCode": "DEP20",
+            "sessionCodeNormalized": "DEP20",
+            "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
+            "sortTitle": "modern windows 10 and office 365 deployment with windows autopilot, desktop analytics, microsoft intune, and configuration manager",
+            "sortRank": 2147483647,
+            "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T08:15:00+00:00",
+            "endDateTime": "2020-02-10T09:00:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907359",
+            "speakerIds": [
+                "683098",
+                "712623"
+            ],
+            "speakerNames": [
+                "Harjit Dhaliwal",
+                "Michael Niehaus"
+            ],
+            "speakerCompanies": [
+                "@Hoorge",
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86562,
+                    "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86563,
+                    "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
+                    "startDateTime": "2020-02-10T10:00:00+00:00",
+                    "endDateTime": "2020-02-10T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098",
+                        "712623"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal",
+                        "Michael Niehaus"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86546,
+                    "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
+                    "location": "Sheikh Maktoum Hall B"
+                },
+                {
+                    "sessionId": 86551,
+                    "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
+                    "startDateTime": "2020-02-10T12:30:00+00:00",
+                    "endDateTime": "2020-02-10T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "683098"
+                    ],
+                    "speakerNames": [
+                        "Harjit Dhaliwal"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
+                    "location": "Sheikh Maktoum Hall B"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "85133",
+            "sessionInstanceId": "85133",
+            "sessionCode": "",
+            "sessionCodeNormalized": "",
+            "title": "Modernizing web applications and data",
+            "sortTitle": "modernizing web applications and data",
+            "sortRank": 2147483647,
+            "description": "Modernize workloads and migrate live databases to the cloud with minimal interruption. Learn how to auto scale your apps, use built-in database threat protection, and create pipelines that build and deploy solutions faster and more reliably.",
+            "registrationLink": "",
+            "startDateTime": null,
+            "endDateTime": null,
+            "durationInMinutes": 0,
+            "sessionType": "Learning Path",
+            "sessionTypeLogical": "Learning Path",
+            "learningPath": "Modernizing web applications and data",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3301",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "120809",
+            "speakerIds": [],
+            "speakerNames": [],
+            "speakerCompanies": [],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [
+                {
+                    "sessionId": 86472,
+                    "title": "Migrating web applications to Azure",
+                    "startDateTime": "2020-02-11T07:00:00+00:00",
+                    "endDateTime": "2020-02-11T07:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86474,
+                    "title": "Moving your database to Azure",
+                    "startDateTime": "2020-02-11T08:15:00+00:00",
+                    "endDateTime": "2020-02-11T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86471,
+                    "title": "Enhancing web applications with cloud intelligence",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86476,
+                    "title": "Debugging and interacting with production applications",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86484,
+                    "title": "Managing delivery of your app via DevOps",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                }
+            ],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86489",
+            "sessionInstanceId": "86489",
+            "sessionCode": "APPS30",
+            "sessionCodeNormalized": "APPS30",
+            "title": "Modernizing your application with containers",
+            "sortTitle": "modernizing your application with containers",
+            "sortRank": 2147483647,
+            "description": "Tailwind Traders recently moved one of its core applications from a virtual machine into containers, gaining deployment flexibility and repeatable builds.  In this session, you’ll learn how to manage containers for deployment, options for container registries, and ways to manage and scale deployed containers. You’ll also learn how Tailwind Traders uses Azure Key Vault service to store application secrets and make it easier for their applications to securely access business critical data.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T10:00:00+00:00",
+            "endDateTime": "2020-02-10T10:45:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Developing cloud native applications",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907385",
+            "speakerIds": [
+                "721311"
+            ],
+            "speakerNames": [
+                "Jessica Deen"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86487,
+                    "title": "Options for building and running your app in the cloud",
+                    "startDateTime": "2020-02-10T06:45:00+00:00",
+                    "endDateTime": "2020-02-10T07:45:00+00:00",
+                    "durationInMinutes": 60,
+                    "speakerIds": [
+                        "698031"
+                    ],
+                    "speakerNames": [
+                        "Cassie Breviu"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
+                    "location": "Sheikh Maktoum Hall D"
+                },
+                {
+                    "sessionId": 86486,
+                    "title": "Options for data in the cloud",
+                    "startDateTime": "2020-02-10T08:15:00+00:00",
+                    "endDateTime": "2020-02-10T09:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "715283"
+                    ],
+                    "speakerNames": [
+                        "Christian Nwamba"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
+                    "location": "Sheikh Maktoum Hall D"
+                },
+                {
+                    "sessionId": 86488,
+                    "title": "Consolidating infrastructure with Azure Kubernetes Service",
+                    "startDateTime": "2020-02-10T11:15:00+00:00",
+                    "endDateTime": "2020-02-10T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "721311"
+                    ],
+                    "speakerNames": [
+                        "Jessica Deen"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Kubernetes is the open source container orchestration system that supercharges applications with scaling and reliability and unlocks advanced features, like A/B testing, Blue/Green deployments, canary builds, and dead-simple rollbacks.    In this session, see how Tailwind Traders took a containerized application and deployed it to Azure Kubernetes Service (AKS). You’ll walk away with a deep understanding of major Kubernetes concepts and how to put it all to use with industry standard tooling.",
+                    "location": "Sheikh Maktoum Hall D"
+                },
+                {
+                    "sessionId": 86490,
+                    "title": "Taking your app to the next level with monitoring, performance, and scaling",
+                    "startDateTime": "2020-02-10T12:30:00+00:00",
+                    "endDateTime": "2020-02-10T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "707101"
+                    ],
+                    "speakerNames": [
+                        "Tiberiu George Covaci"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
+                    "location": "Sheikh Maktoum Hall D"
+                }
+            ]
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "90719",
+            "sessionInstanceId": "90719",
+            "sessionCode": "THR20001",
+            "sessionCodeNormalized": "THR20001",
+            "title": "Move to Windows 10 and Office 365 ProPlus with guidance from FastTrack",
+            "sortTitle": "move to windows 10 and office 365 proplus with guidance from fasttrack",
+            "sortRank": 2147483647,
+            "description": "Explore how FastTrack can help your organization move to Windows 10 and Office 365 ProPlus, so your users can work securely from anywhere. Learn how to protect business data and devices by addressing essential security and compliance issues, and find out how FastTrack can help you address any application compatibility issues that you may encounter along the way.",
+            "registrationLink": "",
+            "startDateTime": "2020-02-10T09:35:00+00:00",
+            "endDateTime": "2020-02-10T09:50:00+00:00",
+            "durationInMinutes": 15,
+            "sessionType": "Theater: 15 Minute",
+            "sessionTypeLogical": "Theater: 15 Minute",
+            "learningPath": "",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3114",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "",
+            "speakerIds": [
+                "719751"
+            ],
+            "speakerNames": [
+                "George Moussalem"
+            ],
+            "speakerCompanies": [
+                "Microsoft"
+            ],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": []
+        },
+        {
+            "@search.score": 1.0,
+            "sessionId": "86474",
+            "sessionInstanceId": "86474",
+            "sessionCode": "MOD20",
+            "sessionCodeNormalized": "MOD20",
+            "title": "Moving your database to Azure",
+            "sortTitle": "moving your database to azure",
+            "sortRank": 2147483647,
+            "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+            "registrationLink": "",
+            "startDateTime": "2020-02-11T08:15:00+00:00",
+            "endDateTime": "2020-02-11T09:00:00+00:00",
+            "durationInMinutes": 45,
+            "sessionType": "Module: 45 Minute",
+            "sessionTypeLogical": "Module: 45 Minute",
+            "learningPath": "Modernizing web applications and data",
+            "level": "",
+            "products": [],
+            "format": "",
+            "topic": "",
+            "sessionTypeId": "3107",
+            "isMandatory": false,
+            "visibleToAnonymousUsers": true,
+            "visibleInSessionListing": true,
+            "techCommunityDiscussionId": "907379",
+            "speakerIds": [],
+            "speakerNames": [],
+            "speakerCompanies": [],
+            "sessionLinks": [],
+            "marketingCampaign": [],
+            "links": "",
+            "lastUpdate": "2020-01-15T11:35:16.309+00:00",
+            "techCommunityUrl": "",
+            "childModules": [],
+            "siblingModules": [
+                {
+                    "sessionId": 86472,
+                    "title": "Migrating web applications to Azure",
+                    "startDateTime": "2020-02-11T07:00:00+00:00",
+                    "endDateTime": "2020-02-11T07:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86471,
+                    "title": "Enhancing web applications with cloud intelligence",
+                    "startDateTime": "2020-02-11T10:00:00+00:00",
+                    "endDateTime": "2020-02-11T10:45:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86476,
+                    "title": "Debugging and interacting with production applications",
+                    "startDateTime": "2020-02-11T11:15:00+00:00",
+                    "endDateTime": "2020-02-11T12:00:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [
+                        "712663"
+                    ],
+                    "speakerNames": [
+                        "Laurent Bugnion"
+                    ],
+                    "speakerCompanies": [],
+                    "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                },
+                {
+                    "sessionId": 86484,
+                    "title": "Managing delivery of your app via DevOps",
+                    "startDateTime": "2020-02-11T12:30:00+00:00",
+                    "endDateTime": "2020-02-11T13:15:00+00:00",
+                    "durationInMinutes": 45,
+                    "speakerIds": [],
+                    "speakerNames": [],
+                    "speakerCompanies": [],
+                    "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+                    "location": "Sheikh Rashid Hall E"
+                }
+            ]
+        }
+    ],
+    "facets": {
+        "durationInMinutes": {
+            "displayName": "durationInMinutes",
+            "facetName": "durationInMinutes",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": 45,
+                    "count": 70
+                },
+                {
+                    "value": 0,
+                    "count": 16
+                },
+                {
+                    "value": 15,
+                    "count": 11
+                },
+                {
+                    "value": 60,
+                    "count": 9
+                },
+                {
+                    "value": 195,
+                    "count": 1
+                }
+            ]
+        },
+        "sessionType": {
+            "displayName": "translate.filters.session-type",
+            "facetName": "sessionType",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "Module: 45 Minute",
+                    "count": 79
+                },
+                {
+                    "value": "Learning Path",
+                    "count": 16
+                },
+                {
+                    "value": "Theater: 15 Minute",
+                    "count": 11
+                },
+                {
+                    "value": "Workshop: 90 Minute",
+                    "count": 1
+                }
+            ]
+        },
+        "learningPath": {
+            "displayName": "translate.filters.learning-path",
+            "facetName": "learningPath",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "Azure fundamentals",
+                    "count": 11
+                },
+                {
+                    "value": "Power Platform",
+                    "count": 8
+                },
+                {
+                    "value": "",
+                    "count": 7
+                },
+                {
+                    "value": "Developers guide to AI",
+                    "count": 7
+                },
+                {
+                    "value": "Deploying, managing, and servicing windows, office and all your devices",
+                    "count": 6
+                },
+                {
+                    "value": "Develop integrations and workflows for your productivity applications",
+                    "count": 6
+                },
+                {
+                    "value": "Developing cloud native applications",
+                    "count": 6
+                },
+                {
+                    "value": "Improving reliability through modern operations practices",
+                    "count": 6
+                },
+                {
+                    "value": "Journey to Microsoft Teams",
+                    "count": 6
+                },
+                {
+                    "value": "Meeting organizational compliance requirements",
+                    "count": 6
+                },
+                {
+                    "value": "Microsoft Dynamics 365",
+                    "count": 6
+                },
+                {
+                    "value": "Modernizing web applications and data",
+                    "count": 6
+                },
+                {
+                    "value": "Securing your organization",
+                    "count": 6
+                },
+                {
+                    "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+                    "count": 5
+                },
+                {
+                    "value": "IT administrator’s guide to managing productivity in the cloud",
+                    "count": 5
+                },
+                {
+                    "value": "Migrating server infrastructure",
+                    "count": 5
+                },
+                {
+                    "value": "Managing cloud operations",
+                    "count": 3
+                },
+                {
+                    "value": "Developing Cloud Native Applications",
+                    "count": 1
+                },
+                {
+                    "value": "Managing Cloud Operations",
+                    "count": 1
+                }
+            ]
+        },
+        "level": {
+            "displayName": "translate.filters.level",
+            "facetName": "level",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 100
+                },
+                {
+                    "value": "Intermediate (200)",
+                    "count": 4
+                },
+                {
+                    "value": "Advanced (300)",
+                    "count": 2
+                },
+                {
+                    "value": "Foundational (100)",
+                    "count": 1
+                }
+            ]
+        },
+        "format": {
+            "displayName": "translate.filters.format",
+            "facetName": "format",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 107
+                }
+            ]
+        },
+        "topic": {
+            "displayName": "translate.filters.topic",
+            "facetName": "topic",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "",
+                    "count": 103
+                },
+                {
+                    "value": "Productivity",
+                    "count": 2
+                },
+                {
+                    "value": "Compliance",
+                    "count": 1
+                },
+                {
+                    "value": "Security",
+                    "count": 1
+                }
+            ]
+        },
+        "sessionTypeId": {
+            "displayName": "sessionTypeId",
+            "facetName": "sessionTypeId",
+            "isVisible": true,
+            "filters": [
+                {
+                    "value": "3107",
+                    "count": 79
+                },
+                {
+                    "value": "3301",
+                    "count": 16
+                },
+                {
+                    "value": "3114",
+                    "count": 11
+                },
+                {
+                    "value": "3108",
+                    "count": 1
+                }
+            ]
+        }
+    },
+    "total": 107
+}

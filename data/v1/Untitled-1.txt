@@ -1,0 +1,61 @@
+$js1 = Get-Content -Path .\Ignite01.json -Raw | ConvertFrom-Json
+
+$js0  = ConvertTo-Json -InputObject @(  )
+Get-ChildItem . -Filter Ignite*.json | 
+Foreach-Object {
+    $js1 = Get-Content -Path $_.FullName | ConvertFrom-Json
+    $js0 =   @($js0) + @($js1.data) | ConvertTo-Json
+ }
+$js0 
+ $js0 | Out-File -FilePath .\all.json
+
+
+
+powershell 
+cls
+
+Get-ChildItem . -Filter Ignite*.json | 
+Foreach-Object {
+    $_.Name
+ }
+
+
+ Get-ChildItem . -Filter Ignite*.json | 
+Foreach-Object {
+    $js1 = Get-Content -Path $_.FullName | ConvertFrom-Json
+    @($js1.data) | ConvertTo-Json  | Out-File -FilePath .\'data_'$_
+ }
+ 
+ 
+
+$js0 = $nul
+Get-ChildItem . -Filter Ignite*.json | 
+Foreach-Object {
+    $js1 = Get-Content -Path $_.FullName -Raw | ConvertFrom-Json
+    $js3 = @($js0) + $js1.data
+    $js0 =$js3
+ }
+$js0 = $js0 | ConvertTo-Json
+$js0 = $js0 -replace "\\u0027" , "\'"
+ 
+
+$js0 | Out-File -FilePath .\all.json
+
+
+
+
+ 
+
+$js0 = $nul
+Get-ChildItem . -Filter Ignite*.json | 
+Foreach-Object {
+    $js1 = Get-Content -Path $_.FullName -Raw | ConvertFrom-Json
+    $js3 = @($js0) + $js1.data
+    $js0 =$js3
+ }
+$js0 = $js0 | ConvertTo-Json -Depth 20  
+
+$js0 | Out-File -FilePath .\all.json
+
+ 
+ 
