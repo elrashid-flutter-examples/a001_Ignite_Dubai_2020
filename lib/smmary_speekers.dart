@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'sessions.dart';
+import 'package:co_elrashid_ignite/sessions/data/data/all.dart';
 
-void main() {
-  var _sessions = getSessions();
+Future<void> main() async {
+  var _sessions = await getSessions();
   var _speakers = <Speaker>[];
   _sessions.where((w) => w.speakerIds.length > 0).forEach((_session) {
     for (var i = 0; i < _session.speakerIds.length; i++) {
@@ -26,7 +26,6 @@ void main() {
   new File(csvfilename).writeAsString(_speakers
       .map((m) => "${m.speakerId}\t${m.speakerName}\t${m.speakerCompany}")
       .join("\n"));
- 
 }
 
 class Speaker {
