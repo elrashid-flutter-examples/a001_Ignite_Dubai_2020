@@ -7,7 +7,6 @@ import 'package:flutter/material.dart';
 import 'dart:core';
 import 'dart:math' as math;
 import 'package:flutter/services.dart';
-import 'package:sticky_headers/sticky_headers.dart';
 
 void main() => runApp(MyApp());
 
@@ -148,59 +147,8 @@ class _DayWidgetState extends State<DayWidget> {
       itemBuilder: (context, index) {
         print(_widgets.keys.join(","));
         if (_widgets[index] == null) {
-          _widgets[index] = StickyHeaderBuilder(
-            builder: (context, value) {
-              return Container(
-                height: 0.0,
-                transform: Matrix4.translationValues(0.0, 52.0, 0.0),
-                child: OverflowBox(
-                  minHeight: 80.0,
-                  maxHeight: 80.0,
-                  child: Container(
-                    // color: Colors.red,
-                    // color: Colors.blueGrey[700],
-                    padding: EdgeInsets.symmetric(horizontal: 16.0),
-                    alignment: Alignment.centerLeft,
-                    child: Column(
-                      children: <Widget>[
-                        Expanded(
-                          child: Text(
-                            _day.sessionsGroups[index].dateStr,
-                          ),
-                        ),
-                        // Text(
-                        //   // "${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1}|${_day.sessionsGroups.length}",
-                        //   // "${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1} ",
-                        //   "${value < 1.0 ? '🗓 ' + _day.day.toString() : ''}" +
-                        //       // "\n ${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1}" +
-                        //       "\n${(0.0 < value && value > 1.0) ? '⦿ ' + (index + 1 < 10 ? '0' + (index + 1).toString() : (index + 1).toString()) : ''}" +
-                        //       "\n${value < 1.0 ? '◉ ' + _day.sessionsGroups.length.toString() : ''}",
-
-                        //   textAlign: TextAlign.center,
-                        //   maxLines: 4,
-                        //   style: const TextStyle(color: Colors.black54),
-                        // ),
-                        Text(
-                          "${'🗓 ' + _day.day.toString()}" +
-                              "\n${'⦿ ' + (index + 1 < 10 ? '0' + (index + 1).toString() : (index + 1).toString())}" +
-                              "\n${'◉ ' + _day.sessionsGroups.length.toString()}",
-                          textAlign: TextAlign.center,
-                          maxLines: 4,
-                          style: const TextStyle(color: Colors.black54),
-                        ),
-                      ],
-                    ),
-                    // transform: Matrix4.translationValues(0.0, 92.0, 0.0),
-                  ),
-                ),
-              );
-            },
-            content: Container(
-              child: SessionGroupWidget(
-                sessionGroup: _day.sessionsGroups[index],
-              ),
-              // transform: Matrix4.translationValues(0.0, -92.0, 0.0),
-            ),
+          _widgets[index] = SessionGroupWidget(
+            sessionGroup: _day.sessionsGroups[index],
           );
         }
         return _widgets[index];
@@ -295,8 +243,7 @@ class SessionGroupWidget extends StatelessWidget {
                 child: Text(
                   sessionGroup.dateStr,
                   style: TextStyle(
-                    // color: Colors.black.withOpacity(0.8),
-                    color: Colors.white,
+                    color: Colors.black.withOpacity(0.8),
                     height: 1.5,
                   ),
                 ),
@@ -336,12 +283,10 @@ class SesstionWidget extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(bottom: 30.0),
       child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
-              mainAxisAlignment: MainAxisAlignment.start,
               children: <Widget>[
                 Container(
                   width: 200,
