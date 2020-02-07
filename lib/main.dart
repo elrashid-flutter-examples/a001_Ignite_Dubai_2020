@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:math';
 
+import 'package:co_elrashid_ignite/notes.dart';
 import 'package:co_elrashid_ignite/sessions/data/day/conference_day.dart';
 import 'package:co_elrashid_ignite/sessions/models/models.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
-import 'dart:math' as math;
-import 'package:flutter/services.dart';
+ import 'package:flutter/services.dart';
 import 'package:sticky_headers/sticky_headers.dart';
 
 void main() => runApp(MyApp());
@@ -326,11 +326,16 @@ class SessionGroupWidget extends StatelessWidget {
   }
 }
 
-class SesstionWidget extends StatelessWidget {
+class SesstionWidget extends StatefulWidget {
   final Session session;
 
   SesstionWidget(this.session);
 
+  @override
+  _SesstionWidgetState createState() => _SesstionWidgetState();
+}
+
+class _SesstionWidgetState extends State<SesstionWidget> {
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -347,7 +352,7 @@ class SesstionWidget extends StatelessWidget {
                   width: 200,
                   padding: EdgeInsets.only(bottom: 20),
                   child: Text(
-                    session.title,
+                    widget.session.title,
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       height: 1.5,
@@ -368,15 +373,28 @@ class SesstionWidget extends StatelessWidget {
                 //     height: 1.5,
                 //   ),
                 // ),
-                LearningPathWidget(session),
-                LocationWidget(session),
-                IconButton(
-                  icon: Icon(Icons.content_copy),
-                  onPressed: () {
-                    Clipboard.setData(new ClipboardData(
-                        text:
-                            "${session.title} by ${session.speakerNames[0]} from ${session.speakerCompanies[0]} "));
-                  },
+                LearningPathWidget(widget.session),
+                LocationWidget(widget.session),
+                Row(
+                  children: <Widget>[
+                    IconButton(
+                      icon: Icon(Icons.content_copy),
+                      onPressed: () {
+                        Clipboard.setData(new ClipboardData(
+                            text:
+                                "${widget.session.title} by ${widget.session.speakerNames[0]} from ${widget.session.speakerCompanies[0]} "));
+                      },
+                    ),
+                    IconButton(
+                      icon: Icon(Icons.edit),
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => MyAppx()),
+                        );
+                      },
+                    ),
+                  ],
                 ),
                 // for (var speakerId in session.speakerIds)
                 //   Image.asset('assets/i/no-bg/$speakerId.png',
@@ -501,7 +519,7 @@ class SesstionWidget extends StatelessWidget {
           ),
           Column(
             children: <Widget>[
-              for (var speakerId in session.speakerIds)
+              for (var speakerId in widget.session.speakerIds)
                 Transform.scale(
                   // scale: 1 ,
                   // scale: .75 / session.speakerIds.length,
@@ -545,9 +563,9 @@ class SesstionWidget extends StatelessWidget {
                             //   maxLines: 1,
                             //   overflow: TextOverflow.ellipsis,
                             // ),
-                            if (session.speakerIds.length == 1)
+                            if (widget.session.speakerIds.length == 1)
                               Text(
-                                session.speakerNames
+                                widget.session.speakerNames
                                     .join()
                                     .replaceAll(" ", "\n"),
                                 textAlign: TextAlign.center,
@@ -559,9 +577,9 @@ class SesstionWidget extends StatelessWidget {
                                   height: 1.5,
                                 ),
                               ),
-                            if (session.speakerIds.length == 1)
+                            if (widget.session.speakerIds.length == 1)
                               Text(
-                                session.speakerCompanies
+                                widget.session.speakerCompanies
                                     .join()
                                     .replaceAll(" ", "\n"),
                                 textAlign: TextAlign.center,
@@ -588,113 +606,3 @@ class SesstionWidget extends StatelessWidget {
   }
 }
 
-Widget speakers(Session session) {}
-var _learningPathKey = "LearningPath";
-
-class LearningPathWidget extends StatelessWidget {
-  final Session session;
-
-  LearningPathWidget(this.session);
-
-  @override
-  Widget build(BuildContext context) {
-    var str = session.learningPath.length > 0 ? session.learningPath : "Genral";
-    Widget _widget;
-    _widget = Container(
-      decoration: new BoxDecoration(
-        color: getRandomColor(_learningPathKey, str),
-        borderRadius: new BorderRadius.all(
-          const Radius.circular(40.0),
-        ),
-      ),
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: <Widget>[
-            Icon(
-              Icons.verified_user,
-              size: 10,
-            ),
-            Flexible(
-              child: Text(
-                str,
-                style: TextStyle(
-                  fontSize: 12,
-                  color: Colors.black.withOpacity(0.6),
-                  fontWeight: FontWeight.bold,
-                ),
-                textWidthBasis: TextWidthBasis.longestLine,
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-    return _widget;
-  }
-}
-
-class LocationWidget extends StatelessWidget {
-  final Session session;
-
-  LocationWidget(this.session);
-
-  @override
-  Widget build(BuildContext context) {
-    // var str =
-    //     session.siblingModules != null && session.siblingModules.length > 0
-    //         ? session.siblingModules?.first?.location
-    //         : "main hall";
-    var str = session.location;
-    Widget _widget;
-
-    _widget = Container(
-      decoration: new BoxDecoration(
-        color: getRandomColor("Location", str),
-        borderRadius: new BorderRadius.all(
-          const Radius.circular(40.0),
-        ),
-      ),
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: <Widget>[
-            Icon(
-              Icons.location_on,
-              size: 12,
-            ),
-            Flexible(
-              child: Text(
-                str,
-                style: TextStyle(
-                  fontSize: 12,
-                  color: Colors.black.withOpacity(0.6),
-                  fontWeight: FontWeight.bold,
-                ),
-                textWidthBasis: TextWidthBasis.longestLine,
-                maxLines: 2,
-                overflow: TextOverflow.ellipsis,
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-    return _widget;
-  }
-}
-
-Map<String, Map<String, Color>> _assgindColors = <String, Map<String, Color>>{};
-Color getRandomColor(String group, String key) {
-  if (_assgindColors[group] == null) _assgindColors[group] = {};
-  if (_assgindColors[group][key] == null) {
-    _assgindColors[group][key] =
-        Color((math.Random().nextDouble() * 0xFFFFFF).toInt() << 0)
-            .withOpacity(0.3);
-  }
-  return _assgindColors[group][key];
-}
