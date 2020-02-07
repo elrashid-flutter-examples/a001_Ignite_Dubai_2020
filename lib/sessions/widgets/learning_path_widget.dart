@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'dart:core';
 
 
-var _learningPathKey = "LearningPath";
 
 
 class LearningPathWidget extends StatelessWidget {
@@ -19,7 +18,7 @@ class LearningPathWidget extends StatelessWidget {
     Widget _widget;
     _widget = Container(
       decoration: new BoxDecoration(
-        color: getRandomColor(_learningPathKey, str),
+        color: getRandomColor(learningPathKey, str),
         borderRadius: new BorderRadius.all(
           const Radius.circular(40.0),
         ),

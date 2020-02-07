@@ -3,7 +3,6 @@ import 'package:co_elrashid_ignite/sessions/utilities/utilities.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-var _locationPathKey = "Location";
 
 class LocationWidget extends StatelessWidget {
   final Session session;
@@ -17,7 +16,7 @@ class LocationWidget extends StatelessWidget {
 
     _widget = Container(
       decoration: new BoxDecoration(
-        color: getRandomColor(_locationPathKey, str),
+        color: getRandomColor(locationPathKey, str),
         borderRadius: new BorderRadius.all(
           const Radius.circular(40.0),
         ),

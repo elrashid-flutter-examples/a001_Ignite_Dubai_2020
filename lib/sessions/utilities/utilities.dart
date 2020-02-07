@@ -13,3 +13,22 @@ Color getRandomColor(String group, String key) {
   }
   return _assgindColors[group][key];
 }
+
+List<SesstionFilterEntry> getFilters() {
+  List<SesstionFilterEntry> _filters = List();
+  if (_assgindColors[learningPathKey] != null) {
+    _assgindColors[learningPathKey]
+        .forEach((k, v) => _filters.add(SesstionFilterEntry(k, v)));
+  }
+
+  return _filters;
+}
+
+
+class SesstionFilterEntry {
+  const SesstionFilterEntry(this.name, this.color);
+  final String name;
+  final Color color;
+}
+var learningPathKey = "LearningPath";
+var locationPathKey = "Location";
