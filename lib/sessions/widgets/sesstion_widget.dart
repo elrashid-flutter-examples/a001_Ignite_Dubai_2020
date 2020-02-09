@@ -1,6 +1,8 @@
 import 'package:co_elrashid_ignite/notes.dart';
+import 'package:co_elrashid_ignite/session_notes_widget.dart';
 import 'package:co_elrashid_ignite/sessions/models/models.dart';
 import 'package:co_elrashid_ignite/sessions/widgets/widgets.dart';
+import 'package:co_elrashid_ignite/speaker.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 import 'package:flutter/services.dart';
@@ -55,7 +57,9 @@ class _SesstionWidgetState extends State<SesstionWidget> {
                       onPressed: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => MyAppx()),
+                          MaterialPageRoute(
+                              builder: (context) =>
+                                  SessionNotesWidget(session: widget.session)),
                         );
                       },
                     ),
@@ -67,64 +71,73 @@ class _SesstionWidgetState extends State<SesstionWidget> {
           Column(
             children: <Widget>[
               for (var speakerId in widget.session.speakerIds)
-                Transform.scale(
-                  scale: .75,
-                  child: Padding(
-                    padding: const EdgeInsets.only(top: 0),
-                    child: Container(
-                      decoration: new BoxDecoration(
-                        color: Colors.blue[500],
-                        borderRadius: new BorderRadius.all(
-                          const Radius.circular(80.0),
-                        ),
-                      ),
+                InkWell(
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => SpeakerWidget(
+                                speakerId: speakerId,
+                              )),
+                    );
+                  },
+                  child: Transform.scale(
+                    scale: .75,
+                    child: Padding(
+                      padding: const EdgeInsets.only(top: 0),
                       child: Container(
-                        width: 120,
-                        child: Column(
-                          children: <Widget>[
-                            Image.asset(
-                              'assets/i/no-bg/$speakerId.png',
-                              color: Colors.blue[100],
-                              colorBlendMode: BlendMode.modulate,
-                              // fit: BoxFit.cover,
-                            ),
-                            if (widget.session.speakerIds.length == 1)
-                              Text(
-                                widget.session.speakerNames
-                                    .join()
-                                    .replaceAll(" ", "\n"),
-                                textAlign: TextAlign.center,
-                                overflow: TextOverflow.ellipsis,
-                                softWrap: false,
-                                maxLines: 2,
-                                style: TextStyle(
-                                  fontWeight: FontWeight.bold,
-                                  height: 1.5,
-                                ),
-                              ),
-                            if (widget.session.speakerIds.length == 1)
-                              Text(
-                                widget.session.speakerCompanies
-                                    .join()
-                                    .replaceAll(" ", "\n"),
-                                textAlign: TextAlign.center,
-                                overflow: TextOverflow.ellipsis,
-                                softWrap: false,
-                                maxLines: 2,
-                                style: TextStyle(
-                                  // fontWeight: FontWeight.bold,
-                                  height: 1.5,
-                                ),
-                              ),
-                          ],
+                        decoration: new BoxDecoration(
+                          color: Colors.blue[500],
+                          borderRadius: new BorderRadius.all(
+                            const Radius.circular(80.0),
+                          ),
                         ),
-                        transform: Matrix4.translationValues(0.0, -50.0, 0.0),
+                        child: Container(
+                          width: 120,
+                          child: Column(
+                            children: <Widget>[
+                              Image.asset(
+                                'assets/i/no-bg/$speakerId.png',
+                                color: Colors.blue[100],
+                                colorBlendMode: BlendMode.modulate,
+                              ),
+                              if (widget.session.speakerIds.length == 1)
+                                Text(
+                                  widget.session.speakerNames
+                                      .join()
+                                      .replaceAll(" ", "\n"),
+                                  textAlign: TextAlign.center,
+                                  overflow: TextOverflow.ellipsis,
+                                  softWrap: false,
+                                  maxLines: 2,
+                                  style: TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    height: 1.5,
+                                  ),
+                                ),
+                              if (widget.session.speakerIds.length == 1)
+                                Text(
+                                  widget.session.speakerCompanies
+                                      .join()
+                                      .replaceAll(" ", "\n"),
+                                  textAlign: TextAlign.center,
+                                  overflow: TextOverflow.ellipsis,
+                                  softWrap: false,
+                                  maxLines: 2,
+                                  style: TextStyle(
+                                    height: 1.5,
+                                  ),
+                                ),
+                            ],
+                          ),
+                          transform: Matrix4.translationValues(0.0, -50.0, 0.0),
+                        ),
                       ),
                     ),
                   ),
                 ),
             ],
-          )
+          ),
         ],
       ),
     );

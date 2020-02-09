@@ -1,5 +1,40 @@
 
 class Session {
+
+
+
+
+
+
+  String get dateStr {
+    var _startDateLocal = DateTime.parse(startDateTime).toLocal();
+    var _endDateLocal = DateTime.parse(endDateTime).toLocal();
+
+    var _dateStr2 =
+        "${_formatTime(_startDateLocal)}\n${_formatTime(_endDateLocal)}";
+    var _dateStr = "${_formatTime(_startDateLocal)}";
+
+    return _dateStr;
+  }
+
+  String _formatTime(DateTime time) {
+    return "${_formatNumber(time.hour)}:${_formatNumber(time.minute)}";
+  }
+
+  String _formatNumber(int _number) {
+    String _numberStr;
+    if (_number < 10) {
+      _numberStr = "0${_number}";
+    } else {
+      _numberStr = "${_number}";
+    }
+    return _numberStr;
+  }
+
+
+
+
+
   double searchScore;
   String sessionId;
   String sessionInstanceId;

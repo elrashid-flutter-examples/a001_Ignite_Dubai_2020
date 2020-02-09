@@ -1,4 +1,3 @@
-
 import 'package:co_elrashid_ignite/sessions/data/day/conference_day.dart';
 import 'package:co_elrashid_ignite/sessions/models/models.dart';
 import 'package:co_elrashid_ignite/sessions/utilities/utilities.dart';
@@ -42,7 +41,7 @@ class _DayWidgetState extends State<DayWidget> {
   Scaffold buildScaffold() {
     return Scaffold(
       body: conferenceDayWidget(),
-      floatingActionButton: _floatingActionButtonWidget(),
+      // floatingActionButton: _floatingActionButtonWidget(),
     );
   }
 
@@ -67,7 +66,8 @@ class _DayWidgetState extends State<DayWidget> {
       child: IconButton(
         icon: Icon(
           Icons.filter_list,
-        ), onPressed: null,
+        ),
+        onPressed: null,
       ),
     );
   }
@@ -91,8 +91,6 @@ class _DayWidgetState extends State<DayWidget> {
                   minHeight: 80.0,
                   maxHeight: 80.0,
                   child: Container(
-                    // color: Colors.red,
-                    // color: Colors.blueGrey[700],
                     padding: EdgeInsets.symmetric(horizontal: 16.0),
                     alignment: Alignment.centerLeft,
                     child: Column(
@@ -102,18 +100,6 @@ class _DayWidgetState extends State<DayWidget> {
                             _day.sessionsGroups[index].dateStr,
                           ),
                         ),
-                        // Text(
-                        //   // "${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1}|${_day.sessionsGroups.length}",
-                        //   // "${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1} ",
-                        //   "${value < 1.0 ? '🗓 ' + _day.day.toString() : ''}" +
-                        //       // "\n ${index + 1 < 10 ? '0' + (index + 1).toString() : index + 1}" +
-                        //       "\n${(0.0 < value && value > 1.0) ? '⦿ ' + (index + 1 < 10 ? '0' + (index + 1).toString() : (index + 1).toString()) : ''}" +
-                        //       "\n${value < 1.0 ? '◉ ' + _day.sessionsGroups.length.toString() : ''}",
-
-                        //   textAlign: TextAlign.center,
-                        //   maxLines: 4,
-                        //   style: const TextStyle(color: Colors.black54),
-                        // ),
                         Text(
                           "${'🗓 ' + _day.day.toString()}" +
                               "\n${'⦿ ' + (index + 1 < 10 ? '0' + (index + 1).toString() : (index + 1).toString())}" +
@@ -124,7 +110,6 @@ class _DayWidgetState extends State<DayWidget> {
                         ),
                       ],
                     ),
-                    // transform: Matrix4.translationValues(0.0, 92.0, 0.0),
                   ),
                 ),
               );
@@ -133,7 +118,6 @@ class _DayWidgetState extends State<DayWidget> {
               child: SessionGroupWidget(
                 sessionGroup: _day.sessionsGroups[index],
               ),
-              // transform: Matrix4.translationValues(0.0, -92.0, 0.0),
             ),
           );
         }
@@ -141,7 +125,4 @@ class _DayWidgetState extends State<DayWidget> {
       },
     );
   }
-
-
-
 }
