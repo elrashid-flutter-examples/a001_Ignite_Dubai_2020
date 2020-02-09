@@ -1,4 +1,4 @@
-import 'package:co_elrashid_ignite/notes.dart';
+import 'package:co_elrashid_ignite/hide_personal_information.dart';
 import 'package:co_elrashid_ignite/session_notes_widget.dart';
 import 'package:co_elrashid_ignite/sessions/models/models.dart';
 import 'package:co_elrashid_ignite/sessions/widgets/widgets.dart';
@@ -99,13 +99,21 @@ class _SesstionWidgetState extends State<SesstionWidget> {
                               Image.asset(
                                 'assets/i/no-bg/$speakerId.png',
                                 color: Colors.blue[100],
-                                colorBlendMode: BlendMode.modulate,
+                                // colorBlendMode: BlendMode.modulate,
+                                //for screenshoot srcIn or srcATop for store submtion
+                                // colorBlendMode: BlendMode.srcIn,
+                                // colorBlendMode: BlendMode.srcATop,
+                                colorBlendMode: hidePersonalInformation
+                                    ? BlendMode.srcIn
+                                    : BlendMode.modulate,
                               ),
                               if (widget.session.speakerIds.length == 1)
                                 Text(
-                                  widget.session.speakerNames
-                                      .join()
-                                      .replaceAll(" ", "\n"),
+                                  hidePersonalInformation
+                                      ? "Speaker\nName"
+                                      : widget.session.speakerNames
+                                          .join()
+                                          .replaceAll(" ", "\n"),
                                   textAlign: TextAlign.center,
                                   overflow: TextOverflow.ellipsis,
                                   softWrap: false,
@@ -117,9 +125,11 @@ class _SesstionWidgetState extends State<SesstionWidget> {
                                 ),
                               if (widget.session.speakerIds.length == 1)
                                 Text(
-                                  widget.session.speakerCompanies
-                                      .join()
-                                      .replaceAll(" ", "\n"),
+                                  hidePersonalInformation
+                                      ? "Speaker\nCompany"
+                                      : widget.session.speakerCompanies
+                                          .join()
+                                          .replaceAll(" ", "\n"),
                                   textAlign: TextAlign.center,
                                   overflow: TextOverflow.ellipsis,
                                   softWrap: false,
