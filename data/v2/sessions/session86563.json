@@ -1,0 +1,140 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 240,
+ "attendeeCount": 21,
+ "sessionId": "86563",
+ "sessionInstanceId": "86563",
+ "sessionCode": "DEP30",
+ "sessionCodeNormalized": "DEP30",
+ "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
+ "sortTitle": "streamline and stay current with windows 10 and office 365 proplus",
+ "sortRank": 2147483647,
+ "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Maktoum Hall B",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-10T10:00:00+00:00",
+ "endDateTime": "2020-02-10T10:45:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907358",
+ "speakerIds": [
+  "683098",
+  "712623"
+ ],
+ "speakerNames": [
+  "Harjit Dhaliwal",
+  "Michael Niehaus"
+ ],
+ "speakerCompanies": [
+  "Tech Konnect",
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86562,
+   "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "speakerIds": [
+    "683098"
+   ],
+   "speakerNames": [
+    "Harjit Dhaliwal"
+   ],
+   "speakerCompanies": [],
+   "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86561,
+   "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "683098",
+    "712623"
+   ],
+   "speakerNames": [
+    "Harjit Dhaliwal",
+    "Michael Niehaus"
+   ],
+   "speakerCompanies": [],
+   "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86546,
+   "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
+   "startDateTime": "2020-02-10T11:15:00+00:00",
+   "endDateTime": "2020-02-10T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "683098"
+   ],
+   "speakerNames": [
+    "Harjit Dhaliwal"
+   ],
+   "speakerCompanies": [],
+   "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86551,
+   "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
+   "startDateTime": "2020-02-10T12:30:00+00:00",
+   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "683098"
+   ],
+   "speakerNames": [
+    "Harjit Dhaliwal"
+   ],
+   "speakerCompanies": [],
+   "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
+   "location": "Sheikh Maktoum Hall B"
+  }
+ ]
+}

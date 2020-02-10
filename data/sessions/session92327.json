@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 224,
- "attendeeCount": 21,
+ "capacity": 234,
+ "attendeeCount": 75,
  "sessionId": "92327",
  "sessionInstanceId": "92327",
  "sessionCode": "BRK30195",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall A",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T07:00:00+00:00",
  "endDateTime": "2020-02-11T07:45:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO8",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "",
  "speakerIds": [
@@ -49,7 +50,7 @@
   "Allan Pead"
  ],
  "speakerCompanies": [
-  "AD Soft"
+  "Microsoft MVP"
  ],
  "sessionSets": [
   "Session Catalog 2019",
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],

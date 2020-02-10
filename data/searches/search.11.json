@@ -2,21 +2,21 @@
  "data": [
   {
    "@search.score": 1.0,
-   "sessionId": "85147",
-   "sessionInstanceId": "85147",
+   "sessionId": "85133",
+   "sessionInstanceId": "85133",
    "sessionCode": "",
    "sessionCodeNormalized": "",
-   "title": "Power Platform",
-   "sortTitle": "power platform",
+   "title": "Modernizing web applications and data",
+   "sortTitle": "modernizing web applications and data",
    "sortRank": 2147483647,
-   "description": "Learn how to build and manage innovative business solutions with the Power Platform. Easily connect all your data to analyze real-time business performance, act on data and insights with custom built apps, and automate workflows to continuously improve the processes you work on every day, no matter your technical expertise.",
+   "description": "Modernize workloads and migrate live databases to the cloud with minimal interruption. Learn how to auto scale your apps, use built-in database threat protection, and create pipelines that build and deploy solutions faster and more reliably.",
    "registrationLink": "",
    "startDateTime": null,
    "endDateTime": null,
    "durationInMinutes": 0,
    "sessionType": "Learning Path",
    "sessionTypeLogical": "Learning Path",
-   "learningPath": "Power Platform",
+   "learningPath": "Modernizing web applications and data",
    "level": "",
    "products": [],
    "format": "",
@@ -25,443 +25,140 @@
    "isMandatory": false,
    "visibleToAnonymousUsers": true,
    "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "120801",
+   "techCommunityDiscussionId": "120809",
    "speakerIds": [],
    "speakerNames": [],
    "speakerCompanies": [],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [
     {
-     "sessionId": 86403,
-     "title": "Enabling everyone to digitize apps and processes with Power Apps and the Power Platform",
-     "startDateTime": "2020-02-10T06:45:00+00:00",
-     "endDateTime": "2020-02-10T07:45:00+00:00",
-     "durationInMinutes": 60,
-     "speakerIds": [
-      "666688"
-     ],
-     "speakerNames": [
-      "Mark Wilcock"
-     ],
-     "speakerCompanies": [],
-     "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
-     "location": "Sheikh Rashid Hall B"
-    },
-    {
-     "sessionId": 86415,
-     "title": "Intelligent automation with Microsoft Power Automate",
-     "startDateTime": "2020-02-10T08:15:00+00:00",
-     "endDateTime": "2020-02-10T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "714853"
-     ],
-     "speakerNames": [
-      "Mohamed Mahmoud"
-     ],
-     "speakerCompanies": [],
-     "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
-     "location": "Sheikh Rashid Hall B"
-    },
-    {
-     "sessionId": 86417,
-     "title": "Enable modern analytics and enterprise business intelligence using Microsoft Power BI",
-     "startDateTime": "2020-02-10T10:00:00+00:00",
-     "endDateTime": "2020-02-10T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "666688"
-     ],
-     "speakerNames": [
-      "Mark Wilcock"
-     ],
-     "speakerCompanies": [],
-     "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
-     "location": "Sheikh Rashid Hall B"
-    },
-    {
-     "sessionId": 86416,
-     "title": "Connecting Power Apps, Microsoft Power Automate, Power BI, and the Common Data Service with data",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "715251"
-     ],
-     "speakerNames": [
-      "Ali Jibran Sayed Mohammed"
-     ],
-     "speakerCompanies": [],
-     "description": "In this session, we'll discuss how to use the Common Data Service, connectors, dataflows, and more to connect Power Apps, Microsoft Power Automate, and Power BI to your data.",
-     "location": "Sheikh Rashid Hall B"
-    },
-    {
-     "sessionId": 86418,
-     "title": "Managing and supporting the Power Apps and Microsoft Power Automate at scale",
-     "startDateTime": "2020-02-10T12:30:00+00:00",
-     "endDateTime": "2020-02-10T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "715251"
-     ],
-     "speakerNames": [
-      "Ali Jibran Sayed Mohammed"
-     ],
-     "speakerCompanies": [],
-     "description": "Learn how administrators and IT-Pros can manage the enterprise adoption of Power Apps and Microsoft Power Automate. Discover the features, tools and practices to monitor, protect and support your organizations' data and innovations at scale. We'll share the top tips around governance, security, and monitoring requirements, as well as strategies employed by top customers to help you land low-code powered digital transformation in your organization.",
-     "location": "Sheikh Rashid Hall B"
-    },
-    {
-     "sessionId": 90723,
-     "title": "Learn How Microsoft Flow Is a the Perfect Automation Platform to Streamline Workflow Processes Across Your Entire IT Ecosystem",
-     "startDateTime": "2020-02-11T07:50:00+00:00",
-     "endDateTime": "2020-02-11T08:05:00+00:00",
-     "durationInMinutes": 15,
-     "speakerIds": [
-      "708239"
-     ],
-     "speakerNames": [
-      "Kuppurasu Nagaraj"
-     ],
-     "speakerCompanies": [],
-     "description": "TBD",
-     "location": "Theater 1"
-    },
-    {
-     "sessionId": 90722,
-     "title": "Top ten tips to securely rolling out Microsoft PowerApps and Microsoft Flow to your organization",
-     "startDateTime": "2020-02-11T10:50:00+00:00",
-     "endDateTime": "2020-02-11T11:05:00+00:00",
-     "durationInMinutes": 15,
-     "speakerIds": [
-      "707167"
-     ],
-     "speakerNames": [
-      "Jasjit Chopra"
-     ],
-     "speakerCompanies": [],
-     "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
-     "location": "Theater 1"
-    }
-   ],
-   "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "92332",
-   "sessionInstanceId": "92332",
-   "sessionCode": "BRK30199",
-   "sessionCodeNormalized": "BRK30199",
-   "title": "PowerApps and SharePoint: Better together for Intelligent Apps",
-   "sortTitle": "powerapps and sharepoint: better together for intelligent apps",
-   "sortRank": 2147483647,
-   "description": "You can now easily customize any SharePoint list form in PowerApps. Much of what we were doing with InfoPath is possible with PowerApps.  In a world where the end-users are handling information that is probably stored across different software suites, like SharePoint, Excel file, Access database, this comes like a killer feature. PowerApps is directly integrated with SharePoint and with PowerApps, you can create richly customized forms without any code. Once published, the forms are embedded within the SharePoint list and are available to all users of the list. Join me in this session on extending your business processes and explore the new concepts of zero-code apps!",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T08:15:00+00:00",
-   "endDateTime": "2020-02-11T09:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Breakout: 45 Minute",
-   "sessionTypeLogical": "Breakout: 45 Minute",
-   "learningPath": "",
-   "level": "Advanced (300)",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3106",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "",
-   "speakerIds": [
-    "694948"
-   ],
-   "speakerNames": [
-    "Gokan Ozcifci"
-   ],
-   "speakerCompanies": [
-    "Valo"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86524",
-   "sessionInstanceId": "86524",
-   "sessionCode": "OPS50",
-   "sessionCodeNormalized": "OPS50",
-   "title": "Preparing for growth: Capacity planning and scaling",
-   "sortTitle": "preparing for growth: capacity planning and scaling",
-   "sortRank": 2147483647,
-   "description": "When your growth or the demand for your systems exceeds, or is projected to exceed, your current capacity – that’s a “good” problem to have. However, this can be just as much of a threat to your system’s reliability as any other factor.  \r\n\r\nIn this session, dive into capacity planning and cost estimation basics, including the tools Azure provides to help with both. We wrap up with a discussion and demonstration of how Tailwind Traders judiciously applied Azure scaling features. Learn how to satisfy your customers and a growing demand, even when “challenged” by success.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T12:30:00+00:00",
-   "endDateTime": "2020-02-11T13:15:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Improving reliability through modern operations practices",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907368",
-   "speakerIds": [
-    "737384"
-   ],
-   "speakerNames": [
-    "Fabrice Aubert"
-   ],
-   "speakerCompanies": [
-    "Microsoft"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86508,
-     "title": "Building the foundation for modern ops: Monitoring",
+     "sessionId": 86472,
+     "title": "Migrating web applications to Azure",
      "startDateTime": "2020-02-11T07:00:00+00:00",
      "endDateTime": "2020-02-11T07:45:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "722025"
+      "767135",
+      "767075"
      ],
      "speakerNames": [
-      "James Toulman"
+      "Dina Helmy",
+      "Saeed Motamed"
      ],
      "speakerCompanies": [],
-     "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
-     "location": "Sheikh Maktoum Hall D"
+     "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86506,
-     "title": "Responding to incidents",
+     "sessionId": 86474,
+     "title": "Moving your database to Azure",
      "startDateTime": "2020-02-11T08:15:00+00:00",
      "endDateTime": "2020-02-11T09:00:00+00:00",
      "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "762659"
+     ],
+     "speakerNames": [
+      "Mahmoud Elserafi"
+     ],
      "speakerCompanies": [],
-     "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
-     "location": "Sheikh Maktoum Hall D"
+     "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86505,
-     "title": "Learning from failure",
+     "sessionId": 86471,
+     "title": "Enhancing web applications with cloud intelligence",
      "startDateTime": "2020-02-11T10:00:00+00:00",
      "endDateTime": "2020-02-11T10:45:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "719728"
+      "712663"
      ],
      "speakerNames": [
-      "April Edwards"
+      "Laurent Bugnion"
      ],
      "speakerCompanies": [],
-     "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
-     "location": "Sheikh Maktoum Hall D"
+     "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86522,
-     "title": "Deployment practices for greater reliability",
+     "sessionId": 86476,
+     "title": "Debugging and interacting with production applications",
      "startDateTime": "2020-02-11T11:15:00+00:00",
      "endDateTime": "2020-02-11T12:00:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "722024"
+      "712663"
      ],
      "speakerNames": [
-      "Hosam Kamel"
+      "Laurent Bugnion"
      ],
      "speakerCompanies": [],
-     "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    }
-   ]
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "90720",
-   "sessionInstanceId": "90720",
-   "sessionCode": "THR30036",
-   "sessionCodeNormalized": "THR30036",
-   "title": "Realize Ultimate Security with Microsoft Surface",
-   "sortTitle": "realize ultimate security with microsoft surface",
-   "sortRank": 2147483647,
-   "description": "In the world of Specter, Meltdown, and GDPR compliance your customers require devices that are designed to stay one step ahead of the next menacing threat. Attend this session to learn how Surface differentiates itself from chip to the cloud.  The session will provide a deep dive on Surface’s defense in depth strategy of built in hardware protections all the way up to the ability to address and immediately deploy protections through automated processes via the cloud or on-prem. You will leave with a firm understanding of how the Surface team works directly with engineering teams across Microsoft to ensure your investment in Surface provides you with the most secure device available.",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T12:05:00+00:00",
-   "endDateTime": "2020-02-11T12:20:00+00:00",
-   "durationInMinutes": 15,
-   "sessionType": "Theater: 15 Minute",
-   "sessionTypeLogical": "Theater: 15 Minute",
-   "learningPath": "",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3114",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "",
-   "speakerIds": [
-    "709325",
-    "668803"
-   ],
-   "speakerNames": [
-    "Sylvain RENOUIL",
-    "Pradeep Lingam"
-   ],
-   "speakerCompanies": [
-    "Microsoft",
-    "Redington Middle East LLC"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86506",
-   "sessionInstanceId": "86506",
-   "sessionCode": "OPS20",
-   "sessionCodeNormalized": "OPS20",
-   "title": "Responding to incidents",
-   "sortTitle": "responding to incidents",
-   "sortRank": 2147483647,
-   "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T08:15:00+00:00",
-   "endDateTime": "2020-02-11T09:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Improving reliability through modern operations practices",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907371",
-   "speakerIds": [],
-   "speakerNames": [],
-   "speakerCompanies": [],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86508,
-     "title": "Building the foundation for modern ops: Monitoring",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "722025"
-     ],
-     "speakerNames": [
-      "James Toulman"
-     ],
-     "speakerCompanies": [],
-     "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
-     "location": "Sheikh Maktoum Hall D"
+     "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86505,
-     "title": "Learning from failure",
-     "startDateTime": "2020-02-11T10:00:00+00:00",
-     "endDateTime": "2020-02-11T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "719728"
-     ],
-     "speakerNames": [
-      "April Edwards"
-     ],
-     "speakerCompanies": [],
-     "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    },
-    {
-     "sessionId": 86522,
-     "title": "Deployment practices for greater reliability",
-     "startDateTime": "2020-02-11T11:15:00+00:00",
-     "endDateTime": "2020-02-11T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "722024"
-     ],
-     "speakerNames": [
-      "Hosam Kamel"
-     ],
-     "speakerCompanies": [],
-     "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    },
-    {
-     "sessionId": 86524,
-     "title": "Preparing for growth: Capacity planning and scaling",
+     "sessionId": 86484,
+     "title": "Managing delivery of your app via DevOps",
      "startDateTime": "2020-02-11T12:30:00+00:00",
      "endDateTime": "2020-02-11T13:15:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "737384"
+      "719728"
      ],
      "speakerNames": [
-      "Fabrice Aubert"
+      "April Edwards"
      ],
      "speakerCompanies": [],
-     "description": "When your growth or the demand for your systems exceeds, or is projected to exceed, your current capacity – that’s a “good” problem to have. However, this can be just as much of a threat to your system’s reliability as any other factor.  \r\n\r\nIn this session, dive into capacity planning and cost estimation basics, including the tools Azure provides to help with both. We wrap up with a discussion and demonstration of how Tailwind Traders judiciously applied Azure scaling features. Learn how to satisfy your customers and a growing demand, even when “challenged” by success.\r\n",
-     "location": "Sheikh Maktoum Hall D"
+     "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90733,
+     "title": "Deploying and A/B testing without risks with deployment slots",
+     "startDateTime": "2020-02-10T07:50:00+00:00",
+     "endDateTime": "2020-02-10T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
-   ]
+   ],
+   "siblingModules": []
   },
   {
    "@search.score": 1.0,
-   "sessionId": "86620",
-   "sessionInstanceId": "86620",
-   "sessionCode": "ADM31",
-   "sessionCodeNormalized": "ADM31",
-   "title": "Role-based access control in Microsoft 365: Improve your operations and security posture",
-   "sortTitle": "role-based access control in microsoft 365: improve your operations and security posture",
+   "sessionId": "86489",
+   "sessionInstanceId": "86489",
+   "sessionCode": "APPS30",
+   "sessionCodeNormalized": "APPS30",
+   "title": "Modernizing your application with containers",
+   "sortTitle": "modernizing your application with containers",
    "sortRank": 2147483647,
-   "description": "Role-based access control is essential for improving the security posture of your org, while providing IT with a focused experience based on permissions. In this session you will hear about how to use the centrally-managed, granular role-based access control in Microsoft 365 admin center.  We will dive into the new workload-specific admin roles and global reader role, showing you how to select the right administrator permissions and control who has access to your data.",
+   "description": "Tailwind Traders recently moved one of its core applications from a virtual machine into containers, gaining deployment flexibility and repeatable builds.  In this session, you’ll learn how to manage containers for deployment, options for container registries, and ways to manage and scale deployed containers. You’ll also learn how Tailwind Traders uses Azure Key Vault service to store application secrets and make it easier for their applications to securely access business critical data.",
    "registrationLink": "",
    "startDateTime": "2020-02-10T10:00:00+00:00",
    "endDateTime": "2020-02-10T10:45:00+00:00",
    "durationInMinutes": 45,
    "sessionType": "Module: 45 Minute",
    "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "IT administrator’s guide to managing productivity in the cloud",
+   "learningPath": "Developing cloud native applications",
    "level": "",
    "products": [],
    "format": "",
@@ -470,169 +167,127 @@
    "isMandatory": false,
    "visibleToAnonymousUsers": true,
    "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907340",
+   "techCommunityDiscussionId": "907385",
    "speakerIds": [
-    "707230"
+    "721311"
    ],
    "speakerNames": [
-    "Andy Malone"
+    "Jessica Deen"
    ],
    "speakerCompanies": [
-    "Quality Training (Scotland) Ltd"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86629,
-     "title": "What's new and what's next: Embrace Office 365 Group",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "707230"
-     ],
-     "speakerNames": [
-      "Andy Malone"
-     ],
-     "speakerCompanies": [],
-     "description": "Office 365 groups is the membership service that drives teamwork across Microsoft 365. It’s a core underpinning of Teams, SharePoint, Outlook, SharePoint, Power BI, Dynamics CRM, and many other applications. In this session, you’ll learn the fundamentals and new innovations in Office 365 groups, including management and governance at scale, best practices for driving usage and adoption, and self-service. We will also share the Office 365 groups roadmap with you – and how coming investments will help you drive new levels of collaboration.",
-     "location": "Sheikh Rashid Hall E"
-    }
-   ]
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86549",
-   "sessionInstanceId": "86549",
-   "sessionCode": "SECO10",
-   "sessionCodeNormalized": "SECO10",
-   "title": "Secure your enterprise with a strong identity foundation",
-   "sortTitle": "secure your enterprise with a strong identity foundation",
-   "sortRank": 2147483647,
-   "description": "The three benefits we hear most often from our customers of Azure Active Directory are to reduce costs, improve security, and enhance user productivity. Come learn the top reasons why customers use Azure AD to gain greater visibility and control over users, apps, devices, and data. This Learning Path session is primarily targeted at organizations considering modernizing their identity and security solutions and have not yet adopted Azure AD widely, or existing customers that would like a refresher on the customer scenarios addressed.",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T07:00:00+00:00",
-   "endDateTime": "2020-02-11T07:45:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Securing your organization",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907355",
-   "speakerIds": [
-    "717841",
-    "738427"
-   ],
-   "speakerNames": [
-    "Subha Bhattacharyay",
-    "Nupur Goyal"
-   ],
-   "speakerCompanies": [
-    "Microsoft Corporation",
     "Microsoft"
    ],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
     {
-     "sessionId": 86547,
-     "title": "Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
+     "sessionId": 86487,
+     "title": "Options for building and running your app in the cloud",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
      "speakerIds": [
-      "697363"
+      "698031"
      ],
      "speakerNames": [
-      "Milad Aslaner"
+      "Cassie Breviu"
      ],
      "speakerCompanies": [],
-     "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86548,
-     "title": "End-to-end cloud security for all your XaaS resources",
-     "startDateTime": "2020-02-11T10:00:00+00:00",
-     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "sessionId": 86486,
+     "title": "Options for data in the cloud",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "719750"
+      "715283"
      ],
      "speakerNames": [
-      "David Maskell"
+      "Christian Nwamba"
      ],
      "speakerCompanies": [],
-     "description": "As critical assets and information move to the cloud across apps, infrastructure and services, it’s key to have a comprehensive cloud security strategy. From billions of signals that we analyze daily, we put together a list of key challenges and use cases to run your cross-cloud environments more securely. In this session we’ll share how you can get better visibility and implement processes and controls that will help you improve the security across your SaaS, IaaS and PaaS resources.",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86550,
-     "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
-     "startDateTime": "2020-02-11T11:15:00+00:00",
-     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "sessionId": 86488,
+     "title": "Consolidating infrastructure with Azure Kubernetes Service",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "745369"
+      "721311"
      ],
      "speakerNames": [
-      "Hesham Saad"
+      "Jessica Deen"
      ],
      "speakerCompanies": [],
-     "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "Kubernetes is the open source container orchestration system that supercharges applications with scaling and reliability and unlocks advanced features, like A/B testing, Blue/Green deployments, canary builds, and dead-simple rollbacks.    In this session, see how Tailwind Traders took a containerized application and deployed it to Azure Kubernetes Service (AKS). You’ll walk away with a deep understanding of major Kubernetes concepts and how to put it all to use with industry standard tooling.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86559,
-     "title": "Top 10 best security practices for Azure today",
-     "startDateTime": "2020-02-11T12:30:00+00:00",
-     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "sessionId": 86490,
+     "title": "Taking your app to the next level with monitoring, performance, and scaling",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "703851"
+      "707101"
      ],
      "speakerNames": [
-      "Tiander Turpijn"
+      "Tiberiu George Covaci"
      ],
      "speakerCompanies": [],
-     "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90732,
+     "title": "Azure and the command line – options, tips and tricks",
+     "startDateTime": "2020-02-11T09:05:00+00:00",
+     "endDateTime": "2020-02-11T09:20:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "If you love working from the command line, this session covers all the things you need to know to get the most out of the experience on Windows, Mac, and Linux. We start with Windows command line, then the new Terminal, and the Windows Subsystem for Linux (WSL). Then, we cover some interesting developments in the Azure Cloud Shell and show you how you can work with command line options in Visual Studio Code. By the end of this 15 minute session you'll have some new and interesting ways to control the cloud from your keyboard!",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
    ]
   },
   {
    "@search.score": 1.0,
-   "sessionId": "90734",
-   "sessionInstanceId": "90734",
-   "sessionCode": "THR30032",
-   "sessionCodeNormalized": "THR30032",
-   "title": "Securing Azure IaaS virtual machines",
-   "sortTitle": "securing azure iaas virtual machines",
+   "sessionId": "90719",
+   "sessionInstanceId": "90719",
+   "sessionCode": "THR20001",
+   "sessionCodeNormalized": "THR20001",
+   "title": "Move to Windows 10 and Office 365 ProPlus with guidance from FastTrack",
+   "sortTitle": "move to windows 10 and office 365 proplus with guidance from fasttrack",
    "sortRank": 2147483647,
-   "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
+   "description": "Explore how FastTrack can help your organization move to Windows 10 and Office 365 ProPlus, so your users can work securely from anywhere. Learn how to protect business data and devices by addressing essential security and compliance issues, and find out how FastTrack can help you address any application compatibility issues that you may encounter along the way.",
    "registrationLink": "",
-   "startDateTime": "2020-02-10T09:05:00+00:00",
-   "endDateTime": "2020-02-10T09:20:00+00:00",
+   "startDateTime": "2020-02-10T09:35:00+00:00",
+   "endDateTime": "2020-02-10T09:50:00+00:00",
    "durationInMinutes": 15,
    "sessionType": "Theater: 15 Minute",
    "sessionTypeLogical": "Theater: 15 Minute",
-   "learningPath": "Managing Cloud Operations",
+   "learningPath": "",
    "level": "",
    "products": [],
    "format": "",
@@ -643,35 +298,38 @@
    "visibleInSessionListing": true,
    "techCommunityDiscussionId": "",
    "speakerIds": [
-    "724361"
+    "719751",
+    "697460"
    ],
    "speakerNames": [
-    "Pierre Roman"
+    "George Moussalem",
+    "Mohamed Marzouk"
    ],
    "speakerCompanies": [
+    "Microsoft",
     "Microsoft"
    ],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
   },
   {
    "@search.score": 1.0,
-   "sessionId": "92323",
-   "sessionInstanceId": "92323",
-   "sessionCode": "BRK30193",
-   "sessionCodeNormalized": "BRK30193",
-   "title": "Securing your domain starts with Active Directory, Are you sure ?",
-   "sortTitle": "securing your domain starts with active directory, are you sure ?",
+   "sessionId": "92322",
+   "sessionInstanceId": "92322",
+   "sessionCode": "BRK30192",
+   "sessionCodeNormalized": "BRK30192",
+   "title": "Moving to the cloud – Different security challenge",
+   "sortTitle": "moving to the cloud – different security challenge",
    "sortRank": 2147483647,
-   "description": "Securing identities is the main focus for Organizations moving to the cloud. Although Working anywhere, from any device and all this nice BYOD terms provides flexibility however the compromise of the employee identity on unknow devices or from malicious IP is severe threat for all organizations. Efficient protection of AD is critical in limiting the impact of such breach. Organizations cannot easily detect such compromise and Active directory might be badly configured at the same time. This session will explain how AD and Azure AD can secure identities and how to fix common AD security issues and configurations.",
+   "description": "Whether people admit or not, everyone is moving to the cloud and all future business will run somewhere on the internet. Moving to the cloud requires different set of architecture and mindset. Data is stored, accessed and processed on different platforms and devices. Employees are working anywhere from the world, corporate data is no more under company IT custody. CISOs and CIOs need to think differently and set new Cloud Security Architecture. This session will try to draw the main areas of concern from Security perspective while moving to the cloud. Demos will be provided on Microsoft Azure Cloud.",
    "registrationLink": "",
-   "startDateTime": "2020-02-10T12:30:00+00:00",
-   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
    "durationInMinutes": 45,
    "sessionType": "Breakout: 45 Minute",
    "sessionTypeLogical": "Breakout: 45 Minute",
@@ -697,129 +355,539 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
   },
   {
    "@search.score": 1.0,
-   "sessionId": "85135",
-   "sessionInstanceId": "85135",
-   "sessionCode": "",
-   "sessionCodeNormalized": "",
-   "title": "Securing your organization",
-   "sortTitle": "securing your organization",
+   "sessionId": "86474",
+   "sessionInstanceId": "86474",
+   "sessionCode": "MOD20",
+   "sessionCodeNormalized": "MOD20",
+   "title": "Moving your database to Azure",
+   "sortTitle": "moving your database to azure",
    "sortRank": 2147483647,
-   "description": "Learn how to protect your organization’s identities, data, applications, and devices across on-premises, cloud, and mobile - end to-end using the latest tools and guidance. ",
+   "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
    "registrationLink": "",
-   "startDateTime": null,
-   "endDateTime": null,
-   "durationInMinutes": 0,
-   "sessionType": "Learning Path",
-   "sessionTypeLogical": "Learning Path",
-   "learningPath": "Securing your organization",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Modernizing web applications and data",
    "level": "",
    "products": [],
    "format": "",
    "topic": "",
-   "sessionTypeId": "3301",
+   "sessionTypeId": "3107",
    "isMandatory": false,
    "visibleToAnonymousUsers": true,
    "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "120807",
+   "techCommunityDiscussionId": "907379",
    "speakerIds": [],
    "speakerNames": [],
    "speakerCompanies": [],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
-   "childModules": [
+   "childModules": [],
+   "siblingModules": [
     {
-     "sessionId": 86549,
-     "title": "Secure your enterprise with a strong identity foundation",
+     "sessionId": 86472,
+     "title": "Migrating web applications to Azure",
      "startDateTime": "2020-02-11T07:00:00+00:00",
      "endDateTime": "2020-02-11T07:45:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "717841",
-      "738427"
+      "767135",
+      "767075"
      ],
      "speakerNames": [
-      "Subha Bhattacharyay",
-      "Nupur Goyal"
+      "Dina Helmy",
+      "Saeed Motamed"
      ],
      "speakerCompanies": [],
-     "description": "The three benefits we hear most often from our customers of Azure Active Directory are to reduce costs, improve security, and enhance user productivity. Come learn the top reasons why customers use Azure AD to gain greater visibility and control over users, apps, devices, and data. This Learning Path session is primarily targeted at organizations considering modernizing their identity and security solutions and have not yet adopted Azure AD widely, or existing customers that would like a refresher on the customer scenarios addressed.",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86547,
-     "title": "Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "697363"
-     ],
-     "speakerNames": [
-      "Milad Aslaner"
-     ],
-     "speakerCompanies": [],
-     "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
-     "location": "Sheikh Maktoum Hall A"
-    },
-    {
-     "sessionId": 86548,
-     "title": "End-to-end cloud security for all your XaaS resources",
+     "sessionId": 86471,
+     "title": "Enhancing web applications with cloud intelligence",
      "startDateTime": "2020-02-11T10:00:00+00:00",
      "endDateTime": "2020-02-11T10:45:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "719750"
+      "712663"
      ],
      "speakerNames": [
-      "David Maskell"
+      "Laurent Bugnion"
      ],
      "speakerCompanies": [],
-     "description": "As critical assets and information move to the cloud across apps, infrastructure and services, it’s key to have a comprehensive cloud security strategy. From billions of signals that we analyze daily, we put together a list of key challenges and use cases to run your cross-cloud environments more securely. In this session we’ll share how you can get better visibility and implement processes and controls that will help you improve the security across your SaaS, IaaS and PaaS resources.",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86550,
-     "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+     "sessionId": 86476,
+     "title": "Debugging and interacting with production applications",
      "startDateTime": "2020-02-11T11:15:00+00:00",
      "endDateTime": "2020-02-11T12:00:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "745369"
+      "712663"
      ],
      "speakerNames": [
-      "Hesham Saad"
+      "Laurent Bugnion"
      ],
      "speakerCompanies": [],
-     "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "Now that Tailwind Traders is running fully on Azure, the developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications.\r\n\r\nIn this session, see how streaming logs work to monitor the production application in real time. We also talk about deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. From there, we explore how you can use other tools to manage your websites and containers live.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
-     "sessionId": 86559,
-     "title": "Top 10 best security practices for Azure today",
+     "sessionId": 86484,
+     "title": "Managing delivery of your app via DevOps",
      "startDateTime": "2020-02-11T12:30:00+00:00",
      "endDateTime": "2020-02-11T13:15:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "703851"
+      "719728"
      ],
      "speakerNames": [
-      "Tiander Turpijn"
+      "April Edwards"
      ],
      "speakerCompanies": [],
-     "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
-     "location": "Sheikh Maktoum Hall A"
+     "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90733,
+     "title": "Deploying and A/B testing without risks with deployment slots",
+     "startDateTime": "2020-02-10T07:50:00+00:00",
+     "endDateTime": "2020-02-10T08:05:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "712663"
+     ],
+     "speakerNames": [
+      "Laurent Bugnion"
+     ],
+     "speakerCompanies": [],
+     "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86523",
+   "sessionInstanceId": "86523",
+   "sessionCode": "ADM10",
+   "sessionCodeNormalized": "ADM10",
+   "title": "Onboarding and setup: Getting the most out of Microsoft 365",
+   "sortTitle": "onboarding and setup: getting the most out of microsoft 365",
+   "sortRank": 2147483647,
+   "description": "Come and learn about the new onboarding experiences we've built in the Microsoft 365 Admin Center. These experiences empower you to learn about and activate the different components of your subscription and to easily understand what to do next with intelligent recommendations. We also cover how you can take your Office 365 subscription to Microsoft 365 with our tailored setup experiences.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "IT administrator’s guide to managing productivity in the cloud",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907367",
+   "speakerIds": [
+    "707230"
    ],
+   "speakerNames": [
+    "Andy Malone"
+   ],
+   "speakerCompanies": [
+    "Quality Training (Scotland) Ltd"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86526,
+     "title": "Addressing top management issues with users and groups",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707230"
+     ],
+     "speakerNames": [
+      "Andy Malone"
+     ],
+     "speakerCompanies": [],
+     "description": "Efficient management of users, groups, and devices is core to ensuring your organization runs smoothly on Microsoft 365 services. Come learn tips and tricks on the best way to handle everyday challenges you face – from ensuring a department sticks to their license budget, making sure you’ve got access to those important emails when someone leaves, to setting up groups to enable modern teamwork.",
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "92260",
+   "sessionInstanceId": "92260",
+   "sessionCode": "THR20017",
+   "sessionCodeNormalized": "THR20017",
+   "title": "One browser for modern and legacy web apps: How to configure IE mode",
+   "sortTitle": "one browser for modern and legacy web apps: how to configure ie mode",
+   "sortRank": 2147483647,
+   "description": "We have worked with numerous companies – ranging from 1,000’s to 100,000’s of seats – to move from multiple browser environments to a single browser environment. We’ll share lessons learned and best practices for configuring IE mode in the next version of Microsoft Edge",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T06:20:00+00:00",
+   "endDateTime": "2020-02-10T06:35:00+00:00",
+   "durationInMinutes": 15,
+   "sessionType": "Theater: 15 Minute",
+   "sessionTypeLogical": "Theater: 15 Minute",
+   "learningPath": "",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3114",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "713875"
+   ],
+   "speakerNames": [
+    "Aditi Gangwar"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86487",
+   "sessionInstanceId": "86487",
+   "sessionCode": "APPS10",
+   "sessionCodeNormalized": "APPS10",
+   "title": "Options for building and running your app in the cloud",
+   "sortTitle": "options for building and running your app in the cloud",
+   "sortRank": 2147483647,
+   "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Developing cloud native applications",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907386",
+   "speakerIds": [
+    "698031"
+   ],
+   "speakerNames": [
+    "Cassie Breviu"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86486,
+     "title": "Options for data in the cloud",
+     "startDateTime": "2020-02-10T08:15:00+00:00",
+     "endDateTime": "2020-02-10T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "715283"
+     ],
+     "speakerNames": [
+      "Christian Nwamba"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86489,
+     "title": "Modernizing your application with containers",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "721311"
+     ],
+     "speakerNames": [
+      "Jessica Deen"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders recently moved one of its core applications from a virtual machine into containers, gaining deployment flexibility and repeatable builds.  In this session, you’ll learn how to manage containers for deployment, options for container registries, and ways to manage and scale deployed containers. You’ll also learn how Tailwind Traders uses Azure Key Vault service to store application secrets and make it easier for their applications to securely access business critical data.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86488,
+     "title": "Consolidating infrastructure with Azure Kubernetes Service",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "721311"
+     ],
+     "speakerNames": [
+      "Jessica Deen"
+     ],
+     "speakerCompanies": [],
+     "description": "Kubernetes is the open source container orchestration system that supercharges applications with scaling and reliability and unlocks advanced features, like A/B testing, Blue/Green deployments, canary builds, and dead-simple rollbacks.    In this session, see how Tailwind Traders took a containerized application and deployed it to Azure Kubernetes Service (AKS). You’ll walk away with a deep understanding of major Kubernetes concepts and how to put it all to use with industry standard tooling.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86490,
+     "title": "Taking your app to the next level with monitoring, performance, and scaling",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707101"
+     ],
+     "speakerNames": [
+      "Tiberiu George Covaci"
+     ],
+     "speakerCompanies": [],
+     "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90732,
+     "title": "Azure and the command line – options, tips and tricks",
+     "startDateTime": "2020-02-11T09:05:00+00:00",
+     "endDateTime": "2020-02-11T09:20:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "If you love working from the command line, this session covers all the things you need to know to get the most out of the experience on Windows, Mac, and Linux. We start with Windows command line, then the new Terminal, and the Windows Subsystem for Linux (WSL). Then, we cover some interesting developments in the Azure Cloud Shell and show you how you can work with command line options in Visual Studio Code. By the end of this 15 minute session you'll have some new and interesting ways to control the cloud from your keyboard!",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86486",
+   "sessionInstanceId": "86486",
+   "sessionCode": "APPS20",
+   "sessionCodeNormalized": "APPS20",
+   "title": "Options for data in the cloud",
+   "sortTitle": "options for data in the cloud",
+   "sortRank": 2147483647,
+   "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Developing cloud native applications",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907387",
+   "speakerIds": [
+    "715283"
+   ],
+   "speakerNames": [
+    "Christian Nwamba"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86487,
+     "title": "Options for building and running your app in the cloud",
+     "startDateTime": "2020-02-10T06:45:00+00:00",
+     "endDateTime": "2020-02-10T07:45:00+00:00",
+     "durationInMinutes": 60,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86489,
+     "title": "Modernizing your application with containers",
+     "startDateTime": "2020-02-10T10:00:00+00:00",
+     "endDateTime": "2020-02-10T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "721311"
+     ],
+     "speakerNames": [
+      "Jessica Deen"
+     ],
+     "speakerCompanies": [],
+     "description": "Tailwind Traders recently moved one of its core applications from a virtual machine into containers, gaining deployment flexibility and repeatable builds.  In this session, you’ll learn how to manage containers for deployment, options for container registries, and ways to manage and scale deployed containers. You’ll also learn how Tailwind Traders uses Azure Key Vault service to store application secrets and make it easier for their applications to securely access business critical data.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86488,
+     "title": "Consolidating infrastructure with Azure Kubernetes Service",
+     "startDateTime": "2020-02-10T11:15:00+00:00",
+     "endDateTime": "2020-02-10T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "721311"
+     ],
+     "speakerNames": [
+      "Jessica Deen"
+     ],
+     "speakerCompanies": [],
+     "description": "Kubernetes is the open source container orchestration system that supercharges applications with scaling and reliability and unlocks advanced features, like A/B testing, Blue/Green deployments, canary builds, and dead-simple rollbacks.    In this session, see how Tailwind Traders took a containerized application and deployed it to Azure Kubernetes Service (AKS). You’ll walk away with a deep understanding of major Kubernetes concepts and how to put it all to use with industry standard tooling.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86490,
+     "title": "Taking your app to the next level with monitoring, performance, and scaling",
+     "startDateTime": "2020-02-10T12:30:00+00:00",
+     "endDateTime": "2020-02-10T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707101"
+     ],
+     "speakerNames": [
+      "Tiberiu George Covaci"
+     ],
+     "speakerCompanies": [],
+     "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90732,
+     "title": "Azure and the command line – options, tips and tricks",
+     "startDateTime": "2020-02-11T09:05:00+00:00",
+     "endDateTime": "2020-02-11T09:20:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "698031"
+     ],
+     "speakerNames": [
+      "Cassie Breviu"
+     ],
+     "speakerCompanies": [],
+     "description": "If you love working from the command line, this session covers all the things you need to know to get the most out of the experience on Windows, Mac, and Linux. We start with Windows command line, then the new Terminal, and the Windows Subsystem for Linux (WSL). Then, we cover some interesting developments in the Azure Cloud Shell and show you how you can work with command line options in Visual Studio Code. By the end of this 15 minute session you'll have some new and interesting ways to control the cloud from your keyboard!",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "90709",
+   "sessionInstanceId": "90709",
+   "sessionCode": "BRK20003",
+   "sessionCodeNormalized": "BRK20003",
+   "title": "Outlook mobile: The gold standard for secure communications in the enterprise.",
+   "sortTitle": "outlook mobile: the gold standard for secure communications in the enterprise.",
+   "sortRank": 2147483647,
+   "description": "Outlook for iOS and Android helps separate work and personal data, even without device enrollment! Keep your users happy and productive while seamlessly managing how data can move between applications. There is no better client for managing your enterprise email data.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "697460"
+   ],
+   "speakerNames": [
+    "Mohamed Marzouk"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
    "siblingModules": []
   }
  ],
@@ -831,11 +899,11 @@
    "filters": [
     {
      "value": 45,
-     "count": 92
+     "count": 97
     },
     {
      "value": 15,
-     "count": 22
+     "count": 24
     },
     {
      "value": 0,
@@ -846,7 +914,19 @@
      "count": 11
     },
     {
+     "value": 70,
+     "count": 4
+    },
+    {
+     "value": 30,
+     "count": 2
+    },
+    {
      "value": 195,
+     "count": 2
+    },
+    {
+     "value": 135,
      "count": 1
     }
    ]
@@ -858,26 +938,34 @@
    "filters": [
     {
      "value": "Module: 45 Minute",
-     "count": 79
-    },
-    {
-     "value": "Theater: 15 Minute",
-     "count": 22
+     "count": 77
     },
     {
      "value": "Breakout: 45 Minute",
-     "count": 20
+     "count": 31
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 24
     },
     {
      "value": "Learning Path",
      "count": 16
     },
     {
-     "value": "",
+     "value": "Unconference: 70 Minute",
      "count": 4
     },
     {
+     "value": "Panel: 30 Minute",
+     "count": 2
+    },
+    {
      "value": "Workshop: 120 Minute",
+     "count": 2
+    },
+    {
+     "value": "Workshop: 195 Minute",
      "count": 1
     }
    ]
@@ -889,7 +977,7 @@
    "filters": [
     {
      "value": "",
-     "count": 40
+     "count": 57
     },
     {
      "value": "Azure fundamentals",
@@ -940,16 +1028,16 @@
      "count": 6
     },
     {
-     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
-     "count": 5
-    },
-    {
      "value": "IT administrator’s guide to managing productivity in the cloud",
      "count": 5
     },
     {
      "value": "Migrating server infrastructure",
      "count": 5
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 3
     },
     {
      "value": "Managing cloud operations",
@@ -972,19 +1060,19 @@
    "filters": [
     {
      "value": "",
-     "count": 108
+     "count": 112
     },
     {
      "value": "Advanced (300)",
-     "count": 22
+     "count": 23
     },
     {
      "value": "Intermediate (200)",
-     "count": 7
+     "count": 12
     },
     {
      "value": "Foundational (100)",
-     "count": 3
+     "count": 8
     },
     {
      "value": "Expert (400)",
@@ -999,7 +1087,7 @@
    "filters": [
     {
      "value": "",
-     "count": 142
+     "count": 157
     }
    ]
   },
@@ -1010,7 +1098,7 @@
    "filters": [
     {
      "value": "",
-     "count": 138
+     "count": 153
     },
     {
      "value": "Productivity",
@@ -1033,26 +1121,38 @@
    "filters": [
     {
      "value": "3107",
-     "count": 80
+     "count": 78
     },
     {
      "value": "3106",
-     "count": 23
+     "count": 30
     },
     {
      "value": "3114",
-     "count": 22
+     "count": 24
     },
     {
      "value": "3301",
      "count": 16
     },
     {
+     "value": "3111",
+     "count": 4
+    },
+    {
      "value": "3108",
+     "count": 2
+    },
+    {
+     "value": "3113",
+     "count": 2
+    },
+    {
+     "value": "3109",
      "count": 1
     }
    ]
   }
  },
- "total": 142
+ "total": 157
 }

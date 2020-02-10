@@ -1,0 +1,252 @@
+[
+ {
+  "key": "durationInMinutes",
+  "value": {
+   "displayName": null,
+   "facetName": "durationInMinutes",
+   "isVisible": false,
+   "filters": [
+    {
+     "value": 45,
+     "count": 92
+    },
+    {
+     "value": 15,
+     "count": 22
+    },
+    {
+     "value": 0,
+     "count": 16
+    },
+    {
+     "value": 60,
+     "count": 11
+    },
+    {
+     "value": 195,
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "key": "sessionTypeId",
+  "value": {
+   "displayName": null,
+   "facetName": "sessionTypeId",
+   "isVisible": false,
+   "filters": [
+    {
+     "value": "3107",
+     "count": 80
+    },
+    {
+     "value": "3106",
+     "count": 23
+    },
+    {
+     "value": "3114",
+     "count": 22
+    },
+    {
+     "value": "3301",
+     "count": 16
+    },
+    {
+     "value": "3108",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "key": "sessionType",
+  "value": {
+   "displayName": "translate.filters.session-type",
+   "facetName": "sessionType",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "Module: 45 Minute",
+     "count": 79
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 22
+    },
+    {
+     "value": "Breakout: 45 Minute",
+     "count": 20
+    },
+    {
+     "value": "Learning Path",
+     "count": 16
+    },
+    {
+     "value": "",
+     "count": 4
+    },
+    {
+     "value": "Workshop: 120 Minute",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "key": "learningPath",
+  "value": {
+   "displayName": "translate.filters.learning-path",
+   "facetName": "learningPath",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 40
+    },
+    {
+     "value": "Azure fundamentals",
+     "count": 11
+    },
+    {
+     "value": "Power Platform",
+     "count": 8
+    },
+    {
+     "value": "Developers guide to AI",
+     "count": 7
+    },
+    {
+     "value": "Microsoft Dynamics 365",
+     "count": 7
+    },
+    {
+     "value": "Modernizing web applications and data",
+     "count": 7
+    },
+    {
+     "value": "Deploying, managing, and servicing windows, office and all your devices",
+     "count": 6
+    },
+    {
+     "value": "Develop integrations and workflows for your productivity applications",
+     "count": 6
+    },
+    {
+     "value": "Developing cloud native applications",
+     "count": 6
+    },
+    {
+     "value": "Improving reliability through modern operations practices",
+     "count": 6
+    },
+    {
+     "value": "Journey to Microsoft Teams",
+     "count": 6
+    },
+    {
+     "value": "Meeting organizational compliance requirements",
+     "count": 6
+    },
+    {
+     "value": "Securing your organization",
+     "count": 6
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 5
+    },
+    {
+     "value": "IT administrator’s guide to managing productivity in the cloud",
+     "count": 5
+    },
+    {
+     "value": "Migrating server infrastructure",
+     "count": 5
+    },
+    {
+     "value": "Managing cloud operations",
+     "count": 3
+    },
+    {
+     "value": "Developing Cloud Native Applications",
+     "count": 1
+    },
+    {
+     "value": "Managing Cloud Operations",
+     "count": 1
+    }
+   ]
+  }
+ },
+ {
+  "key": "level",
+  "value": {
+   "displayName": "translate.filters.level",
+   "facetName": "level",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 108
+    },
+    {
+     "value": "Advanced (300)",
+     "count": 22
+    },
+    {
+     "value": "Intermediate (200)",
+     "count": 7
+    },
+    {
+     "value": "Foundational (100)",
+     "count": 3
+    },
+    {
+     "value": "Expert (400)",
+     "count": 2
+    }
+   ]
+  }
+ },
+ {
+  "key": "format",
+  "value": {
+   "displayName": "translate.filters.format",
+   "facetName": "format",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 142
+    }
+   ]
+  }
+ },
+ {
+  "key": "topic",
+  "value": {
+   "displayName": "translate.filters.topic",
+   "facetName": "topic",
+   "isVisible": true,
+   "filters": [
+    {
+     "value": "",
+     "count": 138
+    },
+    {
+     "value": "Productivity",
+     "count": 2
+    },
+    {
+     "value": "Compliance",
+     "count": 1
+    },
+    {
+     "value": "Security",
+     "count": 1
+    }
+   ]
+  }
+ }
+]

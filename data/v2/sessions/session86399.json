@@ -1,0 +1,151 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 240,
+ "attendeeCount": 29,
+ "sessionId": "86399",
+ "sessionInstanceId": "86399",
+ "sessionCode": "DYNA50",
+ "sessionCodeNormalized": "DYNA50",
+ "title": "Configuring and managing Dynamics 365 Retail - Enable connected retail",
+ "sortTitle": "configuring and managing dynamics 365 retail - enable connected retail",
+ "sortRank": 2147483647,
+ "description": "In this session you’ll learn how to deploy, configure and manage Dynamics 365 Retail in support of multi-channel commerce transactions. Across point of sales systems, product and inventory management, order and financial management as well as employee management and fraud protection, this session will provide you with the information you need to get started in establishing a connected retail ecosystem.",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Maktoum Hall B",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T12:30:00+00:00",
+ "endDateTime": "2020-02-11T13:15:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Microsoft Dynamics 365",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907406",
+ "speakerIds": [
+  "704342"
+ ],
+ "speakerNames": [
+  "Elena Djonova"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86401,
+   "title": "Dynamics 365 – Establish and administer a cross organization business applications strategy",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "714853"
+   ],
+   "speakerNames": [
+    "Mohamed Mahmoud"
+   ],
+   "speakerCompanies": [],
+   "description": "Dynamics 365 provides a complete platform of modular, intelligent, and connected SaaS business applications with inherent tooling that meet security and compliance requirements, ensure uptime, and streamline control and access. This session will outline how you can support data integration and governance, seamlessly manage authentication, and administer an interconnected set of business applications and automated processes throughout your organization.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86402,
+   "title": "Configuring and managing Dynamics 365 Sales and Dynamics 365 Marketing – Establish connected Sales and Marketing",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702496"
+   ],
+   "speakerNames": [
+    "Antti Pajunen"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, you will learn how to deploy, configure, manage, and connect Dynamics 365 Sales and Dynamics 365 Marketing, provide actionable insights across sales and marketing by integrating Insights applications and LinkedIn data, and gain an understanding of how you can enable mixed reality solutions across marketing and sales activities.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86400,
+   "title": "Configuring and managing Dynamics 365 Customer Service and Dynamics 365 Field Service – Establish a proactive service organization",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702496"
+   ],
+   "speakerNames": [
+    "Antti Pajunen"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, you will learn how to deploy, configure, and connect Dynamics 365 Customer Service and Dynamics 365 Field Service, provide actionable insights by integrating Insights applications, enable and support an omnichannel engagement strategy, leverage BoT and IoT to streamline case/ticket remediation, and gain an understanding of how you can enable mixed reality solutions in support of your field engineers productivity.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 86404,
+   "title": "Configuring and managing Dynamics 365 Finance – Modernize finance and supply chain",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "707057"
+   ],
+   "speakerNames": [
+    "Ahmed Al Chami"
+   ],
+   "speakerCompanies": [],
+   "description": "Learn how you can more thoroughly and completely support your finance and supply chain stakeholders with Dynamics 365 Finance and Operations.  In this session, you will learn how to deploy, configure, and manage Dynamics 365 Finance, gaining insights into how to support the establishment of efficient business process modelling and predictive analytics.",
+   "location": "Sheikh Maktoum Hall B"
+  },
+  {
+   "sessionId": 90721,
+   "title": "Supervisor experiences in omnichannel",
+   "startDateTime": "2020-02-10T13:20:00+00:00",
+   "endDateTime": "2020-02-10T13:35:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "715262"
+   ],
+   "speakerNames": [
+    "Ercument Turkmenoglu"
+   ],
+   "speakerCompanies": [],
+   "description": "In this theater session, see how we equip our supervisors to track the quality of service on their queues, monitor conversations and their real-time sentiments, and if needed suggest course correction.",
+   "location": "Theater 1"
+  }
+ ]
+}

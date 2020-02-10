@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 400,
- "attendeeCount": 61,
+ "capacity": 398,
+ "attendeeCount": 160,
  "sessionId": "86620",
  "sessionInstanceId": "86620",
  "sessionCode": "ADM31",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall E",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T10:00:00+00:00",
  "endDateTime": "2020-02-10T10:45:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO1",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907340",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -81,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "Office 365 groups is the membership service that drives teamwork across Microsoft 365. It’s a core underpinning of Teams, SharePoint, Outlook, SharePoint, Power BI, Dynamics CRM, and many other applications. In this session, you’ll learn the fundamentals and new innovations in Office 365 groups, including management and governance at scale, best practices for driving usage and adoption, and self-service. We will also share the Office 365 groups roadmap with you – and how coming investments will help you drive new levels of collaboration.",
-   "location": "Sheikh Rashid Hall E"
+   "location": "Sheikh Rashid Hall E",
+   "canUserModifySchedule": true
   }
  ]
 }

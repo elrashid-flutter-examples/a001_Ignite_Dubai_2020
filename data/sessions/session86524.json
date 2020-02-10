@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
  "capacity": 280,
- "attendeeCount": 23,
+ "attendeeCount": 74,
  "sessionId": "86524",
  "sessionInstanceId": "86524",
  "sessionCode": "OPS50",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Maktoum Hall D",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T12:30:00+00:00",
  "endDateTime": "2020-02-11T13:15:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO4",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907368",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -81,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86506,
@@ -89,11 +91,16 @@
    "startDateTime": "2020-02-11T08:15:00+00:00",
    "endDateTime": "2020-02-11T09:00:00+00:00",
    "durationInMinutes": 45,
-   "speakerIds": [],
-   "speakerNames": [],
+   "speakerIds": [
+    "719728"
+   ],
+   "speakerNames": [
+    "April Edwards"
+   ],
    "speakerCompanies": [],
    "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86505,
@@ -109,7 +116,8 @@
    ],
    "speakerCompanies": [],
    "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86522,
@@ -125,7 +133,8 @@
    ],
    "speakerCompanies": [],
    "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   }
  ]
 }

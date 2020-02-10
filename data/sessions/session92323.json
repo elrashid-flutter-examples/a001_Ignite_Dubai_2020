@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 90,
- "attendeeCount": 27,
+ "capacity": 200,
+ "attendeeCount": 99,
  "sessionId": "92323",
  "sessionInstanceId": "92323",
  "sessionCode": "BRK30193",
@@ -19,10 +19,10 @@
  "description": "Securing identities is the main focus for Organizations moving to the cloud. Although Working anywhere, from any device and all this nice BYOD terms provides flexibility however the compromise of the employee identity on unknow devices or from malicious IP is severe threat for all organizations. Efficient protection of AD is critical in limiting the impact of such breach. Organizations cannot easily detect such compromise and Active directory might be badly configured at the same time. This session will explain how AD and Azure AD can secure identities and how to fix common AD security issues and configurations.",
  "registrationLink": "",
  "roomId": "",
- "location": "Dubai E+F",
- "buildingLocation": null,
- "startDateTime": "2020-02-10T12:30:00+00:00",
- "endDateTime": "2020-02-10T13:15:00+00:00",
+ "location": "Dubai D",
+ "buildingLocation": "",
+ "startDateTime": "2020-02-11T12:30:00+00:00",
+ "endDateTime": "2020-02-11T13:15:00+00:00",
  "durationInMinutes": 45,
  "sessionType": "Breakout: 45 Minute",
  "sessionTypeLogical": "Breakout: 45 Minute",
@@ -39,17 +39,21 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO10",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "",
  "speakerIds": [
-  "698253"
+  "698253",
+  "698979"
  ],
  "speakerNames": [
-  "Ahmed Nabil Mahmoud"
+  "Ahmed Nabil Mahmoud",
+  "Ammar Hasayen"
  ],
  "speakerCompanies": [
-  "Personal"
+  "Personal",
+  "Etisalat Digital"
  ],
  "sessionSets": [
   "Session Catalog 2019",
@@ -62,7 +66,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],

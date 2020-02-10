@@ -1,0 +1,97 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 240,
+ "attendeeCount": 46,
+ "sessionId": "86475",
+ "sessionInstanceId": "86475",
+ "sessionCode": "MCO20",
+ "sessionCodeNormalized": "MCO20",
+ "title": "Azure governance and management",
+ "sortTitle": "azure governance and management",
+ "sortRank": 2147483647,
+ "description": "Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.  \r\n\r\nIn this session, walk through the processes and technologies that will keep Tailwind Traders’ deployments in good standing with the help of Azure Blueprints, Azure Policy, role-based access control (RBAC), and more.\r\n",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall D",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T08:15:00+00:00",
+ "endDateTime": "2020-02-11T09:00:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Managing cloud operations",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907381",
+ "speakerIds": [],
+ "speakerNames": [],
+ "speakerCompanies": [],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86473,
+   "title": "IaaS VM operations",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "724361"
+   ],
+   "speakerNames": [
+    "Pierre Roman"
+   ],
+   "speakerCompanies": [],
+   "description": "In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes.  \r\nIn this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.\r\n",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 90734,
+   "title": "Securing Azure IaaS virtual machines",
+   "startDateTime": "2020-02-10T09:05:00+00:00",
+   "endDateTime": "2020-02-10T09:20:00+00:00",
+   "durationInMinutes": 15,
+   "speakerIds": [
+    "724361"
+   ],
+   "speakerNames": [
+    "Pierre Roman"
+   ],
+   "speakerCompanies": [],
+   "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
+   "location": "Theater 1"
+  }
+ ]
+}

@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 224,
- "attendeeCount": 45,
+ "capacity": 240,
+ "attendeeCount": 153,
  "sessionId": "86418",
  "sessionInstanceId": "86418",
  "sessionCode": "POWA50",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall B",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T12:30:00+00:00",
  "endDateTime": "2020-02-10T13:15:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO9",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907401",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -77,11 +78,12 @@
     "666688"
    ],
    "speakerNames": [
-    "Mark Wilcock"
+    "Christopher Mark Wilcock"
    ],
    "speakerCompanies": [],
    "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
-   "location": "Sheikh Rashid Hall B"
+   "location": "Sheikh Rashid Hall B",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86415,
@@ -97,7 +99,8 @@
    ],
    "speakerCompanies": [],
    "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
-   "location": "Sheikh Rashid Hall B"
+   "location": "Sheikh Rashid Hall B",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86417,
@@ -109,11 +112,12 @@
     "666688"
    ],
    "speakerNames": [
-    "Mark Wilcock"
+    "Christopher Mark Wilcock"
    ],
    "speakerCompanies": [],
    "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
-   "location": "Sheikh Rashid Hall B"
+   "location": "Sheikh Rashid Hall B",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86416,
@@ -129,7 +133,8 @@
    ],
    "speakerCompanies": [],
    "description": "In this session, we'll discuss how to use the Common Data Service, connectors, dataflows, and more to connect Power Apps, Microsoft Power Automate, and Power BI to your data.",
-   "location": "Sheikh Rashid Hall B"
+   "location": "Sheikh Rashid Hall B",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90723,
@@ -145,7 +150,8 @@
    ],
    "speakerCompanies": [],
    "description": "TBD",
-   "location": "Theater 1"
+   "location": "Theater 1",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90722,
@@ -161,7 +167,8 @@
    ],
    "speakerCompanies": [],
    "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
-   "location": "Theater 1"
+   "location": "Theater 1",
+   "canUserModifySchedule": true
   }
  ]
 }

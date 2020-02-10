@@ -1,0 +1,128 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": false,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": -1,
+ "attendeeCount": 0,
+ "sessionId": "86579",
+ "sessionInstanceId": "86579",
+ "sessionCode": "",
+ "sessionCodeNormalized": "",
+ "title": "Content collaboration, communication, and engagement in the intelligent workplace",
+ "sortTitle": "content collaboration, communication, and engagement in the intelligent workplace",
+ "sortRank": 2147483647,
+ "description": " Learn how the experiences in Microsoft 365 integrate to connect the intelligent workplace, powering collaboration, employee engagement and communication across devices, on the web, in desktop and mobile apps, and in Microsoft Teams.",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "",
+ "buildingLocation": null,
+ "startDateTime": null,
+ "endDateTime": null,
+ "durationInMinutes": 0,
+ "sessionType": "Learning Path",
+ "sessionTypeLogical": "Learning Path",
+ "learningPath": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3301",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "120800",
+ "speakerIds": [],
+ "speakerNames": [],
+ "speakerCompanies": [],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [
+  {
+   "sessionId": 86595,
+   "title": "Content collaboration and protection with SharePoint, OneDrive and Microsoft Teams",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T07:45:00+00:00",
+   "durationInMinutes": 60,
+   "speakerIds": [
+    "722033"
+   ],
+   "speakerNames": [
+    "Marc Windle"
+   ],
+   "speakerCompanies": [],
+   "description": "SharePoint connects the workplace and powers content collaboration. OneDrive connects you with all your files in Office 365. Teams is the hub for teamwork. Together, SharePoint, OneDrive and Teams are greater than the sum of their parts. Join us for an overview of how these products interact with each other and learn about latest integrations we are working on to bring the richness of SharePoint directly into Teams experiences and vice versa. We'll explore new innovations for sharing and working together with data using SharePoint lists, and no-code productivity solutions that streamline business processes. Finally, we’ll explore how to structure teams and projects with hub sites.\r\n",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 86598,
+   "title": "Connect the organization and engage people with SharePoint, Yammer and Microsoft Stream",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "703050"
+   ],
+   "speakerNames": [
+    "Chris McNulty"
+   ],
+   "speakerCompanies": [],
+   "description": "Company leaders recognize the need to transform their workforce, and organizations where employees are truly engaged report improved employee retention, customer satisfaction, sales metrics, and overall profitability. Microsoft 365 delivers the modern workplace and solutions that help you engage employees across organizational boundaries, generations and geographies, so you can empower your people to achieve more. Learn how SharePoint, Yammer and Stream work together to empower leaders to connect with their organizations, to align people to common goals, and to drive cultural transformation. Dive into the latest innovations including live events, new Yammer experiences and integrations, the intelligent intranet featuring home sites.",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 86596,
+   "title": "The intelligent intranet: Transform communications and digital employee experiences",
+   "startDateTime": "2020-02-10T10:00:00+00:00",
+   "endDateTime": "2020-02-10T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "722033"
+   ],
+   "speakerNames": [
+    "Marc Windle"
+   ],
+   "speakerCompanies": [],
+   "description": "The intelligent intranet in Microsoft 365 connects the workplace to power collaboration, employee engagement, and knowledge management.  In this demo-heavy session, explore the latest innovations to help you transform your intranet into a rich, mobile-ready employee experiences that's dynamic, personalized, social and actionable. The session will explore new innovations for sites and portals, showcase common intranet scenarios, and provide actionable guidance toward optimal intranet architecture and governance.",
+   "location": "Sheikh Rashid Hall D"
+  },
+  {
+   "sessionId": 86600,
+   "title": "Harness collective knowledge with intelligent content services and Microsoft Search",
+   "startDateTime": "2020-02-10T11:15:00+00:00",
+   "endDateTime": "2020-02-10T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "703050"
+   ],
+   "speakerNames": [
+    "Chris McNulty"
+   ],
+   "speakerCompanies": [],
+   "description": "Join us to learn about the most significant innovations ever unveiled for knowledge management and intelligent content services in Microsoft 365. Get the latest updates on Microsoft Search and other experiences that connect you with knowledge, insights, expertise, answers and actions, within your everyday experiences across Microsoft 365.",
+   "location": "Sheikh Rashid Hall D"
+  }
+ ],
+ "siblingModules": []
+}

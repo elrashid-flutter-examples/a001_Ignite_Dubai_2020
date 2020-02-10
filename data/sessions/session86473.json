@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 240,
- "attendeeCount": 49,
+ "capacity": 244,
+ "attendeeCount": 124,
  "sessionId": "86473",
  "sessionInstanceId": "86473",
  "sessionCode": "MCO10",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall D",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T07:00:00+00:00",
  "endDateTime": "2020-02-11T07:45:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO7",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907382",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -73,11 +74,16 @@
    "startDateTime": "2020-02-11T08:15:00+00:00",
    "endDateTime": "2020-02-11T09:00:00+00:00",
    "durationInMinutes": 45,
-   "speakerIds": [],
-   "speakerNames": [],
+   "speakerIds": [
+    "764085"
+   ],
+   "speakerNames": [
+    "Lyes Ouarti"
+   ],
    "speakerCompanies": [],
    "description": "Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.  \r\n\r\nIn this session, walk through the processes and technologies that will keep Tailwind Traders’ deployments in good standing with the help of Azure Blueprints, Azure Policy, role-based access control (RBAC), and more.\r\n",
-   "location": "Sheikh Rashid Hall D"
+   "location": "Sheikh Rashid Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90734,
@@ -93,7 +99,8 @@
    ],
    "speakerCompanies": [],
    "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
-   "location": "Theater 1"
+   "location": "Theater 1",
+   "canUserModifySchedule": true
   }
  ]
 }

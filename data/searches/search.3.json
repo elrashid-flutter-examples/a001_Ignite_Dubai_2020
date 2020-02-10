@@ -2,6 +2,393 @@
  "data": [
   {
    "@search.score": 1.0,
+   "sessionId": "86404",
+   "sessionInstanceId": "86404",
+   "sessionCode": "DYNA40",
+   "sessionCodeNormalized": "DYNA40",
+   "title": "Configuring and managing Dynamics 365 Finance – Modernize finance and supply chain",
+   "sortTitle": "configuring and managing dynamics 365 finance – modernize finance and supply chain",
+   "sortRank": 2147483647,
+   "description": "Learn how you can more thoroughly and completely support your finance and supply chain stakeholders with Dynamics 365 Finance and Operations.  In this session, you will learn how to deploy, configure, and manage Dynamics 365 Finance, gaining insights into how to support the establishment of efficient business process modelling and predictive analytics.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Microsoft Dynamics 365",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907407",
+   "speakerIds": [
+    "707057"
+   ],
+   "speakerNames": [
+    "Ahmed Al Chami"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86401,
+     "title": "Dynamics 365 – Establish and administer a cross organization business applications strategy",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Dynamics 365 provides a complete platform of modular, intelligent, and connected SaaS business applications with inherent tooling that meet security and compliance requirements, ensure uptime, and streamline control and access. This session will outline how you can support data integration and governance, seamlessly manage authentication, and administer an interconnected set of business applications and automated processes throughout your organization.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86402,
+     "title": "Configuring and managing Dynamics 365 Sales and Dynamics 365 Marketing – Establish connected Sales and Marketing",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, manage, and connect Dynamics 365 Sales and Dynamics 365 Marketing, provide actionable insights across sales and marketing by integrating Insights applications and LinkedIn data, and gain an understanding of how you can enable mixed reality solutions across marketing and sales activities.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86400,
+     "title": "Configuring and managing Dynamics 365 Customer Service and Dynamics 365 Field Service – Establish a proactive service organization",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, and connect Dynamics 365 Customer Service and Dynamics 365 Field Service, provide actionable insights by integrating Insights applications, enable and support an omnichannel engagement strategy, leverage BoT and IoT to streamline case/ticket remediation, and gain an understanding of how you can enable mixed reality solutions in support of your field engineers productivity.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86399,
+     "title": "Configuring and managing Dynamics 365 Retail - Enable connected retail",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "704342"
+     ],
+     "speakerNames": [
+      "Elena Djonova"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session you’ll learn how to deploy, configure and manage Dynamics 365 Retail in support of multi-channel commerce transactions. Across point of sales systems, product and inventory management, order and financial management as well as employee management and fraud protection, this session will provide you with the information you need to get started in establishing a connected retail ecosystem.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90721,
+     "title": "Supervisor experiences in omnichannel",
+     "startDateTime": "2020-02-10T13:20:00+00:00",
+     "endDateTime": "2020-02-10T13:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "715262"
+     ],
+     "speakerNames": [
+      "Ercument Turkmenoglu"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, see how we equip our supervisors to track the quality of service on their queues, monitor conversations and their real-time sentiments, and if needed suggest course correction.",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86399",
+   "sessionInstanceId": "86399",
+   "sessionCode": "DYNA50",
+   "sessionCodeNormalized": "DYNA50",
+   "title": "Configuring and managing Dynamics 365 Retail - Enable connected retail",
+   "sortTitle": "configuring and managing dynamics 365 retail - enable connected retail",
+   "sortRank": 2147483647,
+   "description": "In this session you’ll learn how to deploy, configure and manage Dynamics 365 Retail in support of multi-channel commerce transactions. Across point of sales systems, product and inventory management, order and financial management as well as employee management and fraud protection, this session will provide you with the information you need to get started in establishing a connected retail ecosystem.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Microsoft Dynamics 365",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907406",
+   "speakerIds": [
+    "704342"
+   ],
+   "speakerNames": [
+    "Elena Djonova"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86401,
+     "title": "Dynamics 365 – Establish and administer a cross organization business applications strategy",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Dynamics 365 provides a complete platform of modular, intelligent, and connected SaaS business applications with inherent tooling that meet security and compliance requirements, ensure uptime, and streamline control and access. This session will outline how you can support data integration and governance, seamlessly manage authentication, and administer an interconnected set of business applications and automated processes throughout your organization.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86402,
+     "title": "Configuring and managing Dynamics 365 Sales and Dynamics 365 Marketing – Establish connected Sales and Marketing",
+     "startDateTime": "2020-02-11T08:15:00+00:00",
+     "endDateTime": "2020-02-11T09:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, manage, and connect Dynamics 365 Sales and Dynamics 365 Marketing, provide actionable insights across sales and marketing by integrating Insights applications and LinkedIn data, and gain an understanding of how you can enable mixed reality solutions across marketing and sales activities.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86400,
+     "title": "Configuring and managing Dynamics 365 Customer Service and Dynamics 365 Field Service – Establish a proactive service organization",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, and connect Dynamics 365 Customer Service and Dynamics 365 Field Service, provide actionable insights by integrating Insights applications, enable and support an omnichannel engagement strategy, leverage BoT and IoT to streamline case/ticket remediation, and gain an understanding of how you can enable mixed reality solutions in support of your field engineers productivity.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86404,
+     "title": "Configuring and managing Dynamics 365 Finance – Modernize finance and supply chain",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707057"
+     ],
+     "speakerNames": [
+      "Ahmed Al Chami"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how you can more thoroughly and completely support your finance and supply chain stakeholders with Dynamics 365 Finance and Operations.  In this session, you will learn how to deploy, configure, and manage Dynamics 365 Finance, gaining insights into how to support the establishment of efficient business process modelling and predictive analytics.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90721,
+     "title": "Supervisor experiences in omnichannel",
+     "startDateTime": "2020-02-10T13:20:00+00:00",
+     "endDateTime": "2020-02-10T13:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "715262"
+     ],
+     "speakerNames": [
+      "Ercument Turkmenoglu"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, see how we equip our supervisors to track the quality of service on their queues, monitor conversations and their real-time sentiments, and if needed suggest course correction.",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "86402",
+   "sessionInstanceId": "86402",
+   "sessionCode": "DYNA20",
+   "sessionCodeNormalized": "DYNA20",
+   "title": "Configuring and managing Dynamics 365 Sales and Dynamics 365 Marketing – Establish connected Sales and Marketing",
+   "sortTitle": "configuring and managing dynamics 365 sales and dynamics 365 marketing – establish connected sales and marketing",
+   "sortRank": 2147483647,
+   "description": "In this session, you will learn how to deploy, configure, manage, and connect Dynamics 365 Sales and Dynamics 365 Marketing, provide actionable insights across sales and marketing by integrating Insights applications and LinkedIn data, and gain an understanding of how you can enable mixed reality solutions across marketing and sales activities.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Module: 45 Minute",
+   "sessionTypeLogical": "Module: 45 Minute",
+   "learningPath": "Microsoft Dynamics 365",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3107",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "907409",
+   "speakerIds": [
+    "702496"
+   ],
+   "speakerNames": [
+    "Antti Pajunen"
+   ],
+   "speakerCompanies": [
+    "Innofactor"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": [
+    {
+     "sessionId": 86401,
+     "title": "Dynamics 365 – Establish and administer a cross organization business applications strategy",
+     "startDateTime": "2020-02-11T07:00:00+00:00",
+     "endDateTime": "2020-02-11T07:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "714853"
+     ],
+     "speakerNames": [
+      "Mohamed Mahmoud"
+     ],
+     "speakerCompanies": [],
+     "description": "Dynamics 365 provides a complete platform of modular, intelligent, and connected SaaS business applications with inherent tooling that meet security and compliance requirements, ensure uptime, and streamline control and access. This session will outline how you can support data integration and governance, seamlessly manage authentication, and administer an interconnected set of business applications and automated processes throughout your organization.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86400,
+     "title": "Configuring and managing Dynamics 365 Customer Service and Dynamics 365 Field Service – Establish a proactive service organization",
+     "startDateTime": "2020-02-11T10:00:00+00:00",
+     "endDateTime": "2020-02-11T10:45:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "702496"
+     ],
+     "speakerNames": [
+      "Antti Pajunen"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session, you will learn how to deploy, configure, and connect Dynamics 365 Customer Service and Dynamics 365 Field Service, provide actionable insights by integrating Insights applications, enable and support an omnichannel engagement strategy, leverage BoT and IoT to streamline case/ticket remediation, and gain an understanding of how you can enable mixed reality solutions in support of your field engineers productivity.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86404,
+     "title": "Configuring and managing Dynamics 365 Finance – Modernize finance and supply chain",
+     "startDateTime": "2020-02-11T11:15:00+00:00",
+     "endDateTime": "2020-02-11T12:00:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "707057"
+     ],
+     "speakerNames": [
+      "Ahmed Al Chami"
+     ],
+     "speakerCompanies": [],
+     "description": "Learn how you can more thoroughly and completely support your finance and supply chain stakeholders with Dynamics 365 Finance and Operations.  In this session, you will learn how to deploy, configure, and manage Dynamics 365 Finance, gaining insights into how to support the establishment of efficient business process modelling and predictive analytics.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 86399,
+     "title": "Configuring and managing Dynamics 365 Retail - Enable connected retail",
+     "startDateTime": "2020-02-11T12:30:00+00:00",
+     "endDateTime": "2020-02-11T13:15:00+00:00",
+     "durationInMinutes": 45,
+     "speakerIds": [
+      "704342"
+     ],
+     "speakerNames": [
+      "Elena Djonova"
+     ],
+     "speakerCompanies": [],
+     "description": "In this session you’ll learn how to deploy, configure and manage Dynamics 365 Retail in support of multi-channel commerce transactions. Across point of sales systems, product and inventory management, order and financial management as well as employee management and fraud protection, this session will provide you with the information you need to get started in establishing a connected retail ecosystem.",
+     "location": "Sheikh Maktoum Hall B",
+     "canUserModifySchedule": true
+    },
+    {
+     "sessionId": 90721,
+     "title": "Supervisor experiences in omnichannel",
+     "startDateTime": "2020-02-10T13:20:00+00:00",
+     "endDateTime": "2020-02-10T13:35:00+00:00",
+     "durationInMinutes": 15,
+     "speakerIds": [
+      "715262"
+     ],
+     "speakerNames": [
+      "Ercument Turkmenoglu"
+     ],
+     "speakerCompanies": [],
+     "description": "In this theater session, see how we equip our supervisors to track the quality of service on their queues, monitor conversations and their real-time sentiments, and if needed suggest course correction.",
+     "location": "Theater 1",
+     "canUserModifySchedule": true
+    }
+   ]
+  },
+  {
+   "@search.score": 1.0,
    "sessionId": "86416",
    "sessionInstanceId": "86416",
    "sessionCode": "POWA40",
@@ -38,7 +425,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
@@ -52,11 +439,12 @@
       "666688"
      ],
      "speakerNames": [
-      "Mark Wilcock"
+      "Christopher Mark Wilcock"
      ],
      "speakerCompanies": [],
      "description": "Learn how Power Apps and the Power Platform enable everyone in your organization to modernize and digitize apps and processes. You'll discover how your organization, IT Pros, and every developer within it can benefit from our low-code platform for rapid application development and process automation. This includes a fast-paced overview of pro-developer extensibility and DevOps, IT pro governance and security, as well as powerful capabilities to build intelligent web and mobile apps and portals.",
-     "location": "Sheikh Rashid Hall B"
+     "location": "Sheikh Rashid Hall B",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86415,
@@ -72,7 +460,8 @@
      ],
      "speakerCompanies": [],
      "description": "Microsoft is modernizing business processes across applications – bringing intelligent automation to everyone from end-users to advanced developers. Microsoft Power Automate is Microsoft’s workflow and process automation platform with 270+ built-in connectors and can even connect to any custom apis. In this session we cover this vision in detail, both in terms of what is available today, such as the new AI Builder, and a roadmap of what is coming in the near future.",
-     "location": "Sheikh Rashid Hall B"
+     "location": "Sheikh Rashid Hall B",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86417,
@@ -84,11 +473,12 @@
       "666688"
      ],
      "speakerNames": [
-      "Mark Wilcock"
+      "Christopher Mark Wilcock"
      ],
      "speakerCompanies": [],
      "description": "Power BI is Microsoft's enterprise BI Platform that enables you to build comprehensive, enterprise-scale analytic solutions that deliver actionable insights. This session will dive into the latest capabilities and future roadmap. Various topics will be covered such as performance, scalability, management of Power BI artifacts, and monitoring. Learn how to use Power BI to create semantic models that are reused throughout large, enterprise organizations.",
-     "location": "Sheikh Rashid Hall B"
+     "location": "Sheikh Rashid Hall B",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86418,
@@ -104,7 +494,8 @@
      ],
      "speakerCompanies": [],
      "description": "Learn how administrators and IT-Pros can manage the enterprise adoption of Power Apps and Microsoft Power Automate. Discover the features, tools and practices to monitor, protect and support your organizations' data and innovations at scale. We'll share the top tips around governance, security, and monitoring requirements, as well as strategies employed by top customers to help you land low-code powered digital transformation in your organization.",
-     "location": "Sheikh Rashid Hall B"
+     "location": "Sheikh Rashid Hall B",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 90723,
@@ -120,7 +511,8 @@
      ],
      "speakerCompanies": [],
      "description": "TBD",
-     "location": "Theater 1"
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 90722,
@@ -136,7 +528,8 @@
      ],
      "speakerCompanies": [],
      "description": "Get ahead of common issues with broader enterprise adoption of Microsoft PowerApps and Microsoft Flow. We share the top tips to common governance blockers, security questions, and monitoring requirements, as well as strategies employed by top customers of the platform.",
-     "location": "Theater 1"
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
    ]
   },
@@ -178,7 +571,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
@@ -196,7 +589,8 @@
      ],
      "speakerCompanies": [],
      "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
-     "location": "Sheikh Maktoum Hall D"
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86486,
@@ -212,7 +606,8 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
-     "location": "Sheikh Maktoum Hall D"
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86489,
@@ -228,7 +623,8 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders recently moved one of its core applications from a virtual machine into containers, gaining deployment flexibility and repeatable builds.  In this session, you’ll learn how to manage containers for deployment, options for container registries, and ways to manage and scale deployed containers. You’ll also learn how Tailwind Traders uses Azure Key Vault service to store application secrets and make it easier for their applications to securely access business critical data.",
-     "location": "Sheikh Maktoum Hall D"
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86490,
@@ -244,7 +640,8 @@
      ],
      "speakerCompanies": [],
      "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
-     "location": "Sheikh Maktoum Hall D"
+     "location": "Sheikh Maktoum Hall D",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 90732,
@@ -260,7 +657,8 @@
      ],
      "speakerCompanies": [],
      "description": "If you love working from the command line, this session covers all the things you need to know to get the most out of the experience on Windows, Mac, and Linux. We start with Windows command line, then the new Terminal, and the Windows Subsystem for Linux (WSL). Then, we cover some interesting developments in the Azure Cloud Shell and show you how you can work with command line options in Visual Studio Code. By the end of this 15 minute session you'll have some new and interesting ways to control the cloud from your keyboard!",
-     "location": "Theater 1"
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
    ]
   },
@@ -302,26 +700,10 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
-    {
-     "sessionId": 86598,
-     "title": "Connect the organization and engage people with SharePoint, Yammer and Microsoft Stream",
-     "startDateTime": "2020-02-10T08:15:00+00:00",
-     "endDateTime": "2020-02-10T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "703050"
-     ],
-     "speakerNames": [
-      "Chris McNulty"
-     ],
-     "speakerCompanies": [],
-     "description": "Company leaders recognize the need to transform their workforce, and organizations where employees are truly engaged report improved employee retention, customer satisfaction, sales metrics, and overall profitability. Microsoft 365 delivers the modern workplace and solutions that help you engage employees across organizational boundaries, generations and geographies, so you can empower your people to achieve more. Learn how SharePoint, Yammer and Stream work together to empower leaders to connect with their organizations, to align people to common goals, and to drive cultural transformation. Dive into the latest innovations including live events, new Yammer experiences and integrations, the intelligent intranet featuring home sites.",
-     "location": "Sheikh Rashid Hall D"
-    },
     {
      "sessionId": 86596,
      "title": "The intelligent intranet: Transform communications and digital employee experiences",
@@ -336,23 +718,8 @@
      ],
      "speakerCompanies": [],
      "description": "The intelligent intranet in Microsoft 365 connects the workplace to power collaboration, employee engagement, and knowledge management.  In this demo-heavy session, explore the latest innovations to help you transform your intranet into a rich, mobile-ready employee experiences that's dynamic, personalized, social and actionable. The session will explore new innovations for sites and portals, showcase common intranet scenarios, and provide actionable guidance toward optimal intranet architecture and governance.",
-     "location": "Sheikh Rashid Hall D"
-    },
-    {
-     "sessionId": 86600,
-     "title": "Harness collective knowledge with intelligent content services and Microsoft Search",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "703050"
-     ],
-     "speakerNames": [
-      "Chris McNulty"
-     ],
-     "speakerCompanies": [],
-     "description": "Join us to learn about the most significant innovations ever unveiled for knowledge management and intelligent content services in Microsoft 365. Get the latest updates on Microsoft Search and other experiences that connect you with knowledge, insights, expertise, answers and actions, within your everyday experiences across Microsoft 365.",
-     "location": "Sheikh Rashid Hall D"
+     "location": "Sheikh Rashid Hall D",
+     "canUserModifySchedule": true
     }
    ]
   },
@@ -388,7 +755,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [
     {
@@ -405,23 +772,8 @@
      ],
      "speakerCompanies": [],
      "description": "SharePoint connects the workplace and powers content collaboration. OneDrive connects you with all your files in Office 365. Teams is the hub for teamwork. Together, SharePoint, OneDrive and Teams are greater than the sum of their parts. Join us for an overview of how these products interact with each other and learn about latest integrations we are working on to bring the richness of SharePoint directly into Teams experiences and vice versa. We'll explore new innovations for sharing and working together with data using SharePoint lists, and no-code productivity solutions that streamline business processes. Finally, we’ll explore how to structure teams and projects with hub sites.\r\n",
-     "location": "Sheikh Rashid Hall D"
-    },
-    {
-     "sessionId": 86598,
-     "title": "Connect the organization and engage people with SharePoint, Yammer and Microsoft Stream",
-     "startDateTime": "2020-02-10T08:15:00+00:00",
-     "endDateTime": "2020-02-10T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "703050"
-     ],
-     "speakerNames": [
-      "Chris McNulty"
-     ],
-     "speakerCompanies": [],
-     "description": "Company leaders recognize the need to transform their workforce, and organizations where employees are truly engaged report improved employee retention, customer satisfaction, sales metrics, and overall profitability. Microsoft 365 delivers the modern workplace and solutions that help you engage employees across organizational boundaries, generations and geographies, so you can empower your people to achieve more. Learn how SharePoint, Yammer and Stream work together to empower leaders to connect with their organizations, to align people to common goals, and to drive cultural transformation. Dive into the latest innovations including live events, new Yammer experiences and integrations, the intelligent intranet featuring home sites.",
-     "location": "Sheikh Rashid Hall D"
+     "location": "Sheikh Rashid Hall D",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86596,
@@ -437,23 +789,8 @@
      ],
      "speakerCompanies": [],
      "description": "The intelligent intranet in Microsoft 365 connects the workplace to power collaboration, employee engagement, and knowledge management.  In this demo-heavy session, explore the latest innovations to help you transform your intranet into a rich, mobile-ready employee experiences that's dynamic, personalized, social and actionable. The session will explore new innovations for sites and portals, showcase common intranet scenarios, and provide actionable guidance toward optimal intranet architecture and governance.",
-     "location": "Sheikh Rashid Hall D"
-    },
-    {
-     "sessionId": 86600,
-     "title": "Harness collective knowledge with intelligent content services and Microsoft Search",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "703050"
-     ],
-     "speakerNames": [
-      "Chris McNulty"
-     ],
-     "speakerCompanies": [],
-     "description": "Join us to learn about the most significant innovations ever unveiled for knowledge management and intelligent content services in Microsoft 365. Get the latest updates on Microsoft Search and other experiences that connect you with knowledge, insights, expertise, answers and actions, within your everyday experiences across Microsoft 365.",
-     "location": "Sheikh Rashid Hall D"
+     "location": "Sheikh Rashid Hall D",
+     "canUserModifySchedule": true
     }
    ],
    "siblingModules": []
@@ -496,7 +833,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
@@ -506,11 +843,18 @@
      "startDateTime": "2020-02-11T07:00:00+00:00",
      "endDateTime": "2020-02-11T07:45:00+00:00",
      "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "767135",
+      "767075"
+     ],
+     "speakerNames": [
+      "Dina Helmy",
+      "Saeed Motamed"
+     ],
      "speakerCompanies": [],
      "description": "When Tailwind Traders acquired Northwind earlier this year, they decided to consolidate their on-premises applications with Tailwind Traders’ current applications running on Azure. Their goal: vastly simplify the complexity that comes with an on-premises installation. \r\n\r\nIn this session, examine how a cloud architecture frees you up to focus on your applications, instead of your infrastructure. Then, see the options to “lift and shift” a web application to Azure, including: how to deploy, manage, monitor, and backup both a Node.js and .NET Core API, using Virtual Machines and Azure App Service.\r\n",
-     "location": "Sheikh Rashid Hall E"
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86474,
@@ -518,11 +862,16 @@
      "startDateTime": "2020-02-11T08:15:00+00:00",
      "endDateTime": "2020-02-11T09:00:00+00:00",
      "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "762659"
+     ],
+     "speakerNames": [
+      "Mahmoud Elserafi"
+     ],
      "speakerCompanies": [],
      "description": "Northwind kept the bulk of its data in an on-premises data center, which hosted servers running both SQL Server and MongoDB. After the acquisition, Tailwind Traders worked with the Northwind team to move their data center to Azure.  \r\n\r\nIn this session, see how to migrate an on-premises MongoDB database to Azure Cosmos DB and SQL Server database to an Azure SQL Server. From there, walk through performing the migration and ensuring minimal downtime while you switch over to the cloud-hosted providers.\r\n",
-     "location": "Sheikh Rashid Hall E"
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86471,
@@ -538,7 +887,8 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders has implemented development frameworks, deployment strategies, and server infrastructure for their apps. But now that they are on the cloud it’s time to add cool features using simple scripts to access powerful services that automatically scale and run exactly where and when they need them. This includes language translation, image recognition, and other AI/ML features. \r\n\r\nIn this session, we create a set of routines that run on Azure Functions, respond to events in Azure Event Grid, and then orchestrate these functions and messages with Azure Logic Apps. We also use Azure Cognitive Services to add AI capabilities and Xamarin to implement AR features with a phone app.\r\n",
-     "location": "Sheikh Rashid Hall E"
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86484,
@@ -554,7 +904,8 @@
      ],
      "speakerCompanies": [],
      "description": "In this session, we show you how Tailwind Traders’ developer team works with its operations teams to safely automate tedious, manual tasks with reliable scripted routines and prepared services.  \r\n\r\nWe start with automating the building and deployment of a web application, backend web service and database with a few clicks. Then, we add automated operations that developers control like A/B testing and automated approval gates. We also discuss how Tailwind Traders can preserve their current investments in popular tools like Jenkins, while taking advantage of the best features of Azure DevOps.\r\n",
-     "location": "Sheikh Rashid Hall E"
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 90733,
@@ -570,9 +921,53 @@
      ],
      "speakerCompanies": [],
      "description": "Who hasn’t been scared when deploying a new feature to a website? Sometimes we feel that we will break everything, and the stress level is just not something we want to experience ever again. That's why the deployment slots feature of Azure App Services is such a nice experience. With deployment slots, you can deploy to a safe slot in the same conditions as your production environment. You can test in isolation, without risking breaking something. Then you can gradually route some of the traffic to the new features, for example to perform A/B testing. When you are satisfied with the results, you can simply switch the whole traffic to the new site. But don't fret, if something goes wrong, the old, safe site is just one mouse click away.",
-     "location": "Theater 1"
+     "location": "Theater 1",
+     "canUserModifySchedule": true
     }
    ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "95350",
+   "sessionInstanceId": "95350",
+   "sessionCode": "BRK20020",
+   "sessionCodeNormalized": "BRK20020",
+   "title": "Deploy apps to Kubernetes using CI/CD in 20 minutes",
+   "sortTitle": "deploy apps to kubernetes using ci/cd in 20 minutes",
+   "sortRank": 2147483647,
+   "description": "With 20 minutes on the clock, can you go from code in a Git repo, to containers running on a Kubernetes cluster, all while following some best practices? Join this demo-driven session to see how you can use Azure Pipelines to create your build and release pipelines as code, build containers and deploy them to Azure Kubernetes Service.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T11:15:00+00:00",
+   "endDateTime": "2020-02-10T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "716950"
+   ],
+   "speakerNames": [
+    "Rory Preddy"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
   },
   {
    "@search.score": 1.0,
@@ -612,383 +1007,10 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "85130",
-   "sessionInstanceId": "85130",
-   "sessionCode": "",
-   "sessionCodeNormalized": "",
-   "title": "Deploying, managing, and servicing windows, office and all your devices",
-   "sortTitle": "deploying, managing, and servicing windows, office and all your devices",
-   "sortRank": 2147483647,
-   "description": "Transition to a modern, productive environment—and simplify the process of keeping desktop and mobile devices secure and up to date with Microsoft Intune and System Center Configuration Manager.",
-   "registrationLink": "",
-   "startDateTime": null,
-   "endDateTime": null,
-   "durationInMinutes": 0,
-   "sessionType": "Learning Path",
-   "sessionTypeLogical": "Learning Path",
-   "learningPath": "Deploying, managing, and servicing windows, office and all your devices",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3301",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "120806",
-   "speakerIds": [],
-   "speakerNames": [],
-   "speakerCompanies": [],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [
-    {
-     "sessionId": 86562,
-     "title": "Why Windows 10 Enterprise and Office 365 ProPlus? Security, privacy, and a great user experience",
-     "startDateTime": "2020-02-10T06:45:00+00:00",
-     "endDateTime": "2020-02-10T07:45:00+00:00",
-     "durationInMinutes": 60,
-     "speakerIds": [
-      "683098"
-     ],
-     "speakerNames": [
-      "Harjit Dhaliwal"
-     ],
-     "speakerCompanies": [],
-     "description": "Windows 10 Enterprise and Microsoft Office 365 ProPlus are the best releases of Windows 10 and Office for enterprise customers—as well as many small to midsize organizations. Learn about our enhanced investments across security, management, and privacy with a focus on end user productivity.",
-     "location": "Sheikh Maktoum Hall B"
-    },
-    {
-     "sessionId": 86561,
-     "title": "Modern Windows 10 and Office 365 deployment with Windows Autopilot, Desktop Analytics, Microsoft Intune, and Configuration Manager",
-     "startDateTime": "2020-02-10T08:15:00+00:00",
-     "endDateTime": "2020-02-10T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "683098",
-      "712623"
-     ],
-     "speakerNames": [
-      "Harjit Dhaliwal",
-      "Michael Niehaus"
-     ],
-     "speakerCompanies": [],
-     "description": "The process of deploying Windows 10 and Office 365 continues to evolve. Learn how to utilize Windows Autopilot, Desktop Analytics, and the Office Customization Toolkit—all within your existing System Center Configuration Manager (SCCM) infrastructure—to implement modern deployment practices that are zero touch and hyper efficient.",
-     "location": "Sheikh Maktoum Hall B"
-    },
-    {
-     "sessionId": 86563,
-     "title": "Streamline and stay current with Windows 10 and Office 365 ProPlus",
-     "startDateTime": "2020-02-10T10:00:00+00:00",
-     "endDateTime": "2020-02-10T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "683098",
-      "712623"
-     ],
-     "speakerNames": [
-      "Harjit Dhaliwal",
-      "Michael Niehaus"
-     ],
-     "speakerCompanies": [],
-     "description": "Why build a regular rhythm of Windows 10 and Microsoft Office 365 ProPlus updates across your environment? Join this session to learn specific, sustainable, yet scalable servicing strategies to drive enhanced security, reduced costs, and improved productivity. We dive into the latest update delivery technologies to reduce network infrastructure strain, and help you create an updated experience that is both smooth and seamless for end users. Come for the demos and stay for the scripts and best practices.\r\n",
-     "location": "Sheikh Maktoum Hall B"
-    },
-    {
-     "sessionId": 86546,
-     "title": "Supercharge PC and mobile device management: Attach Configuration Manager to Microsoft Intune and the Microsoft 365 cloud",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "683098"
-     ],
-     "speakerNames": [
-      "Harjit Dhaliwal"
-     ],
-     "speakerCompanies": [],
-     "description": "Are you ready to transform to Microsoft 365 device management with a cloud-attached approach, but don’t know where to start? Learn how the latest Configuration Manager and Microsoft Intune innovations provide a clear path that can help you transform the way you manage devices while eliminating risk and delivering an employee experience that exceeds expectations. This session shows IT decision makers and IT professionals alike how to leverage the converged power of the Microsoft 365 cloud, Intune, and Configuration Manager and benefit from reduced costs, enhanced security, and improved productivity.",
-     "location": "Sheikh Maktoum Hall B"
-    },
-    {
-     "sessionId": 86551,
-     "title": "Why Microsoft 365 device management is essential to your zero-trust strategy",
-     "startDateTime": "2020-02-10T12:30:00+00:00",
-     "endDateTime": "2020-02-10T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "683098"
-     ],
-     "speakerNames": [
-      "Harjit Dhaliwal"
-     ],
-     "speakerCompanies": [],
-     "description": "Is your security model blocking remote access, collaboration, and productivity? Get the technical details on how organizations are using Microsoft 365 and Microsoft Intune to build a true defense-in-depth model to better protect their assets and intellectual property on PC and mobile devices.",
-     "location": "Sheikh Maktoum Hall B"
-    }
-   ],
-   "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86522",
-   "sessionInstanceId": "86522",
-   "sessionCode": "OPS40",
-   "sessionCodeNormalized": "OPS40",
-   "title": "Deployment practices for greater reliability",
-   "sortTitle": "deployment practices for greater reliability",
-   "sortRank": 2147483647,
-   "description": "How software gets delivered to production and how infrastructure gets provisioned have a direct, material impact on your environment’s reliability. In this session, explore delivery and provisioning best practices that Tailwind Traders uses to prevent incidents before they happen. From the discussion and demos, you’ll take away blueprints for these practices, an understanding of how they can be implemented using Azure, and ideas to apply them to your own apps and organization.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T11:15:00+00:00",
-   "endDateTime": "2020-02-11T12:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Improving reliability through modern operations practices",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907369",
-   "speakerIds": [
-    "722024"
-   ],
-   "speakerNames": [
-    "Hosam Kamel"
-   ],
-   "speakerCompanies": [
-    "Microsoft"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86508,
-     "title": "Building the foundation for modern ops: Monitoring",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "722025"
-     ],
-     "speakerNames": [
-      "James Toulman"
-     ],
-     "speakerCompanies": [],
-     "description": "You‘re concerned about the reliability of your systems, services, and products. Where should you start? In this session, get an introduction to modern operations disciplines and a framework for reliability work. We jump into monitoring: the foundational practice you must tackle before you can make any headway with reliability. Using Tailwind Traders as an example, we demonstrate how to monitor your environment, including the right (and wrong) things to monitor – and why. You’ll leave with the crucial tools and knowledge you need to discuss and improve reliability using objective data.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    },
-    {
-     "sessionId": 86506,
-     "title": "Responding to incidents",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "Your systems are down. Customers are calling. Every moment counts. What do you do? Handling incidents well is core to meeting your reliability goals. \r\n\r\nIn this session, explore incident management best practices - through the lens of Tailwind Traders - that will help you triage, remediate, and communicate as effectively as possible. We also walk through some of the tools Azure provides to get you back into a working state when time is of the essence.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    },
-    {
-     "sessionId": 86505,
-     "title": "Learning from failure",
-     "startDateTime": "2020-02-11T10:00:00+00:00",
-     "endDateTime": "2020-02-11T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "719728"
-     ],
-     "speakerNames": [
-      "April Edwards"
-     ],
-     "speakerCompanies": [],
-     "description": "Incidents will happen—there’s no doubt about that. The key question is whether you treat them as a learning opportunity to make your operations practice better or just as a loss of time, money, and reputation.  \r\n\r\nIn this session, dive into one of the most important topics for improving reliability: how to learn from failure. We listen into one of Tailwind Traders post-incident reviews, often called a postmortem, and use that to learn how to shape and run this process to turn a failure into something actionable. After this session, you’ll be able to build a key feedback loop in your organization that turns unplanned outages into opportunities.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    },
-    {
-     "sessionId": 86524,
-     "title": "Preparing for growth: Capacity planning and scaling",
-     "startDateTime": "2020-02-11T12:30:00+00:00",
-     "endDateTime": "2020-02-11T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "737384"
-     ],
-     "speakerNames": [
-      "Fabrice Aubert"
-     ],
-     "speakerCompanies": [],
-     "description": "When your growth or the demand for your systems exceeds, or is projected to exceed, your current capacity – that’s a “good” problem to have. However, this can be just as much of a threat to your system’s reliability as any other factor.  \r\n\r\nIn this session, dive into capacity planning and cost estimation basics, including the tools Azure provides to help with both. We wrap up with a discussion and demonstration of how Tailwind Traders judiciously applied Azure scaling features. Learn how to satisfy your customers and a growing demand, even when “challenged” by success.\r\n",
-     "location": "Sheikh Maktoum Hall D"
-    }
-   ]
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "92334",
-   "sessionInstanceId": "92334",
-   "sessionCode": "BRK30201",
-   "sessionCodeNormalized": "BRK30201",
-   "title": "Design your Kitchen with Visio and display it in 3D with SharpGL OpenGL library.",
-   "sortTitle": "design your kitchen with visio and display it in 3d with sharpgl opengl library.",
-   "sortRank": 2147483647,
-   "description": "In this session we will show you how you can use Visio to create your Kitchen and viewing it in 3D. A specific VSTO Addin has been build to design, produce plan and quotation. you can also view it in 3D thanks to the usage of SharpGL (Open GL based) 3d graphic library.You will learn\t1. The basics of creating a C# Visio VSTO Addin with automatic database storage of Visio Shapes\t2. The basic of SharGL Library\t3. How you can create your kitchen IKEA based furniture\t4. Experiment the viewing of your kitchen in 3D.",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T11:15:00+00:00",
-   "endDateTime": "2020-02-11T12:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Breakout: 45 Minute",
-   "sessionTypeLogical": "Breakout: 45 Minute",
-   "learningPath": "",
-   "level": "Advanced (300)",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3106",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "",
-   "speakerIds": [
-    "697487"
-   ],
-   "speakerNames": [
-    "Michel LAPLANE"
-   ],
-   "speakerCompanies": [
-    "SHAREVISUAL"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86581",
-   "sessionInstanceId": "86581",
-   "sessionCode": "TMS30",
-   "sessionCodeNormalized": "TMS30",
-   "title": "Designing your path from Skype for Business to Teams",
-   "sortTitle": "designing your path from skype for business to teams",
-   "sortRank": 2147483647,
-   "description": "Explore the end-to-end Skype for Business to Teams upgrade experience, inclusive of technical and user readiness considerations. This session provides guidance for a successful upgrade and shares learnings from enterprises that have already successfully upgraded.  Learn more about the rich productivity and communication capabilities of Microsoft Teams.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T10:00:00+00:00",
-   "endDateTime": "2020-02-11T10:45:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Journey to Microsoft Teams",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907347",
-   "speakerIds": [],
-   "speakerNames": [],
-   "speakerCompanies": [],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86583,
-     "title": "What's new with Microsoft Teams: The hub for teamwork in Microsoft 365",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "702999"
-     ],
-     "speakerNames": [
-      "Diaundra Jones"
-     ],
-     "speakerCompanies": [],
-     "description": "Join us to learn how Microsoft Teams, the hub for collaboration and intelligent communications, is transforming the way people work at Contoso. We showcase some of the big feature innovations we’ve made in the last year and give you a sneak peek at some of the exciting new innovations coming to Microsoft Teams. This demo-rich session highlights the best Teams has to offer!\r\n",
-     "location": "Sheikh Maktoum Hall C"
-    },
-    {
-     "sessionId": 86582,
-     "title": "Intelligent communications in Microsoft Teams",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "702999",
-      "717224"
-     ],
-     "speakerNames": [
-      "Diaundra Jones",
-      "Ghouse Shariff"
-     ],
-     "speakerCompanies": [],
-     "description": "Microsoft Teams solves the communication needs of a diverse workforce. Calling and meeting experiences in Teams support more productive collaboration and foster teamwork across Contoso. Join us to learn more about the latest intelligent communications features along with the most recent additions to our device portfolio.\r\n",
-     "location": "Sheikh Maktoum Hall C"
-    },
-    {
-     "sessionId": 86585,
-     "title": "Managing Microsoft Teams effectively",
-     "startDateTime": "2020-02-11T11:15:00+00:00",
-     "endDateTime": "2020-02-11T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "697422"
-     ],
-     "speakerNames": [
-      "Preethy Krishnamurthy"
-     ],
-     "speakerCompanies": [],
-     "description": "With simple and granular management capabilities, Microsoft Teams empowers Contoso administrators with the controls they need to provide the best experience possible to users while protecting company data and meeting business requirements. Join us to learn more about the latest security and administration capabilities of Microsoft Teams.\r\n",
-     "location": "Sheikh Maktoum Hall C"
-    },
-    {
-     "sessionId": 86580,
-     "title": "Six Steps for a Successful Teams Deployment",
-     "startDateTime": "2020-02-11T12:30:00+00:00",
-     "endDateTime": "2020-02-11T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "697422"
-     ],
-     "speakerNames": [
-      "Preethy Krishnamurthy"
-     ],
-     "speakerCompanies": [],
-     "description": "Microsoft Teams is permanently changing how Federal Government organizations collaborate but how do we drive adoption (usefulness) of Teams? Stop by to learn six proven steps to successfully drive adoption. We’ll share how to start with the end in mind, how to focus on small victory laps, how to split governance, how to show more than tell to drive adoption with field-proven techniques! Expect an insight-packed learning experience based on a real-world case study from a 500K+ user organization in DoD. Note: we’ll take you on a helicopter ride over the process but land that helicopter several times show the details. To say it differently, don’t expect a session full of slides and talking.",
-     "location": "Sheikh Maktoum Hall C"
-    }
-   ]
   }
  ],
  "facets": {
@@ -999,11 +1021,11 @@
    "filters": [
     {
      "value": 45,
-     "count": 92
+     "count": 97
     },
     {
      "value": 15,
-     "count": 22
+     "count": 24
     },
     {
      "value": 0,
@@ -1014,7 +1036,19 @@
      "count": 11
     },
     {
+     "value": 70,
+     "count": 4
+    },
+    {
+     "value": 30,
+     "count": 2
+    },
+    {
      "value": 195,
+     "count": 2
+    },
+    {
+     "value": 135,
      "count": 1
     }
    ]
@@ -1026,26 +1060,34 @@
    "filters": [
     {
      "value": "Module: 45 Minute",
-     "count": 79
-    },
-    {
-     "value": "Theater: 15 Minute",
-     "count": 22
+     "count": 77
     },
     {
      "value": "Breakout: 45 Minute",
-     "count": 20
+     "count": 31
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 24
     },
     {
      "value": "Learning Path",
      "count": 16
     },
     {
-     "value": "",
+     "value": "Unconference: 70 Minute",
      "count": 4
     },
     {
+     "value": "Panel: 30 Minute",
+     "count": 2
+    },
+    {
      "value": "Workshop: 120 Minute",
+     "count": 2
+    },
+    {
+     "value": "Workshop: 195 Minute",
      "count": 1
     }
    ]
@@ -1057,7 +1099,7 @@
    "filters": [
     {
      "value": "",
-     "count": 40
+     "count": 57
     },
     {
      "value": "Azure fundamentals",
@@ -1108,16 +1150,16 @@
      "count": 6
     },
     {
-     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
-     "count": 5
-    },
-    {
      "value": "IT administrator’s guide to managing productivity in the cloud",
      "count": 5
     },
     {
      "value": "Migrating server infrastructure",
      "count": 5
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 3
     },
     {
      "value": "Managing cloud operations",
@@ -1140,19 +1182,19 @@
    "filters": [
     {
      "value": "",
-     "count": 108
+     "count": 112
     },
     {
      "value": "Advanced (300)",
-     "count": 22
+     "count": 23
     },
     {
      "value": "Intermediate (200)",
-     "count": 7
+     "count": 12
     },
     {
      "value": "Foundational (100)",
-     "count": 3
+     "count": 8
     },
     {
      "value": "Expert (400)",
@@ -1167,7 +1209,7 @@
    "filters": [
     {
      "value": "",
-     "count": 142
+     "count": 157
     }
    ]
   },
@@ -1178,7 +1220,7 @@
    "filters": [
     {
      "value": "",
-     "count": 138
+     "count": 153
     },
     {
      "value": "Productivity",
@@ -1201,26 +1243,38 @@
    "filters": [
     {
      "value": "3107",
-     "count": 80
+     "count": 78
     },
     {
      "value": "3106",
-     "count": 23
+     "count": 30
     },
     {
      "value": "3114",
-     "count": 22
+     "count": 24
     },
     {
      "value": "3301",
      "count": 16
     },
     {
+     "value": "3111",
+     "count": 4
+    },
+    {
      "value": "3108",
+     "count": 2
+    },
+    {
+     "value": "3113",
+     "count": 2
+    },
+    {
+     "value": "3109",
      "count": 1
     }
    ]
   }
  },
- "total": 142
+ "total": 157
 }

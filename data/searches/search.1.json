@@ -2,6 +2,49 @@
  "data": [
   {
    "@search.score": 1.0,
+   "sessionId": "92249",
+   "sessionInstanceId": "92249",
+   "sessionCode": "WRK20002",
+   "sessionCodeNormalized": "WRK20002",
+   "title": "A Day in the life of a Microsoft Teams admin",
+   "sortTitle": "a day in the life of a microsoft teams admin",
+   "sortRank": 2147483647,
+   "description": "In this tech workshop get hands-on experience with the core administration capabilities of Microsoft Teams. We will work through common scenarios that will enable you to manage Teams effectively including configuring global settings, creating user policies, and streamlining the creation of  teams using PowerShell and Teams templates.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T06:45:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 135,
+   "sessionType": "Workshop: 120 Minute",
+   "sessionTypeLogical": "Workshop: 120 Minute",
+   "learningPath": "",
+   "level": "Intermediate (200)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3108",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "697422"
+   ],
+   "speakerNames": [
+    "Preethy Krishnamurthy"
+   ],
+   "speakerCompanies": [
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
    "sessionId": "91282",
    "sessionInstanceId": "91282",
    "sessionCode": "BRK20009",
@@ -27,18 +70,21 @@
    "visibleInSessionListing": true,
    "techCommunityDiscussionId": "",
    "speakerIds": [
-    "702559"
+    "702559",
+    "715291"
    ],
    "speakerNames": [
-    "Jim Moyle"
+    "Jim Moyle",
+    "Bradley Stewart"
    ],
    "speakerCompanies": [
+    "Microsoft",
     "Microsoft"
    ],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
@@ -57,7 +103,7 @@
    "startDateTime": "2020-02-11T08:15:00+00:00",
    "endDateTime": "2020-02-11T09:00:00+00:00",
    "durationInMinutes": 45,
-   "sessionType": "",
+   "sessionType": "Breakout: 45 Minute",
    "sessionTypeLogical": "Breakout: 45 Minute",
    "learningPath": "",
    "level": "Intermediate (200)",
@@ -81,7 +127,53 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "94903",
+   "sessionInstanceId": "94903",
+   "sessionCode": "BRK10078",
+   "sessionCodeNormalized": "BRK10078",
+   "title": "Accessibility and Digital Inclusion",
+   "sortTitle": "accessibility and digital inclusion",
+   "sortRank": 2147483647,
+   "description": "According to the World Health Organization, more than 1 billion people worldwide experience some form of disability.    Designing for inclusivity not only opens up products and services to more people, it also reflects how people really are. All humans grow and adapt to the world around them and we want our designs to reflect that. Everyone has abilities, and limits to those abilities. Designing for people with permanent disabilities actually results in designs that benefit people universally.   AI is now capable of hearing, seeing, and reasoning with increasing accuracy. Real-time speech-to-text transcription, computer vision capabilities, and predictive text functionality are just a few examples of how AI is useful to people with disabilities today.    Come and join Microsoft experts for an enlightening session, where you will learn how Microsoft is approaching inclusive design,  accessibility and AI to empower people and organizations in the workplace.  This session is designed for business and IT leaders responsible for creating culture of work, employee experience, collaboration, and diversity & inclusion.",
+   "registrationLink": "",
+   "startDateTime": "2020-02-10T12:30:00+00:00",
+   "endDateTime": "2020-02-10T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "763198",
+    "771272"
+   ],
+   "speakerNames": [
+    "Ricardo Mathias Wagner",
+    "Carmen Noarbe Martin"
+   ],
+   "speakerCompanies": [
+    "Microsoft",
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
@@ -124,7 +216,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": [
@@ -142,9 +234,56 @@
      ],
      "speakerCompanies": [],
      "description": "Come and learn about the new onboarding experiences we've built in the Microsoft 365 Admin Center. These experiences empower you to learn about and activate the different components of your subscription and to easily understand what to do next with intelligent recommendations. We also cover how you can take your Office 365 subscription to Microsoft 365 with our tailored setup experiences.",
-     "location": "Sheikh Rashid Hall E"
+     "location": "Sheikh Rashid Hall E",
+     "canUserModifySchedule": true
     }
    ]
+  },
+  {
+   "@search.score": 1.0,
+   "sessionId": "94906",
+   "sessionInstanceId": "94906",
+   "sessionCode": "BRK10081",
+   "sessionCodeNormalized": "BRK10081",
+   "title": "AI to Improve Life Quality of Dementia Patients, Caregivers and Families",
+   "sortTitle": "ai to improve life quality of dementia patients, caregivers and families",
+   "sortRank": 2147483647,
+   "description": "Dementia is a broad category of brain diseases that cause decline of cognitive ability. There are 50 million people living with dementia worldwide. In this session we will discuss our solution which uses Artificial Intelligence and aims to increase quality of life for those suffering from this disease, reduce the family care burden, and increase care access to low-and middle-income countries.  AI for Dementia Solution comprises of two areas:  •\tPatient Virtual Assistant Bot and Dashboard which aims to help patients live more autonomously in non-advanced stages of Dementia.  •\tConnected Patient Monitoring which aims to allow caregivers and family members to monitor patients remotely. Some of the technologies used in solution are AI Custom Vision, Vision AI Dev Kit, Bot Framework 4.4, Bing Map, Application Insights, Azure Cognitive services, Azure IOT Edge and HUB, Azure storage, Azure Logic Apps, C#, Twilio Join Fauzia Awan, Principal Premier Field Engineer at Microsoft EMEA as she does a walkthrough of her team’s Tech for Good journey, including: 1.\tInspiration for the project 2.\tPurpose and goal 3.\tSolution Overview 4.\tDiscussion on Connected Patient Monitoring",
+   "registrationLink": "",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "sessionType": "Breakout: 45 Minute",
+   "sessionTypeLogical": "Breakout: 45 Minute",
+   "learningPath": "",
+   "level": "Foundational (100)",
+   "products": [],
+   "format": "",
+   "topic": "",
+   "sessionTypeId": "3106",
+   "isMandatory": false,
+   "visibleToAnonymousUsers": true,
+   "visibleInSessionListing": true,
+   "techCommunityDiscussionId": "",
+   "speakerIds": [
+    "741620",
+    "761751"
+   ],
+   "speakerNames": [
+    "Fauzia Awan",
+    "Jad Salloum"
+   ],
+   "speakerCompanies": [
+    "Microsoft Gulf FZ LLC",
+    "Microsoft"
+   ],
+   "sessionLinks": [],
+   "marketingCampaign": [],
+   "links": "",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
+   "techCommunityUrl": "",
+   "childModules": [],
+   "siblingModules": []
   },
   {
    "@search.score": 1.0,
@@ -160,7 +299,7 @@
    "startDateTime": "2020-02-10T12:30:00+00:00",
    "endDateTime": "2020-02-10T13:15:00+00:00",
    "durationInMinutes": 45,
-   "sessionType": "",
+   "sessionType": "Breakout: 45 Minute",
    "sessionTypeLogical": "Breakout: 45 Minute",
    "learningPath": "",
    "level": "Advanced (300)",
@@ -184,7 +323,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
@@ -227,7 +366,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
@@ -258,13 +397,19 @@
    "visibleToAnonymousUsers": true,
    "visibleInSessionListing": true,
    "techCommunityDiscussionId": "",
-   "speakerIds": [],
-   "speakerNames": [],
-   "speakerCompanies": [],
+   "speakerIds": [
+    "753716"
+   ],
+   "speakerNames": [
+    "USAMA KHAN"
+   ],
+   "speakerCompanies": [
+    "EVOLUTION TECHNOLOGIES"
+   ],
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [],
    "siblingModules": []
@@ -301,7 +446,7 @@
    "sessionLinks": [],
    "marketingCampaign": [],
    "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
+   "lastUpdate": "2020-02-10T03:15:14.53+00:00",
    "techCommunityUrl": "",
    "childModules": [
     {
@@ -310,11 +455,16 @@
      "startDateTime": "2020-02-10T06:45:00+00:00",
      "endDateTime": "2020-02-10T07:45:00+00:00",
      "durationInMinutes": 60,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "676857"
+     ],
+     "speakerNames": [
+      "Cesar Younes"
+     ],
      "speakerCompanies": [],
      "description": "New developers at Tailwind Traders have a saying about learning our technology platform: \"it's like drinking from a firehose.\" Indeed, learning all Microsoft Azure services can seem overwhelming – especially if you're unfamiliar with Azure or the cloud in general. In this session, we start at the beginning, introducing Azure and the core concepts that are foundational to our cloud platform. We start with a discussion of what cloud computing is and what Azure offers you and your team. We then take a look at basic services and features, setting up an account and subscription along the way. Finally, we tour the Azure Portal and do a quick overview of the resources available and what they do.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86431,
@@ -330,7 +480,8 @@
      ],
      "speakerCompanies": [],
      "description": "Now that Tailwind Traders has decided to take the journey into the cloud, they need to understand how their applications and services communicate with each other, the internet, and on-premises networks. In this session, we cover the basics of Azure networking: what it is, how it differs from on-premises, and how to take full advantage of its capabilities. We then learn how the virtual machines in your new network can communicate with each other over the internet and our on-premises network, using Virtual Network Peering, site-to-site VPN, and Azure ExpressRoute. Finally, we discuss how you to optimize, using Azure Traffic Manager.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86434,
@@ -346,7 +497,8 @@
      ],
      "speakerCompanies": [],
      "description": "Microsoft Azure allows you to build your applications with the full power and resilience of the cloud. But, how do you do that? In this session, we show you the tools that Tailwind Traders uses on a daily basis, including the Visual Studio Code editor and its Azure extension. We also introduce you to the Azure Cloud Shell, which allows you to work with Azure resources - without the need for the Portal. Finally, we show you how Azure Resource Management (ARM) templates save you time and help you automate infrastructure, reducing the chance of errors that come with manual human input.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86432,
@@ -355,14 +507,15 @@
      "endDateTime": "2020-02-10T12:00:00+00:00",
      "durationInMinutes": 45,
      "speakerIds": [
-      "707101"
+      "712734"
      ],
      "speakerNames": [
-      "Tiberiu George Covaci"
+      "Orin Thomas"
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86429,
@@ -378,7 +531,8 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders deals with gigantic amounts of data, continually pouring in from sources such as sales, marketing, and fulfillment. In the past, the only choice they had was to put it all into a relational database in a data center. However, by moving to Microsoft Azure, they can now optimize their data storage with increased scalability and resilience. In this session, we will introduce the various storage options available on Azure, from blob to SQL databases. You’ll learn about Azure Cosmos DB, a globally distributed, multi-model database, as well as SQL Data Warehouse and Data Factory.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86433,
@@ -394,7 +548,8 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, you’ll learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service. \r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86447,
@@ -402,11 +557,16 @@
      "startDateTime": "2020-02-11T08:15:00+00:00",
      "endDateTime": "2020-02-11T09:00:00+00:00",
      "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "767128"
+     ],
+     "speakerNames": [
+      "Caglar Kara"
+     ],
      "speakerCompanies": [],
      "description": "Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, you'll learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86616,
@@ -414,11 +574,16 @@
      "startDateTime": "2020-02-11T10:00:00+00:00",
      "endDateTime": "2020-02-11T10:45:00+00:00",
      "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
+     "speakerIds": [
+      "768745"
+     ],
+     "speakerNames": [
+      "Mohamed Garrana"
+     ],
      "speakerCompanies": [],
      "description": "Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, you'll learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86448,
@@ -434,7 +599,8 @@
      ],
      "speakerCompanies": [],
      "description": "Identity is the core of most workloads in Azure, and Tailwind Traders wants to implement Azure Active Directory in a way that correctly meshes their on-premises identities with those required in the cloud. In this session, learn the difference between authentication and authorization, as well as different identity models. Then, dive into the benefits of conditional access and multi-factor authentication (MFA) and wrap up with a demo showing you how to implement these types of extra protection.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     },
     {
      "sessionId": 86450,
@@ -450,432 +616,11 @@
      ],
      "speakerCompanies": [],
      "description": "Tailwind Traders is curious about the concept behind “serverless” computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.\r\n",
-     "location": "Sheikh Rashid Hall F"
+     "location": "Sheikh Rashid Hall F",
+     "canUserModifySchedule": true
     }
    ],
    "siblingModules": []
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86475",
-   "sessionInstanceId": "86475",
-   "sessionCode": "MCO20",
-   "sessionCodeNormalized": "MCO20",
-   "title": "Azure governance and management",
-   "sortTitle": "azure governance and management",
-   "sortRank": 2147483647,
-   "description": "Tailwind Traders’ deployments are occurring in an ad hoc manner, primarily driven by lack of protocol and unapproved decisions by various operators or employees. Some deployments even violate the organization's compliance obligations, such as being deployed in an unencrypted manner without DR protection. After bringing their existing IaaS VM fleet under control, Tailwind Traders wants to ensure future deployments comply with policy and organizational requirements.  \r\n\r\nIn this session, walk through the processes and technologies that will keep Tailwind Traders’ deployments in good standing with the help of Azure Blueprints, Azure Policy, role-based access control (RBAC), and more.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T08:15:00+00:00",
-   "endDateTime": "2020-02-11T09:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Managing cloud operations",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907381",
-   "speakerIds": [],
-   "speakerNames": [],
-   "speakerCompanies": [],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86473,
-     "title": "IaaS VM operations",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "724361"
-     ],
-     "speakerNames": [
-      "Pierre Roman"
-     ],
-     "speakerCompanies": [],
-     "description": "In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes.  \r\nIn this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.\r\n",
-     "location": "Sheikh Rashid Hall D"
-    },
-    {
-     "sessionId": 90734,
-     "title": "Securing Azure IaaS virtual machines",
-     "startDateTime": "2020-02-10T09:05:00+00:00",
-     "endDateTime": "2020-02-10T09:20:00+00:00",
-     "durationInMinutes": 15,
-     "speakerIds": [
-      "724361"
-     ],
-     "speakerNames": [
-      "Pierre Roman"
-     ],
-     "speakerCompanies": [],
-     "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
-     "location": "Theater 1"
-    }
-   ]
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86448",
-   "sessionInstanceId": "86448",
-   "sessionCode": "AFUN90",
-   "sessionCodeNormalized": "AFUN90",
-   "title": "Azure identity fundamentals",
-   "sortTitle": "azure identity fundamentals",
-   "sortRank": 2147483647,
-   "description": "Identity is the core of most workloads in Azure, and Tailwind Traders wants to implement Azure Active Directory in a way that correctly meshes their on-premises identities with those required in the cloud. In this session, learn the difference between authentication and authorization, as well as different identity models. Then, dive into the benefits of conditional access and multi-factor authentication (MFA) and wrap up with a demo showing you how to implement these types of extra protection.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-11T11:15:00+00:00",
-   "endDateTime": "2020-02-11T12:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Azure fundamentals",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907393",
-   "speakerIds": [
-    "719747"
-   ],
-   "speakerNames": [
-    "Roelf Zomerman"
-   ],
-   "speakerCompanies": [
-    "Microsoft"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86430,
-     "title": "Discovering Microsoft Azure",
-     "startDateTime": "2020-02-10T06:45:00+00:00",
-     "endDateTime": "2020-02-10T07:45:00+00:00",
-     "durationInMinutes": 60,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "New developers at Tailwind Traders have a saying about learning our technology platform: \"it's like drinking from a firehose.\" Indeed, learning all Microsoft Azure services can seem overwhelming – especially if you're unfamiliar with Azure or the cloud in general. In this session, we start at the beginning, introducing Azure and the core concepts that are foundational to our cloud platform. We start with a discussion of what cloud computing is and what Azure offers you and your team. We then take a look at basic services and features, setting up an account and subscription along the way. Finally, we tour the Azure Portal and do a quick overview of the resources available and what they do.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86431,
-     "title": "Azure networking basics",
-     "startDateTime": "2020-02-10T08:15:00+00:00",
-     "endDateTime": "2020-02-10T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "715291"
-     ],
-     "speakerNames": [
-      "Bradley Stewart"
-     ],
-     "speakerCompanies": [],
-     "description": "Now that Tailwind Traders has decided to take the journey into the cloud, they need to understand how their applications and services communicate with each other, the internet, and on-premises networks. In this session, we cover the basics of Azure networking: what it is, how it differs from on-premises, and how to take full advantage of its capabilities. We then learn how the virtual machines in your new network can communicate with each other over the internet and our on-premises network, using Virtual Network Peering, site-to-site VPN, and Azure ExpressRoute. Finally, we discuss how you to optimize, using Azure Traffic Manager.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86434,
-     "title": "Discovering Azure tooling and utilities",
-     "startDateTime": "2020-02-10T10:00:00+00:00",
-     "endDateTime": "2020-02-10T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "717897"
-     ],
-     "speakerNames": [
-      "Bernd Verst"
-     ],
-     "speakerCompanies": [],
-     "description": "Microsoft Azure allows you to build your applications with the full power and resilience of the cloud. But, how do you do that? In this session, we show you the tools that Tailwind Traders uses on a daily basis, including the Visual Studio Code editor and its Azure extension. We also introduce you to the Azure Cloud Shell, which allows you to work with Azure resources - without the need for the Portal. Finally, we show you how Azure Resource Management (ARM) templates save you time and help you automate infrastructure, reducing the chance of errors that come with manual human input.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86432,
-     "title": "Azure security fundamentals",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "707101"
-     ],
-     "speakerNames": [
-      "Tiberiu George Covaci"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86429,
-     "title": "Storing data in Azure",
-     "startDateTime": "2020-02-10T12:30:00+00:00",
-     "endDateTime": "2020-02-10T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "719728"
-     ],
-     "speakerNames": [
-      "April Edwards"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders deals with gigantic amounts of data, continually pouring in from sources such as sales, marketing, and fulfillment. In the past, the only choice they had was to put it all into a relational database in a data center. However, by moving to Microsoft Azure, they can now optimize their data storage with increased scalability and resilience. In this session, we will introduce the various storage options available on Azure, from blob to SQL databases. You’ll learn about Azure Cosmos DB, a globally distributed, multi-model database, as well as SQL Data Warehouse and Data Factory.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86433,
-     "title": "Exploring containers and orchestration in Azure",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "726799"
-     ],
-     "speakerNames": [
-      "Hatim Nagarwala"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, you’ll learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service. \r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86447,
-     "title": "Keeping costs down in Azure",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, you'll learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86616,
-     "title": "What you need to know about governance in Azure",
-     "startDateTime": "2020-02-11T10:00:00+00:00",
-     "endDateTime": "2020-02-11T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, you'll learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86450,
-     "title": "Figuring out Azure functions",
-     "startDateTime": "2020-02-11T12:30:00+00:00",
-     "endDateTime": "2020-02-11T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "715283"
-     ],
-     "speakerNames": [
-      "Christian Nwamba"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders is curious about the concept behind “serverless” computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    }
-   ]
-  },
-  {
-   "@search.score": 1.0,
-   "sessionId": "86431",
-   "sessionInstanceId": "86431",
-   "sessionCode": "AFUN20",
-   "sessionCodeNormalized": "AFUN20",
-   "title": "Azure networking basics",
-   "sortTitle": "azure networking basics",
-   "sortRank": 2147483647,
-   "description": "Now that Tailwind Traders has decided to take the journey into the cloud, they need to understand how their applications and services communicate with each other, the internet, and on-premises networks. In this session, we cover the basics of Azure networking: what it is, how it differs from on-premises, and how to take full advantage of its capabilities. We then learn how the virtual machines in your new network can communicate with each other over the internet and our on-premises network, using Virtual Network Peering, site-to-site VPN, and Azure ExpressRoute. Finally, we discuss how you to optimize, using Azure Traffic Manager.\r\n",
-   "registrationLink": "",
-   "startDateTime": "2020-02-10T08:15:00+00:00",
-   "endDateTime": "2020-02-10T09:00:00+00:00",
-   "durationInMinutes": 45,
-   "sessionType": "Module: 45 Minute",
-   "sessionTypeLogical": "Module: 45 Minute",
-   "learningPath": "Azure fundamentals",
-   "level": "",
-   "products": [],
-   "format": "",
-   "topic": "",
-   "sessionTypeId": "3107",
-   "isMandatory": false,
-   "visibleToAnonymousUsers": true,
-   "visibleInSessionListing": true,
-   "techCommunityDiscussionId": "907399",
-   "speakerIds": [
-    "715291"
-   ],
-   "speakerNames": [
-    "Bradley Stewart"
-   ],
-   "speakerCompanies": [
-    "Microsoft"
-   ],
-   "sessionLinks": [],
-   "marketingCampaign": [],
-   "links": "",
-   "lastUpdate": "2020-01-30T11:15:14.694+00:00",
-   "techCommunityUrl": "",
-   "childModules": [],
-   "siblingModules": [
-    {
-     "sessionId": 86430,
-     "title": "Discovering Microsoft Azure",
-     "startDateTime": "2020-02-10T06:45:00+00:00",
-     "endDateTime": "2020-02-10T07:45:00+00:00",
-     "durationInMinutes": 60,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "New developers at Tailwind Traders have a saying about learning our technology platform: \"it's like drinking from a firehose.\" Indeed, learning all Microsoft Azure services can seem overwhelming – especially if you're unfamiliar with Azure or the cloud in general. In this session, we start at the beginning, introducing Azure and the core concepts that are foundational to our cloud platform. We start with a discussion of what cloud computing is and what Azure offers you and your team. We then take a look at basic services and features, setting up an account and subscription along the way. Finally, we tour the Azure Portal and do a quick overview of the resources available and what they do.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86434,
-     "title": "Discovering Azure tooling and utilities",
-     "startDateTime": "2020-02-10T10:00:00+00:00",
-     "endDateTime": "2020-02-10T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "717897"
-     ],
-     "speakerNames": [
-      "Bernd Verst"
-     ],
-     "speakerCompanies": [],
-     "description": "Microsoft Azure allows you to build your applications with the full power and resilience of the cloud. But, how do you do that? In this session, we show you the tools that Tailwind Traders uses on a daily basis, including the Visual Studio Code editor and its Azure extension. We also introduce you to the Azure Cloud Shell, which allows you to work with Azure resources - without the need for the Portal. Finally, we show you how Azure Resource Management (ARM) templates save you time and help you automate infrastructure, reducing the chance of errors that come with manual human input.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86432,
-     "title": "Azure security fundamentals",
-     "startDateTime": "2020-02-10T11:15:00+00:00",
-     "endDateTime": "2020-02-10T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "707101"
-     ],
-     "speakerNames": [
-      "Tiberiu George Covaci"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to improve the security of their workloads that are running in the cloud. In this session, learn how to use: Azure Security Center to determine how to configure Azure resources (using security best practices), Azure Sentinel to locate and respond to suspicious activity, and Azure Bastion for secure administrative connections into Azure.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86429,
-     "title": "Storing data in Azure",
-     "startDateTime": "2020-02-10T12:30:00+00:00",
-     "endDateTime": "2020-02-10T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "719728"
-     ],
-     "speakerNames": [
-      "April Edwards"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders deals with gigantic amounts of data, continually pouring in from sources such as sales, marketing, and fulfillment. In the past, the only choice they had was to put it all into a relational database in a data center. However, by moving to Microsoft Azure, they can now optimize their data storage with increased scalability and resilience. In this session, we will introduce the various storage options available on Azure, from blob to SQL databases. You’ll learn about Azure Cosmos DB, a globally distributed, multi-model database, as well as SQL Data Warehouse and Data Factory.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86433,
-     "title": "Exploring containers and orchestration in Azure",
-     "startDateTime": "2020-02-11T07:00:00+00:00",
-     "endDateTime": "2020-02-11T07:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "726799"
-     ],
-     "speakerNames": [
-      "Hatim Nagarwala"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders is in the process of moving from pure virtual machine workloads to using containers to run their apps. In this session, you’ll learn the ins and outs of containers versus VMs (and when to use one over the other) and get an overview of Azure Container Service, including container orchestration with Azure Kubernetes Service. \r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86447,
-     "title": "Keeping costs down in Azure",
-     "startDateTime": "2020-02-11T08:15:00+00:00",
-     "endDateTime": "2020-02-11T09:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to keep the costs of running their workloads in Azure predictable and within the organization's spending limits. In this session, you'll learn about the factors that go into Azure costs and hear some tips and tools to keep costs manageable - from using Azure calculators and setting spending limits and quotas to utilizing tagging to identify cost owners.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86616,
-     "title": "What you need to know about governance in Azure",
-     "startDateTime": "2020-02-11T10:00:00+00:00",
-     "endDateTime": "2020-02-11T10:45:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [],
-     "speakerNames": [],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders wants to make sure that their current and future Azure workloads adhere to a strict set of deployment and configuration guidelines. In this session, you'll learn how Tailwind Traders implements Azure governance technologies and best practices, like role-based access controls, to meet its compliance obligations and goals.",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86448,
-     "title": "Azure identity fundamentals",
-     "startDateTime": "2020-02-11T11:15:00+00:00",
-     "endDateTime": "2020-02-11T12:00:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "719747"
-     ],
-     "speakerNames": [
-      "Roelf Zomerman"
-     ],
-     "speakerCompanies": [],
-     "description": "Identity is the core of most workloads in Azure, and Tailwind Traders wants to implement Azure Active Directory in a way that correctly meshes their on-premises identities with those required in the cloud. In this session, learn the difference between authentication and authorization, as well as different identity models. Then, dive into the benefits of conditional access and multi-factor authentication (MFA) and wrap up with a demo showing you how to implement these types of extra protection.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    },
-    {
-     "sessionId": 86450,
-     "title": "Figuring out Azure functions",
-     "startDateTime": "2020-02-11T12:30:00+00:00",
-     "endDateTime": "2020-02-11T13:15:00+00:00",
-     "durationInMinutes": 45,
-     "speakerIds": [
-      "715283"
-     ],
-     "speakerNames": [
-      "Christian Nwamba"
-     ],
-     "speakerCompanies": [],
-     "description": "Tailwind Traders is curious about the concept behind “serverless” computing – the idea that they can run small pieces of code in the cloud, without having to worry about the underlying infrastructure. In this session, we’ll cover the world of Azure Functions, starting with an explanation of the servers behind serverless, exploring the languages and integrations available, and ending with a demo of when to use Logic Apps and Microsoft Flow.\r\n",
-     "location": "Sheikh Rashid Hall F"
-    }
-   ]
   }
  ],
  "facets": {
@@ -886,11 +631,11 @@
    "filters": [
     {
      "value": 45,
-     "count": 92
+     "count": 97
     },
     {
      "value": 15,
-     "count": 22
+     "count": 24
     },
     {
      "value": 0,
@@ -901,7 +646,19 @@
      "count": 11
     },
     {
+     "value": 70,
+     "count": 4
+    },
+    {
+     "value": 30,
+     "count": 2
+    },
+    {
      "value": 195,
+     "count": 2
+    },
+    {
+     "value": 135,
      "count": 1
     }
    ]
@@ -913,26 +670,34 @@
    "filters": [
     {
      "value": "Module: 45 Minute",
-     "count": 79
-    },
-    {
-     "value": "Theater: 15 Minute",
-     "count": 22
+     "count": 77
     },
     {
      "value": "Breakout: 45 Minute",
-     "count": 20
+     "count": 31
+    },
+    {
+     "value": "Theater: 15 Minute",
+     "count": 24
     },
     {
      "value": "Learning Path",
      "count": 16
     },
     {
-     "value": "",
+     "value": "Unconference: 70 Minute",
      "count": 4
     },
     {
+     "value": "Panel: 30 Minute",
+     "count": 2
+    },
+    {
      "value": "Workshop: 120 Minute",
+     "count": 2
+    },
+    {
+     "value": "Workshop: 195 Minute",
      "count": 1
     }
    ]
@@ -944,7 +709,7 @@
    "filters": [
     {
      "value": "",
-     "count": 40
+     "count": 57
     },
     {
      "value": "Azure fundamentals",
@@ -995,16 +760,16 @@
      "count": 6
     },
     {
-     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
-     "count": 5
-    },
-    {
      "value": "IT administrator’s guide to managing productivity in the cloud",
      "count": 5
     },
     {
      "value": "Migrating server infrastructure",
      "count": 5
+    },
+    {
+     "value": "Content collaboration, Communication, and Engagement in the Intelligent Workplace",
+     "count": 3
     },
     {
      "value": "Managing cloud operations",
@@ -1027,19 +792,19 @@
    "filters": [
     {
      "value": "",
-     "count": 108
+     "count": 112
     },
     {
      "value": "Advanced (300)",
-     "count": 22
+     "count": 23
     },
     {
      "value": "Intermediate (200)",
-     "count": 7
+     "count": 12
     },
     {
      "value": "Foundational (100)",
-     "count": 3
+     "count": 8
     },
     {
      "value": "Expert (400)",
@@ -1054,7 +819,7 @@
    "filters": [
     {
      "value": "",
-     "count": 142
+     "count": 157
     }
    ]
   },
@@ -1065,7 +830,7 @@
    "filters": [
     {
      "value": "",
-     "count": 138
+     "count": 153
     },
     {
      "value": "Productivity",
@@ -1088,26 +853,38 @@
    "filters": [
     {
      "value": "3107",
-     "count": 80
+     "count": 78
     },
     {
      "value": "3106",
-     "count": 23
+     "count": 30
     },
     {
      "value": "3114",
-     "count": 22
+     "count": 24
     },
     {
      "value": "3301",
      "count": 16
     },
     {
+     "value": "3111",
+     "count": 4
+    },
+    {
      "value": "3108",
+     "count": 2
+    },
+    {
+     "value": "3113",
+     "count": 2
+    },
+    {
+     "value": "3109",
      "count": 1
     }
    ]
   }
  },
- "total": 142
+ "total": 157
 }

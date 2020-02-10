@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 280,
- "attendeeCount": 43,
+ "capacity": 288,
+ "attendeeCount": 131,
  "sessionId": "86580",
  "sessionInstanceId": "86580",
  "sessionCode": "TMS50",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Maktoum Hall C",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T12:30:00+00:00",
  "endDateTime": "2020-02-11T13:15:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO5",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907346",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -74,14 +75,17 @@
    "endDateTime": "2020-02-11T07:45:00+00:00",
    "durationInMinutes": 45,
    "speakerIds": [
-    "702999"
+    "702999",
+    "749157"
    ],
    "speakerNames": [
-    "Diaundra Jones"
+    "Diaundra Jones",
+    "Mohamad Mourad"
    ],
    "speakerCompanies": [],
    "description": "Join us to learn how Microsoft Teams, the hub for collaboration and intelligent communications, is transforming the way people work at Contoso. We showcase some of the big feature innovations we’ve made in the last year and give you a sneak peek at some of the exciting new innovations coming to Microsoft Teams. This demo-rich session highlights the best Teams has to offer!\r\n",
-   "location": "Sheikh Maktoum Hall C"
+   "location": "Sheikh Maktoum Hall C",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86582,
@@ -99,7 +103,8 @@
    ],
    "speakerCompanies": [],
    "description": "Microsoft Teams solves the communication needs of a diverse workforce. Calling and meeting experiences in Teams support more productive collaboration and foster teamwork across Contoso. Join us to learn more about the latest intelligent communications features along with the most recent additions to our device portfolio.\r\n",
-   "location": "Sheikh Maktoum Hall C"
+   "location": "Sheikh Maktoum Hall C",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86581,
@@ -115,7 +120,8 @@
    ],
    "speakerCompanies": [],
    "description": "Explore the end-to-end Skype for Business to Teams upgrade experience, inclusive of technical and user readiness considerations. This session provides guidance for a successful upgrade and shares learnings from enterprises that have already successfully upgraded.  Learn more about the rich productivity and communication capabilities of Microsoft Teams.\r\n",
-   "location": "Sheikh Maktoum Hall C"
+   "location": "Sheikh Maktoum Hall C",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86585,
@@ -131,7 +137,8 @@
    ],
    "speakerCompanies": [],
    "description": "With simple and granular management capabilities, Microsoft Teams empowers Contoso administrators with the controls they need to provide the best experience possible to users while protecting company data and meeting business requirements. Join us to learn more about the latest security and administration capabilities of Microsoft Teams.\r\n",
-   "location": "Sheikh Maktoum Hall C"
+   "location": "Sheikh Maktoum Hall C",
+   "canUserModifySchedule": true
   }
  ]
 }

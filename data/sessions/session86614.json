@@ -2,13 +2,13 @@
  "@search.score": 1.0,
  "canUserModifySchedule": true,
  "isCapacityControlled": false,
- "roomHasCapacity": true,
+ "roomHasCapacity": false,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
  "capacity": 280,
- "attendeeCount": 89,
+ "attendeeCount": 283,
  "sessionId": "86614",
  "sessionInstanceId": "86614",
  "sessionCode": "AIML10",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Maktoum Hall A",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T06:45:00+00:00",
  "endDateTime": "2020-02-10T07:45:00+00:00",
  "durationInMinutes": 60,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO3",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907334",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -73,11 +74,16 @@
    "startDateTime": "2020-02-10T08:15:00+00:00",
    "endDateTime": "2020-02-10T09:00:00+00:00",
    "durationInMinutes": 45,
-   "speakerIds": [],
-   "speakerNames": [],
+   "speakerIds": [
+    "753497"
+   ],
+   "speakerNames": [
+    "Mahmoud Moussa"
+   ],
    "speakerCompanies": [],
    "description": "As a data-driven company, Tailwind Traders understands the importance of using artificial intelligence to improve business processes and delight customers. Before investing in an AI team, their existing developers were able to demonstrate some quick wins using pre-built AI technologies.  \r\n\r\nIn this session, we show how you can use Azure Cognitive Services to extract insights from retail data and go into the neural networks behind computer vision. Learn how it works and how to augment the pre-built AI with your own images for custom image recognition applications.\r\n",
-   "location": "Sheikh Maktoum Hall A"
+   "location": "Sheikh Maktoum Hall A",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86452,
@@ -93,7 +99,8 @@
    ],
    "speakerCompanies": [],
    "description": "Tailwind Traders uses custom machine learning models without requiring their teams to code. How? Azure Machine Learning Visual Interface.  In this session, learn the data science process that Tailwind Traders uses and get an introduction to Azure Machine Learning Visual Interface. See how to find, import, and prepare data, selecting a machine learning algorithm, training and testing the model, and how to deploy a complete model to an API. Lastly, we discuss how to avoid common data science beginner mistakes, providing additional resources for you to continue your machine learning journey.",
-   "location": "Sheikh Maktoum Hall A"
+   "location": "Sheikh Maktoum Hall A",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86449,
@@ -109,7 +116,8 @@
    ],
    "speakerCompanies": [],
    "description": "Tailwind Traders’ data science team uses natural language processing (NLP), and recently discovered how to fine tune and build a baseline models with Automated ML. \r\n\r\nIn this session, learn what Automated ML is and why it’s so powerful, then dive into how to improve upon baseline models using examples from the NLP best practices repository. We highlight Azure Machine Learning key features and how you can apply them to your organization, including: low priority compute instances, distributed training with auto scale, hyperparameter optimization, collaboration, logging, and deployment.\r\n",
-   "location": "Sheikh Maktoum Hall A"
+   "location": "Sheikh Maktoum Hall A",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86496,
@@ -125,7 +133,8 @@
    ],
    "speakerCompanies": [],
    "description": "Many companies have adopted DevOps practices to improve their software delivery, but these same techniques are rarely applied to machine learning projects. Collaboration between developers and data scientists can be limited and deploying models to production in a consistent, trustworthy way is often a pipe dream. \r\n\r\nIn this session, learn how Tailwind Traders applied DevOps practices to their machine learning projects using Azure DevOps and Azure Machine Learning Service. We show automated training, scoring, and storage of versioned models, wrap the models in Docker containers, and deploy them to Azure Container Instances or Azure Kubernetes Service. We even collect continuous feedback on model behavior so we know when to retrain.\r\n",
-   "location": "Sheikh Maktoum Hall A"
+   "location": "Sheikh Maktoum Hall A",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90735,
@@ -134,14 +143,15 @@
    "endDateTime": "2020-02-10T06:35:00+00:00",
    "durationInMinutes": 15,
    "speakerIds": [
-    "702993"
+    "753497"
    ],
    "speakerNames": [
-    "Mohamed Mostafa"
+    "Mahmoud Moussa"
    ],
    "speakerCompanies": [],
    "description": "In this theater session, we show the data science process and how to apply it. From exploration of datasets to deployment of services - all applied to an interesting data story. We also take you on a very brief tour of the Azure AI platform.",
-   "location": "Theater 3"
+   "location": "Theater 3",
+   "canUserModifySchedule": true
   }
  ]
 }

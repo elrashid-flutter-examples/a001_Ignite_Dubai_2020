@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 400,
- "attendeeCount": 20,
+ "capacity": 398,
+ "attendeeCount": 63,
  "sessionId": "86526",
  "sessionInstanceId": "86526",
  "sessionCode": "ADM20",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall E",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T08:15:00+00:00",
  "endDateTime": "2020-02-10T09:00:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO1",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907366",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -81,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "Come and learn about the new onboarding experiences we've built in the Microsoft 365 Admin Center. These experiences empower you to learn about and activate the different components of your subscription and to easily understand what to do next with intelligent recommendations. We also cover how you can take your Office 365 subscription to Microsoft 365 with our tailored setup experiences.",
-   "location": "Sheikh Rashid Hall E"
+   "location": "Sheikh Rashid Hall E",
+   "canUserModifySchedule": true
   }
  ]
 }

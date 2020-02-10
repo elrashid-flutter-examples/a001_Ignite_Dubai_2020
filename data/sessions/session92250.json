@@ -8,7 +8,7 @@
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
  "capacity": 50,
- "attendeeCount": 8,
+ "attendeeCount": 27,
  "sessionId": "92250",
  "sessionInstanceId": "92250",
  "sessionCode": "WRK20004",
@@ -19,8 +19,8 @@
  "description": "Are you ready to create a connected workplace? An intelligent intranet can connect you, your teams, and your organization when applying the right communication, knowledge sharing and discovery tools. We’ll show you how, with the right content sharing and business solution resources, you can greatly enhance the employee experience. Join us for this hands-on workshop where we teach you how to prototype, which will help demonstrate the possibilities of an intelligent intranet and gain buy-in from your stakeholders. You’ll gain the knowledge and ability to show your team the value of a new connected workplace and share strategies on how to drive adoption. By participating in our workshop, you’ll walk away with the tools and capabilities necessary to accelerate your time-to-value and prove the impact of the intelligent intranet. Get inspired, with the art of the possible at the Microsoft Intelligent Intranet Workshop",
  "registrationLink": "",
  "roomId": "",
- "location": "Dubai A+B",
- "buildingLocation": null,
+ "location": "Dubai B",
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T10:00:00+00:00",
  "endDateTime": "2020-02-11T13:15:00+00:00",
  "durationInMinutes": 195,
@@ -36,19 +36,23 @@
  "isMandatory": false,
  "visibleToAnonymousUsers": true,
  "visibleInSessionListing": true,
- "canBeEvaluated": false,
+ "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO11",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "",
  "speakerIds": [
-  "712694"
+  "712694",
+  "764083"
  ],
  "speakerNames": [
-  "Ari Nadin"
+  "Ari Nadin",
+  "Linden Daniels"
  ],
  "speakerCompanies": [
+  "Avanade",
   "Avanade"
  ],
  "sessionSets": [
@@ -62,7 +66,7 @@
  "links": "",
  "waitlistCapacity": 10,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],

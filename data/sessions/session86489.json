@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
  "capacity": 280,
- "attendeeCount": 55,
+ "attendeeCount": 187,
  "sessionId": "86489",
  "sessionInstanceId": "86489",
  "sessionCode": "APPS30",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Maktoum Hall D",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T10:00:00+00:00",
  "endDateTime": "2020-02-10T10:45:00+00:00",
  "durationInMinutes": 45,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO4",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907385",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -81,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "We’ll show you how Tailwind Traders avoided a single point of failure using cloud services to deploy their company website to multiple regions. We’ll cover all the options they considered, explain how and why they made their decisions, then dive into the components of their implementation.    In this session, you’ll see how they used Microsoft technologies like VS Code, Azure Portal, and Azure CLI to build a secure application that runs and scales on Linux and Windows VMs and Azure Web Apps with a companion phone app.",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86486,
@@ -97,7 +99,8 @@
    ],
    "speakerCompanies": [],
    "description": "Tailwind Traders is a large retail corporation with a dangerous single point of failure: sales, fulfillment, monitoring, and telemetry data is centralized across its online and brick and mortar outlets. We review structured databases, unstructured data, real-time data, file storage considerations, and share tips on balancing performance, cost, and operational impacts.   In this session, learn how Tailwind Traders created a flexible data strategy using multiple Azure services, such as Azure SQL, Azure Search, the Azure Cosmos DB API for MongoDB, the Gremlin API for Cosmos DB, and more – and how to overcome common challenges and find the right storage option.",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86488,
@@ -113,7 +116,8 @@
    ],
    "speakerCompanies": [],
    "description": "Kubernetes is the open source container orchestration system that supercharges applications with scaling and reliability and unlocks advanced features, like A/B testing, Blue/Green deployments, canary builds, and dead-simple rollbacks.    In this session, see how Tailwind Traders took a containerized application and deployed it to Azure Kubernetes Service (AKS). You’ll walk away with a deep understanding of major Kubernetes concepts and how to put it all to use with industry standard tooling.",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 86490,
@@ -129,7 +133,8 @@
    ],
    "speakerCompanies": [],
    "description": "Making sense of application logs and metrics has been a challenge at Tailwind Traders. Some of the most common questions getting asked within the company are: “How do we know what we're looking for? Do we look at logs? Metrics? Both?” Using Azure Monitor and Application Insights helps Tailwind Traders elevate their application logs to something a bit more powerful: telemetry. In session, you’ll learn how the team wired up Application Insights to their public-facing website and fixed a slow-loading home page. Then, we expand this concept of telemetry to determine how Tailwind Traders’ CosmosDB  performance could be improved. Finally, we’ll look into capacity planning and scale with powerful yet easy services like Azure Front Door.",
-   "location": "Sheikh Maktoum Hall D"
+   "location": "Sheikh Maktoum Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90732,
@@ -145,7 +150,8 @@
    ],
    "speakerCompanies": [],
    "description": "If you love working from the command line, this session covers all the things you need to know to get the most out of the experience on Windows, Mac, and Linux. We start with Windows command line, then the new Terminal, and the Windows Subsystem for Linux (WSL). Then, we cover some interesting developments in the Azure Cloud Shell and show you how you can work with command line options in Visual Studio Code. By the end of this 15 minute session you'll have some new and interesting ways to control the cloud from your keyboard!",
-   "location": "Theater 1"
+   "location": "Theater 1",
+   "canUserModifySchedule": true
   }
  ]
 }

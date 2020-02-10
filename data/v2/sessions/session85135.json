@@ -1,0 +1,146 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": false,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": -1,
+ "attendeeCount": 0,
+ "sessionId": "85135",
+ "sessionInstanceId": "85135",
+ "sessionCode": "",
+ "sessionCodeNormalized": "",
+ "title": "Securing your organization",
+ "sortTitle": "securing your organization",
+ "sortRank": 2147483647,
+ "description": "Learn how to protect your organization’s identities, data, applications, and devices across on-premises, cloud, and mobile - end to-end using the latest tools and guidance. ",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "",
+ "buildingLocation": null,
+ "startDateTime": null,
+ "endDateTime": null,
+ "durationInMinutes": 0,
+ "sessionType": "Learning Path",
+ "sessionTypeLogical": "Learning Path",
+ "learningPath": "Securing your organization",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3301",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "120807",
+ "speakerIds": [],
+ "speakerNames": [],
+ "speakerCompanies": [],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [
+  {
+   "sessionId": 86549,
+   "title": "Secure your enterprise with a strong identity foundation",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "717841",
+    "738427"
+   ],
+   "speakerNames": [
+    "Subha Bhattacharyay",
+    "Nupur Goyal"
+   ],
+   "speakerCompanies": [],
+   "description": "The three benefits we hear most often from our customers of Azure Active Directory are to reduce costs, improve security, and enhance user productivity. Come learn the top reasons why customers use Azure AD to gain greater visibility and control over users, apps, devices, and data. This Learning Path session is primarily targeted at organizations considering modernizing their identity and security solutions and have not yet adopted Azure AD widely, or existing customers that would like a refresher on the customer scenarios addressed.",
+   "location": "Sheikh Maktoum Hall A"
+  },
+  {
+   "sessionId": 86547,
+   "title": "Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "697363"
+   ],
+   "speakerNames": [
+    "Milad Aslaner"
+   ],
+   "speakerCompanies": [],
+   "description": "At Microsoft Ignite 2018 we introduced our big vision for Microsoft Threat Protection, an integrated solution providing security across multiple attack vectors including; identities, endpoints, email and data, cloud apps, and infrastructure. In 2019, we’re excited to showcase features now in production that you can begin using in your environment. We’ll cover the very latest, including the ability to correlate incidents across your estate,  advanced hunting capabilities, and new automated incident response capabilities, as well as where we are in our journey with Microsoft Threat Protection and our forward-looking roadmap.",
+   "location": "Sheikh Maktoum Hall A"
+  },
+  {
+   "sessionId": 86548,
+   "title": "End-to-end cloud security for all your XaaS resources",
+   "startDateTime": "2020-02-11T10:00:00+00:00",
+   "endDateTime": "2020-02-11T10:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "719750"
+   ],
+   "speakerNames": [
+    "David Maskell"
+   ],
+   "speakerCompanies": [],
+   "description": "As critical assets and information move to the cloud across apps, infrastructure and services, it’s key to have a comprehensive cloud security strategy. From billions of signals that we analyze daily, we put together a list of key challenges and use cases to run your cross-cloud environments more securely. In this session we’ll share how you can get better visibility and implement processes and controls that will help you improve the security across your SaaS, IaaS and PaaS resources.",
+   "location": "Sheikh Maktoum Hall A"
+  },
+  {
+   "sessionId": 86550,
+   "title": "Understanding how the latest Microsoft Information Protection solutions help protect your sensitive data",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "745369"
+   ],
+   "speakerNames": [
+    "Hesham Saad"
+   ],
+   "speakerCompanies": [],
+   "description": "Learn about the key Microsoft Information Protection capabilities and integrations that help you better protect your sensitive data, through its lifecycle. The exponential growth of data and increasing compliance requirements makes protecting your most important and sensitive data more challenging then ever. We'll walk you through the latest capabilities to discover, classify & label, protect and monitor your sensitive data, across devices, apps, cloud services and on-premises. We'll discuss configuration and management experiences that makes it easier for security admins, as well as end-user experiences that help balance security and productivity. Our latest capabilities help provide a more consistent and comprehensive experience across Office applications, Azure Information Protection, Office 365 Data Loss Prevention,  Microsoft Cloud App Security, Windows and beyond.\r\n",
+   "location": "Sheikh Maktoum Hall A"
+  },
+  {
+   "sessionId": 86559,
+   "title": "Top 10 best security practices for Azure today",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "703851"
+   ],
+   "speakerNames": [
+    "Tiander Turpijn"
+   ],
+   "speakerCompanies": [],
+   "description": "With more computing environments moving to the cloud, the need for stronger cloud security has never been greater. But what constitutes effective cloud security for Azure, and what best practices should you be following? In this overview session, learn about five Azure security best practices, discover the latest Azure security innovations, listen to insights from a partner, and real-life security principles from an Azure customer.\r\n",
+   "location": "Sheikh Maktoum Hall A"
+  }
+ ],
+ "siblingModules": []
+}

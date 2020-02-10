@@ -1,0 +1,131 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 280,
+ "attendeeCount": 44,
+ "sessionId": "86581",
+ "sessionInstanceId": "86581",
+ "sessionCode": "TMS30",
+ "sessionCodeNormalized": "TMS30",
+ "title": "Designing your path from Skype for Business to Teams",
+ "sortTitle": "designing your path from skype for business to teams",
+ "sortRank": 2147483647,
+ "description": "Explore the end-to-end Skype for Business to Teams upgrade experience, inclusive of technical and user readiness considerations. This session provides guidance for a successful upgrade and shares learnings from enterprises that have already successfully upgraded.  Learn more about the rich productivity and communication capabilities of Microsoft Teams.\r\n",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Maktoum Hall C",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-11T10:00:00+00:00",
+ "endDateTime": "2020-02-11T10:45:00+00:00",
+ "durationInMinutes": 45,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "Journey to Microsoft Teams",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907347",
+ "speakerIds": [],
+ "speakerNames": [],
+ "speakerCompanies": [],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86583,
+   "title": "What's new with Microsoft Teams: The hub for teamwork in Microsoft 365",
+   "startDateTime": "2020-02-11T07:00:00+00:00",
+   "endDateTime": "2020-02-11T07:45:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702999"
+   ],
+   "speakerNames": [
+    "Diaundra Jones"
+   ],
+   "speakerCompanies": [],
+   "description": "Join us to learn how Microsoft Teams, the hub for collaboration and intelligent communications, is transforming the way people work at Contoso. We showcase some of the big feature innovations we’ve made in the last year and give you a sneak peek at some of the exciting new innovations coming to Microsoft Teams. This demo-rich session highlights the best Teams has to offer!\r\n",
+   "location": "Sheikh Maktoum Hall C"
+  },
+  {
+   "sessionId": 86582,
+   "title": "Intelligent communications in Microsoft Teams",
+   "startDateTime": "2020-02-11T08:15:00+00:00",
+   "endDateTime": "2020-02-11T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "702999",
+    "717224"
+   ],
+   "speakerNames": [
+    "Diaundra Jones",
+    "Ghouse Shariff"
+   ],
+   "speakerCompanies": [],
+   "description": "Microsoft Teams solves the communication needs of a diverse workforce. Calling and meeting experiences in Teams support more productive collaboration and foster teamwork across Contoso. Join us to learn more about the latest intelligent communications features along with the most recent additions to our device portfolio.\r\n",
+   "location": "Sheikh Maktoum Hall C"
+  },
+  {
+   "sessionId": 86585,
+   "title": "Managing Microsoft Teams effectively",
+   "startDateTime": "2020-02-11T11:15:00+00:00",
+   "endDateTime": "2020-02-11T12:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "697422"
+   ],
+   "speakerNames": [
+    "Preethy Krishnamurthy"
+   ],
+   "speakerCompanies": [],
+   "description": "With simple and granular management capabilities, Microsoft Teams empowers Contoso administrators with the controls they need to provide the best experience possible to users while protecting company data and meeting business requirements. Join us to learn more about the latest security and administration capabilities of Microsoft Teams.\r\n",
+   "location": "Sheikh Maktoum Hall C"
+  },
+  {
+   "sessionId": 86580,
+   "title": "Six Steps for a Successful Teams Deployment",
+   "startDateTime": "2020-02-11T12:30:00+00:00",
+   "endDateTime": "2020-02-11T13:15:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "697422"
+   ],
+   "speakerNames": [
+    "Preethy Krishnamurthy"
+   ],
+   "speakerCompanies": [],
+   "description": "Microsoft Teams is permanently changing how Federal Government organizations collaborate but how do we drive adoption (usefulness) of Teams? Stop by to learn six proven steps to successfully drive adoption. We’ll share how to start with the end in mind, how to focus on small victory laps, how to split governance, how to show more than tell to drive adoption with field-proven techniques! Expect an insight-packed learning experience based on a real-world case study from a 500K+ user organization in DoD. Note: we’ll take you on a helicopter ride over the process but land that helicopter several times show the details. To say it differently, don’t expect a session full of slides and talking.",
+   "location": "Sheikh Maktoum Hall C"
+  }
+ ]
+}

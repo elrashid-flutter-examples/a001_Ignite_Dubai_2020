@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 240,
- "attendeeCount": 46,
+ "capacity": 244,
+ "attendeeCount": 138,
  "sessionId": "86475",
  "sessionInstanceId": "86475",
  "sessionCode": "MCO20",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall D",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-11T08:15:00+00:00",
  "endDateTime": "2020-02-11T09:00:00+00:00",
  "durationInMinutes": 45,
@@ -39,12 +39,19 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO7",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907381",
- "speakerIds": [],
- "speakerNames": [],
- "speakerCompanies": [],
+ "speakerIds": [
+  "764085"
+ ],
+ "speakerNames": [
+  "Lyes Ouarti"
+ ],
+ "speakerCompanies": [
+  "Microsoft"
+ ],
  "sessionSets": [
   "Session Catalog 2019",
   "Session Scheduler",
@@ -56,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -75,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "In recent months, Tailwind Traders has been having issues with keeping their sprawling IaaS VM deployment under control, leading to mismanaged resources and inefficient processes.  \r\nIn this session, look into how Tailwind Traders can ensure their VMs are properly managed and maintained with the same care in Azure as they were in Tailwind Trader's on-premises data centers.\r\n",
-   "location": "Sheikh Rashid Hall D"
+   "location": "Sheikh Rashid Hall D",
+   "canUserModifySchedule": true
   },
   {
    "sessionId": 90734,
@@ -91,7 +99,8 @@
    ],
    "speakerCompanies": [],
    "description": "In this session, learn the top five things that you can do to improve the security posture of your Azure IaaS VMs, including secure administration practices, security configuration management, as well as being notified of critical security events.",
-   "location": "Theater 1"
+   "location": "Theater 1",
+   "canUserModifySchedule": true
   }
  ]
 }

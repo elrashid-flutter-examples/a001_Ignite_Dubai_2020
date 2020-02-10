@@ -1,0 +1,87 @@
+{
+ "@search.score": 1.0,
+ "canUserModifySchedule": true,
+ "isCapacityControlled": false,
+ "roomHasCapacity": true,
+ "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
+ "hasRsvpOpened": false,
+ "hasRsvpClosed": false,
+ "waitlistHasCapacity": true,
+ "capacity": 400,
+ "attendeeCount": 40,
+ "sessionId": "86523",
+ "sessionInstanceId": "86523",
+ "sessionCode": "ADM10",
+ "sessionCodeNormalized": "ADM10",
+ "title": "Onboarding and setup: Getting the most out of Microsoft 365",
+ "sortTitle": "onboarding and setup: getting the most out of microsoft 365",
+ "sortRank": 2147483647,
+ "description": "Come and learn about the new onboarding experiences we've built in the Microsoft 365 Admin Center. These experiences empower you to learn about and activate the different components of your subscription and to easily understand what to do next with intelligent recommendations. We also cover how you can take your Office 365 subscription to Microsoft 365 with our tailored setup experiences.",
+ "registrationLink": "",
+ "roomId": "",
+ "location": "Sheikh Rashid Hall E",
+ "buildingLocation": null,
+ "startDateTime": "2020-02-10T06:45:00+00:00",
+ "endDateTime": "2020-02-10T07:45:00+00:00",
+ "durationInMinutes": 60,
+ "sessionType": "Module: 45 Minute",
+ "sessionTypeLogical": "Module: 45 Minute",
+ "learningPath": "IT administrator’s guide to managing productivity in the cloud",
+ "level": "",
+ "products": [],
+ "format": "",
+ "topic": "",
+ "sessionTypeId": "3107",
+ "slideDeck": "",
+ "isMandatory": false,
+ "visibleToAnonymousUsers": true,
+ "visibleInSessionListing": true,
+ "canBeEvaluated": true,
+ "liveStream": "",
+ "onDemand": "",
+ "translatorLink": "",
+ "onDemandThumbnail": "",
+ "techCommunityDiscussionId": "907367",
+ "speakerIds": [
+  "707230"
+ ],
+ "speakerNames": [
+  "Andy Malone"
+ ],
+ "speakerCompanies": [
+  "Quality Training (Scotland) Ltd"
+ ],
+ "sessionSets": [
+  "Session Catalog 2019",
+  "Session Scheduler",
+  "My Schedule"
+ ],
+ "sessionLinks": [],
+ "marketingCampaign": [],
+ "overflowStatus": "",
+ "links": "",
+ "waitlistCapacity": 2147483647,
+ "waitlistCount": 0,
+ "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "techCommunityUrl": "",
+ "overflowRooms": [],
+ "childModules": [],
+ "siblingModules": [
+  {
+   "sessionId": 86526,
+   "title": "Addressing top management issues with users and groups",
+   "startDateTime": "2020-02-10T08:15:00+00:00",
+   "endDateTime": "2020-02-10T09:00:00+00:00",
+   "durationInMinutes": 45,
+   "speakerIds": [
+    "707230"
+   ],
+   "speakerNames": [
+    "Andy Malone"
+   ],
+   "speakerCompanies": [],
+   "description": "Efficient management of users, groups, and devices is core to ensuring your organization runs smoothly on Microsoft 365 services. Come learn tips and tricks on the best way to handle everyday challenges you face – from ensuring a department sticks to their license budget, making sure you’ve got access to those important emails when someone leaves, to setting up groups to enable modern teamwork.",
+   "location": "Sheikh Rashid Hall E"
+  }
+ ]
+}

@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 400,
- "attendeeCount": 40,
+ "capacity": 398,
+ "attendeeCount": 131,
  "sessionId": "86523",
  "sessionInstanceId": "86523",
  "sessionCode": "ADM10",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall E",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T06:45:00+00:00",
  "endDateTime": "2020-02-10T07:45:00+00:00",
  "durationInMinutes": 60,
@@ -39,7 +39,8 @@
  "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO1",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "907367",
  "speakerIds": [
@@ -62,7 +63,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
@@ -81,7 +82,8 @@
    ],
    "speakerCompanies": [],
    "description": "Efficient management of users, groups, and devices is core to ensuring your organization runs smoothly on Microsoft 365 services. Come learn tips and tricks on the best way to handle everyday challenges you face – from ensuring a department sticks to their license budget, making sure you’ve got access to those important emails when someone leaves, to setting up groups to enable modern teamwork.",
-   "location": "Sheikh Rashid Hall E"
+   "location": "Sheikh Rashid Hall E",
+   "canUserModifySchedule": true
   }
  ]
 }

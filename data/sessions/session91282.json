@@ -4,11 +4,11 @@
  "isCapacityControlled": false,
  "roomHasCapacity": true,
  "rsvpOpensAt": "2020-02-10T02:00:00+00:00",
- "hasRsvpOpened": false,
+ "hasRsvpOpened": true,
  "hasRsvpClosed": false,
  "waitlistHasCapacity": true,
- "capacity": 240,
- "attendeeCount": 32,
+ "capacity": 244,
+ "attendeeCount": 99,
  "sessionId": "91282",
  "sessionInstanceId": "91282",
  "sessionCode": "BRK20009",
@@ -20,7 +20,7 @@
  "registrationLink": "",
  "roomId": "",
  "location": "Sheikh Rashid Hall D",
- "buildingLocation": null,
+ "buildingLocation": "",
  "startDateTime": "2020-02-10T12:30:00+00:00",
  "endDateTime": "2020-02-10T13:15:00+00:00",
  "durationInMinutes": 45,
@@ -36,19 +36,23 @@
  "isMandatory": false,
  "visibleToAnonymousUsers": true,
  "visibleInSessionListing": true,
- "canBeEvaluated": false,
+ "canBeEvaluated": true,
  "liveStream": "",
  "onDemand": "",
- "translatorLink": "",
+ "downloadVideoLink": "",
+ "translatorLink": "https://aka.ms/IBO7",
  "onDemandThumbnail": "",
  "techCommunityDiscussionId": "",
  "speakerIds": [
-  "702559"
+  "702559",
+  "715291"
  ],
  "speakerNames": [
-  "Jim Moyle"
+  "Jim Moyle",
+  "Bradley Stewart"
  ],
  "speakerCompanies": [
+  "Microsoft",
   "Microsoft"
  ],
  "sessionSets": [
@@ -62,7 +66,7 @@
  "links": "",
  "waitlistCapacity": 2147483647,
  "waitlistCount": 0,
- "lastUpdate": "2020-01-31T03:30:14.801+00:00",
+ "lastUpdate": "2020-02-10T03:15:14.53+00:00",
  "techCommunityUrl": "",
  "overflowRooms": [],
  "childModules": [],
