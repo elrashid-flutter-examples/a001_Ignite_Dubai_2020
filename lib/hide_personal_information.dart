@@ -1,1 +1,1 @@
-bool hidePersonalInformation = true; //for store submtion screenshot
+bool hidePersonalInformation = false; //for store submtion screenshot
